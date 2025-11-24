@@ -39,3 +39,8 @@ next-env.d.ts
 /generated/prisma
 .env.development
 .env.production
+urlsAnalytics.js
+urlsAnalytics2.js
+urlsAnalytics3.js
+importador.js
+getArticleContent.js
