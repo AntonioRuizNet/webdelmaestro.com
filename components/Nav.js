@@ -1,8 +1,8 @@
 import Link from "next/link";
-import { useSession, signOut } from "next-auth/react";
+//import { useSession, signOut } from "next-auth/react";
 
 export default function Nav() {
-  const menu = [
+  /*const menu = [
     { name: "NEAE", href: "/" },
     { name: "INFANTIL", href: "/" },
     { name: "1º y 2º CURSO", href: "/" },
@@ -11,16 +11,18 @@ export default function Nav() {
     { name: "ED.ARTÍSTICA", href: "/" },
     { name: "RECURSOS", href: "/" },
     { name: "TABLAS DE MULTIPLICAR", href: "https://app.webdelmaestro.com/" },
-  ];
+  ];*/
   return (
     <nav>
-      <Link href="/">web del maestro</Link>
+      <Link href="/">Web del Maestro</Link>
       <>
-        {menu.map((link, indexLink) => (
+        {/*menu.map((link, indexLink) => (
           <Link style={indexLink === 0 ? { marginLeft: "auto" } : {}} key={indexLink} href={link.href}>
             {link.name}
           </Link>
-        ))}
+        ))*/}
+        <input type="text" className="searcher" placeholder="Busca manualidades o noticias" />
+        <button>BUSCAR</button>
       </>
     </nav>
   );

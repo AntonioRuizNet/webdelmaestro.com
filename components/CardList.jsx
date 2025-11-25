@@ -9,7 +9,8 @@ export default function CardList({
   column = "title",
   limit = 12,
   random = false,
-  exclude = [], // ← NUEVO
+  exclude = [],
+  gridColumns = 4, // ← número de columnas
 }) {
   const [posts, setPosts] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -28,8 +29,6 @@ export default function CardList({
         params.set("limit", String(limit));
         if (random) params.set("random", "1");
 
-        // 📌 Añadimos exclude como parámetros múltiples:
-        // /api/getPosts?exclude=educacion/&exclude=infantil/
         exclude.forEach((prefix) => {
           params.append("exclude", prefix);
         });
@@ -53,21 +52,18 @@ export default function CardList({
     load();
   }, [term, column, limit, random, exclude]);
 
-  if (loading) {
-    return <p>Cargando posts...</p>;
-  }
-
-  if (error) {
-    return <p>Error: {error}</p>;
-  }
-
-  if (!posts.length) {
-    return <p>No hay posts para mostrar.</p>;
-  }
+  if (loading) return <p>Cargando posts...</p>;
+  if (error) return <p>Error: {error}</p>;
+  if (!posts.length) return <p>No hay posts para mostrar.</p>;
 
   return (
     <div className={styles.wrapper}>
-      <div className={styles.grid}>
+      <div
+        className={styles.grid}
+        style={{
+          gridTemplateColumns: `repeat(${gridColumns}, minmax(0, 1fr))`,
+        }}
+      >
         {posts.map((post) => (
           <Card key={post.id} slug={post.slug} title={post.title} excerpt={post.excerpt || post.body} featured_image={post.featured_image} />
         ))}

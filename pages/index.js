@@ -6,7 +6,15 @@ export default function Home() {
     <div>
       <Nav />
       <main className="container">
-        <h1>Últimos posts</h1>
+        <h1>Publicaciones en tendencia</h1>
+        <CardList
+          term="navidad" // opcional
+          column="title" // "title" | "slug" | "body" | "excerpt" | "url"
+          limit={4}
+          random={true}
+          exclude={["educacion/"]}
+        />
+        <h1>Algunas publicaciones interesantes</h1>
         <CardList
           term="" // opcional
           column="title" // "title" | "slug" | "body" | "excerpt" | "url"
