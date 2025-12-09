@@ -1,29 +1,20 @@
+// components/Nav.jsx
 import Link from "next/link";
-//import { useSession, signOut } from "next-auth/react";
 
 export default function Nav() {
-  /*const menu = [
-    { name: "NEAE", href: "/" },
-    { name: "INFANTIL", href: "/" },
-    { name: "1º y 2º CURSO", href: "/" },
-    { name: "3º y 4º CURSO", href: "/" },
-    { name: "5º y 6º CURSO", href: "/" },
-    { name: "ED.ARTÍSTICA", href: "/" },
-    { name: "RECURSOS", href: "/" },
-    { name: "TABLAS DE MULTIPLICAR", href: "https://app.webdelmaestro.com/" },
-  ];*/
   return (
     <nav>
       <Link href="/">Web del Maestro</Link>
-      <>
-        {/*menu.map((link, indexLink) => (
-          <Link style={indexLink === 0 ? { marginLeft: "auto" } : {}} key={indexLink} href={link.href}>
-            {link.name}
-          </Link>
-        ))*/}
-        <input type="text" className="searcher" placeholder="Busca manualidades o noticias" />
-        <button>BUSCAR</button>
-      </>
+
+      <form action="/buscar" method="GET" style={{ marginLeft: "auto", display: "flex", gap: "0.5rem" }}>
+        <input
+          type="text"
+          name="q" // ← nombre que leeremos en la página /buscar
+          className="searcher"
+          placeholder="Busca manualidades o noticias"
+        />
+        <button type="submit">BUSCAR</button>
+      </form>
     </nav>
   );
 }
