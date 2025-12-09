@@ -16,7 +16,7 @@ export default function Home() {
         />
         <h1>Algunas publicaciones interesantes</h1>
         <CardList
-          term="" // opcional
+          term="*" // opcional
           column="title" // "title" | "slug" | "body" | "excerpt" | "url"
           limit={16}
           random={true}

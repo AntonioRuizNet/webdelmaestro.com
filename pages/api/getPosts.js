@@ -1,4 +1,3 @@
-// pages/api/getPosts.js
 import { searchPosts } from "@/lib/db";
 
 export default async function handler(req, res) {
@@ -7,7 +6,14 @@ export default async function handler(req, res) {
   }
 
   try {
-    const { term = "", column = "title", limit = "12", random = "0" } = req.query;
+    const { term: rawTerm = "", column = "title", limit = "12", random = "0" } = req.query;
+
+    // Normalizamos term
+    let term = "";
+    if (typeof rawTerm === "string") {
+      const t = rawTerm.trim();
+      term = t === "*" ? "" : t; // "*" => sin filtro real
+    }
 
     const max = Math.min(parseInt(limit, 10) || 12, 50);
     const randomBool = random === "1" || random === "true";
@@ -18,7 +24,7 @@ export default async function handler(req, res) {
     }
 
     const posts = await searchPosts({
-      term: term || "",
+      term,
       column,
       limit: max,
       random: randomBool,
@@ -27,7 +33,7 @@ export default async function handler(req, res) {
 
     return res.status(200).json({ posts });
   } catch (err) {
-    console.error("Error en /api/getPosts:", err);
+    console.error("Error en /api/getPosts:", err, req.query);
     return res.status(500).json({ error: "Error interno en getPosts" });
   }
 }
