@@ -59,6 +59,12 @@ a {
   width: 300px;
 }
 
+.entry-thumb img,
+.entry-content img {
+  width: 100%;
+  height: auto;
+}
+
 nav {
   max-width: 100vw;
   margin: 0;
@@ -88,7 +94,7 @@ form {
     margin-left: auto;
     border-radius: 15px;
     border: 0;
-    width: 400px;
+    width: 325px;
   }
   & button {
     margin-left: -90px;
@@ -161,4 +167,73 @@ iframe {
 
 .spacer {
   height: 1.5rem;
+}
+
+.container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* 🔻 Responsive para layout de artículo */
+@media (max-width: 1024px) {
+  .container-2col {
+    max-width: 100vw;
+    margin: 1rem auto;
+    padding: 0.75rem;
+    gap: 1.5rem;
+  }
+
+  .entry-thumb img,
+  .entry-content img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 900px) {
+  .container-2col {
+    flex-direction: column;
+  }
+
+  .container-post {
+    width: 100%;
+  }
+
+  .container-2col-trending {
+    width: 100%;
+  }
+
+  .entry-thumb img,
+  .entry-content img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 100vw;
+    margin: 1rem auto;
+    padding: 0.75rem;
+  }
+
+  .container h1 {
+    font-size: 1.6rem;
+  }
+
+  .container-post .container-post-header {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .container-post .container-post-header-image,
+  .container-post .container-post-header-info {
+    width: 100%;
+  }
+
+  .entry-thumb img,
+  .entry-content img {
+    width: 100%;
+    height: auto;
+  }
 }

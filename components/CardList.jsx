@@ -58,12 +58,7 @@ export default function CardList({
 
   return (
     <div className={styles.wrapper}>
-      <div
-        className={styles.grid}
-        style={{
-          gridTemplateColumns: `repeat(${gridColumns}, minmax(0, 1fr))`,
-        }}
-      >
+      <div className={`${styles.grid} ${styles[`cols-${gridColumns}`] || ""}`}>
         {posts.map((post) => (
           <Card key={post.id} slug={post.slug} title={post.title} excerpt={post.excerpt || post.body} featured_image={post.featured_image} />
         ))}
