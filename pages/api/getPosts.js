@@ -12,7 +12,7 @@ export default async function handler(req, res) {
     let term = "";
     if (typeof rawTerm === "string") {
       const t = rawTerm.trim();
-      term = t === "*" ? "" : t; // "*" => sin filtro real
+      term = t === "*" ? "a" : t; // "*" => sin filtro real
     }
 
     const max = Math.min(parseInt(limit, 10) || 12, 50);
