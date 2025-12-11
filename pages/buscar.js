@@ -3,8 +3,9 @@ import Head from "next/head";
 import Nav from "@/components/Nav";
 import CardList from "@/components/CardList";
 import { getSeasonalTerm } from "@/lib/functions";
+import { searchPosts } from "@/lib/db";
 
-export default function BuscarPage({ q }) {
+export default function BuscarPage({ q, results, trending }) {
   const term = (q || "").trim();
 
   const baseTitle = "Buscar en Web del Maestro";
@@ -38,16 +39,10 @@ export default function BuscarPage({ q }) {
           {term ? (
             <>
               <h1>Resultados para “{term}”</h1>
-              <CardList
-                term={term}
-                column="search" // buscaremos tanto en title como en excerpt
-                limit={24}
-                random={false}
-                exclude={["educacion/"]}
-                gridColumns={4}
-              />
+              <CardList posts={results} gridColumns={4} />
+
               <h1>Otras publicaciones en tendencia</h1>
-              <CardList term={getSeasonalTerm()} column="title" limit={8} random={true} exclude={["educacion/"]} />
+              <CardList posts={trending} gridColumns={4} />
             </>
           ) : (
             <>
@@ -63,7 +58,36 @@ export default function BuscarPage({ q }) {
 
 export async function getServerSideProps({ query }) {
   const q = typeof query.q === "string" ? query.q : "";
+  const term = q.trim();
+
+  let results = [];
+  let trending = [];
+
+  if (term) {
+    // resultados de búsqueda
+    results = await searchPosts({
+      term,
+      column: "search", // title + meta_description
+      limit: 24,
+      random: false,
+      exclude: ["educacion/"],
+    });
+
+    // bloque “en tendencia”
+    trending = await searchPosts({
+      term: getSeasonalTerm(),
+      column: "title",
+      limit: 8,
+      random: true,
+      exclude: ["educacion/"],
+    });
+  }
+
   return {
-    props: { q },
+    props: {
+      q,
+      results,
+      trending,
+    },
   };
 }

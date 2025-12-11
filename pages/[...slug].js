@@ -2,7 +2,7 @@
 import Head from "next/head";
 import { cleanHtml } from "@/lib/cleanHtml";
 import Nav from "@/components/Nav";
-import { getPostBySlug } from "@/lib/db";
+import { getPostBySlug, searchPosts } from "@/lib/db";
 import CardList from "@/components/CardList";
 import { getSeasonalTerm } from "@/lib/functions";
 
@@ -10,7 +10,7 @@ function serializeDate(value) {
   return value instanceof Date ? value.toISOString() : value || null;
 }
 
-export default function BlogPostPage({ post, canonicalUrl }) {
+export default function BlogPostPage({ post, canonicalUrl, trending }) {
   console.log("> BlogPostPage: ", post);
 
   if (!post) {
@@ -30,16 +30,11 @@ export default function BlogPostPage({ post, canonicalUrl }) {
   return (
     <>
       <Head>
-        {/* Título de la pestaña / SERP */}
         <title>{title} | Web del Maestro</title>
-
-        {/* Meta descripción para SEO */}
         <meta name="description" content={description} />
 
-        {/* Canonical para evitar contenido duplicado */}
         {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
 
-        {/* Open Graph básico para redes sociales */}
         <meta property="og:type" content="article" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
@@ -72,7 +67,7 @@ export default function BlogPostPage({ post, canonicalUrl }) {
 
         <div className="container-2col-trending">
           <h2>En tendencia</h2>
-          <CardList term={getSeasonalTerm()} column="title" limit={6} random={true} exclude={["educacion/"]} gridColumns={1} />
+          <CardList posts={trending} gridColumns={1} />
         </div>
       </div>
     </>
@@ -81,7 +76,6 @@ export default function BlogPostPage({ post, canonicalUrl }) {
 
 export async function getServerSideProps({ params }) {
   const { slug } = params;
-
   const fullSlug = Array.isArray(slug) ? slug.join("/") : slug;
 
   const post = await getPostBySlug(fullSlug);
@@ -98,13 +92,21 @@ export async function getServerSideProps({ params }) {
     modified_at: serializeDate(post.modified_at),
   };
 
-  // Construimos la URL canónica tal y como la ve Google
   const canonicalUrl = `https://webdelmaestro.com/${fullSlug.replace(/^\/+/, "")}`;
+
+  const trending = await searchPosts({
+    term: getSeasonalTerm(),
+    column: "title",
+    limit: 6,
+    random: true,
+    exclude: ["educacion/"],
+  });
 
   return {
     props: {
       post: safePost,
       canonicalUrl,
+      trending,
     },
   };
 }
