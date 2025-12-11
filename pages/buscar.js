@@ -47,7 +47,7 @@ export default function BuscarPage({ q }) {
                 gridColumns={4}
               />
               <h1>Otras publicaciones en tendencia</h1>
-              <CardList term={getSeasonalTerm()} column="title" limit={4} random={true} exclude={["educacion/"]} />
+              <CardList term={getSeasonalTerm()} column="title" limit={8} random={true} exclude={["educacion/"]} />
             </>
           ) : (
             <>
