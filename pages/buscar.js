@@ -2,6 +2,7 @@
 import Head from "next/head";
 import Nav from "@/components/Nav";
 import CardList from "@/components/CardList";
+import { getSeasonalTerm } from "@/lib/functions";
 
 export default function BuscarPage({ q }) {
   const term = (q || "").trim();
@@ -45,6 +46,8 @@ export default function BuscarPage({ q }) {
                 exclude={["educacion/"]}
                 gridColumns={4}
               />
+              <h1>Otras publicaciones en tendencia</h1>
+              <CardList term={getSeasonalTerm()} column="title" limit={4} random={true} exclude={["educacion/"]} />
             </>
           ) : (
             <>
