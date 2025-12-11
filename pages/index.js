@@ -2,6 +2,7 @@
 import Head from "next/head";
 import CardList from "@/components/CardList";
 import Nav from "@/components/Nav";
+import { getSeasonalTerm } from "@/lib/functions";
 
 export default function Home() {
   const title = "Web del Maestro – Manualidades, recursos y actividades para niños";
@@ -29,7 +30,7 @@ export default function Home() {
         <Nav />
         <main className="container">
           <h1>Publicaciones en tendencia</h1>
-          <CardList term="navidad" column="title" limit={4} random={true} exclude={["educacion/"]} />
+          <CardList term={getSeasonalTerm()} column="title" limit={4} random={true} exclude={["educacion/"]} />
           <h1>Algunas publicaciones interesantes</h1>
           <CardList term="*" column="title" limit={16} random={true} exclude={["educacion/"]} />
         </main>

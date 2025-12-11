@@ -4,6 +4,7 @@ import { cleanHtml } from "@/lib/cleanHtml";
 import Nav from "@/components/Nav";
 import { getPostBySlug } from "@/lib/db";
 import CardList from "@/components/CardList";
+import { getSeasonalTerm } from "@/lib/functions";
 
 function serializeDate(value) {
   return value instanceof Date ? value.toISOString() : value || null;
@@ -71,7 +72,7 @@ export default function BlogPostPage({ post, canonicalUrl }) {
 
         <div className="container-2col-trending">
           <h2>En tendencia</h2>
-          <CardList term="navidad" column="title" limit={6} random={true} exclude={["educacion/"]} gridColumns={1} />
+          <CardList term={getSeasonalTerm()} column="title" limit={6} random={true} exclude={["educacion/"]} gridColumns={1} />
         </div>
       </div>
     </>
