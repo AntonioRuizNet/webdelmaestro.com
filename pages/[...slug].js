@@ -1,10 +1,9 @@
 // pages/[...slug].js
 import Head from "next/head";
-import { cleanHtml } from "@/lib/cleanHtml";
 import Nav from "@/components/Nav";
-import { getPostBySlug, searchPosts, getAllPostsForSitemap } from "@/lib/db";
 import CardList from "@/components/CardList";
 import { getSeasonalTerm } from "@/lib/functions";
+import { cleanHtml } from "@/lib/cleanHtml";
 
 function serializeDate(value) {
   return value instanceof Date ? value.toISOString() : value || null;
@@ -30,9 +29,7 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
       <Head>
         <title>{title} | Web del Maestro</title>
         <meta name="description" content={description} />
-
         {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
-
         <meta property="og:type" content="article" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
@@ -48,7 +45,9 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
           <div className="container-post-header">
             <div
               className="container-post-header-image"
-              style={{ backgroundImage: `url(${post.featured_image})` }}
+              style={{
+                backgroundImage: post.featured_image ? `url(${post.featured_image})` : "none",
+              }}
               aria-label={post.title || ""}
               role="img"
             />
@@ -70,19 +69,18 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
   );
 }
 
-// ✅ Importante: no generamos todos los slugs (serían demasiados)
-// Generamos 0 o unos pocos y dejamos que el resto se creen "on demand".
 export async function getStaticPaths() {
-  return {
-    paths: [],
-    fallback: "blocking",
-  };
+  return { paths: [], fallback: "blocking" };
 }
 
-// ✅ ISR: se genera una vez y luego se revalida cada X segundos
 export async function getStaticProps({ params }) {
-  const { slug } = params;
-  const fullSlug = Array.isArray(slug) ? slug.join("/") : slug;
+  const slugParam = params?.slug;
+  if (!slugParam) return { notFound: true, revalidate: 60 };
+
+  const fullSlug = Array.isArray(slugParam) ? slugParam.join("/") : slugParam;
+
+  // ✅ IMPORTS SOLO EN SERVIDOR
+  const { getPostBySlug, searchPosts } = await import("@/lib/db");
 
   const post = await getPostBySlug(fullSlug);
 
@@ -90,9 +88,16 @@ export async function getStaticProps({ params }) {
     return { notFound: true, revalidate: 60 };
   }
 
+  let cleanedBody = post.body || "";
+  try {
+    cleanedBody = cleanHtml(post.body, post.excerpt);
+  } catch (e) {
+    cleanedBody = post.body || "";
+  }
+
   const safePost = {
     ...post,
-    body: cleanHtml(post.body, post.excerpt),
+    body: cleanedBody,
     created_at: serializeDate(post.created_at),
     published_at: serializeDate(post.published_at),
     modified_at: serializeDate(post.modified_at),
@@ -114,7 +119,6 @@ export async function getStaticProps({ params }) {
       canonicalUrl,
       trending,
     },
-    // 🔧 Ajustar esto: 6h suele ir muy bien
     revalidate: 6 * 60 * 60,
   };
 }
