@@ -2,7 +2,7 @@
 import Head from "next/head";
 import { cleanHtml } from "@/lib/cleanHtml";
 import Nav from "@/components/Nav";
-import { getPostBySlug, searchPosts } from "@/lib/db";
+import { getPostBySlug, searchPosts, getAllPostsForSitemap } from "@/lib/db";
 import CardList from "@/components/CardList";
 import { getSeasonalTerm } from "@/lib/functions";
 
@@ -11,8 +11,6 @@ function serializeDate(value) {
 }
 
 export default function BlogPostPage({ post, canonicalUrl, trending }) {
-  console.log("> BlogPostPage: ", post);
-
   if (!post) {
     return (
       <div>
@@ -50,9 +48,7 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
           <div className="container-post-header">
             <div
               className="container-post-header-image"
-              style={{
-                backgroundImage: `url(${post.featured_image})`,
-              }}
+              style={{ backgroundImage: `url(${post.featured_image})` }}
               aria-label={post.title || ""}
               role="img"
             />
@@ -62,7 +58,7 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
             </div>
           </div>
 
-          <div className="" dangerouslySetInnerHTML={{ __html: post.body || "" }} />
+          <div dangerouslySetInnerHTML={{ __html: post.body || "" }} />
         </article>
 
         <div className="container-2col-trending">
@@ -74,14 +70,24 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
   );
 }
 
-export async function getServerSideProps({ params }) {
+// ✅ Importante: no generamos todos los slugs (serían demasiados)
+// Generamos 0 o unos pocos y dejamos que el resto se creen "on demand".
+export async function getStaticPaths() {
+  return {
+    paths: [],
+    fallback: "blocking",
+  };
+}
+
+// ✅ ISR: se genera una vez y luego se revalida cada X segundos
+export async function getStaticProps({ params }) {
   const { slug } = params;
   const fullSlug = Array.isArray(slug) ? slug.join("/") : slug;
 
   const post = await getPostBySlug(fullSlug);
 
   if (!post) {
-    return { notFound: true };
+    return { notFound: true, revalidate: 60 };
   }
 
   const safePost = {
@@ -108,5 +114,7 @@ export async function getServerSideProps({ params }) {
       canonicalUrl,
       trending,
     },
+    // 🔧 Ajustar esto: 6h suele ir muy bien
+    revalidate: 6 * 60 * 60,
   };
 }
