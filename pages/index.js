@@ -53,7 +53,6 @@ export default function Home({ trending, interesting }) {
         <meta property="og:description" content={description} />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:site_name" content="Web del Maestro" />
-        <script async src="https://tags.refinery89.com/v2/webdelmaestrocom.js"></script>
       </Head>
 
       <div>
