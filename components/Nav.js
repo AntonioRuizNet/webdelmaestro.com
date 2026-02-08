@@ -11,23 +11,13 @@ export default function Nav() {
           </Link>
         </div>
 
-        {/* 
-          Cuando tengas secciones/categorías importantes con URL propia,
-          aquí podrás añadir una lista <ul> de enlaces internos.
-        */}
-        {/* 
         <ul className="nav-links">
           <li>
-            <Link href="/manualidades-para-ninos">Manualidades</Link>
-          </li>
-          <li>
-            <Link href="/navidad">Navidad</Link>
-          </li>
-          <li>
-            <Link href="/recursos-para-el-aula">Recursos para el aula</Link>
+            <Link href="https://tablasdemultiplicar.app/" target="_blank" rel="noopener noreferrer">
+              Tablas de multiplicar
+            </Link>
           </li>
         </ul>
-        */}
 
         <form
           action="/buscar"
