@@ -29,7 +29,12 @@ export default function RichTextEditor({ value = "", onChange, onUploadImage }) 
   const editor = useEditor({
     extensions: [
       StarterKit,
-      Link.configure({ openOnClick: false }),
+      Link.configure({
+        openOnClick: false,
+        HTMLAttributes: {
+          rel: null,
+        },
+      }),
       Image.configure({ inline: false }),
 
       // ✅ Tablas
