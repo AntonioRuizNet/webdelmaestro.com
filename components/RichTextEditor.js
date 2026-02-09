@@ -31,6 +31,8 @@ export default function RichTextEditor({ value = "", onChange, onUploadImage }) 
       StarterKit,
       Link.configure({
         openOnClick: false,
+        autolink: true,
+        linkOnPaste: true,
         HTMLAttributes: {
           rel: null,
         },
