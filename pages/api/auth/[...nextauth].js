@@ -3,7 +3,7 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import { prisma } from "@/lib/prisma";
 import bcrypt from "bcryptjs";
 
-export default NextAuth({
+export const authOptions = {
   session: { strategy: "jwt" },
   providers: [
     CredentialsProvider({
@@ -15,12 +15,16 @@ export default NextAuth({
       async authorize(credentials) {
         const { identifier, password } = credentials || {};
         if (!identifier || !password) return null;
+
         const user = await prisma.user.findFirst({
           where: { OR: [{ email: identifier }, { username: identifier }] }
         });
+
         if (!user) throw new Error("Invalid email/username or password");
+
         const valid = await bcrypt.compare(password, user.passwordHash);
         if (!valid) throw new Error("Invalid email/username or password");
+
         return { id: user.id, email: user.email, name: user.username, role: user.role };
       }
     })
@@ -46,4 +50,6 @@ export default NextAuth({
       return session;
     }
   }
-});
+};
+
+export default NextAuth(authOptions);

@@ -1,0 +1,125 @@
+/* components/RichTextEditor.module.css */
+
+.editor {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.toolbar {
+  display: flex !important;
+  gap: 0.35rem !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  padding: 0.5rem !important;
+  border-bottom: 1px solid #eef2f7 !important;
+  background: #fbfbfc !important;
+  min-height: 44px !important;
+  position: relative !important;
+  z-index: 2 !important;
+}
+
+.spacer {
+  flex: 1 1 auto !important;
+}
+
+/* Blindaje contra resets globales de button */
+.btn {
+  all: unset !important; /* anula resets raros */
+  box-sizing: border-box !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+
+  border: 1px solid #d1d5db !important;
+  background: #ffffff !important;
+  color: #111827 !important;
+
+  padding: 0.38rem 0.6rem !important;
+  border-radius: 10px !important;
+
+  cursor: pointer !important;
+  font-weight: 800 !important;
+  font-size: 0.92rem !important;
+  line-height: 1 !important;
+
+  user-select: none !important;
+  min-width: 34px !important;
+  min-height: 32px !important;
+
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease,
+    transform 0.05s ease !important;
+}
+
+.btn:hover {
+  background: #f9fafb !important;
+  border-color: #cbd5e1 !important;
+}
+
+.btn:active {
+  transform: translateY(1px) !important;
+}
+
+.btn:disabled {
+  opacity: 0.55 !important;
+  cursor: not-allowed !important;
+}
+
+.btnActive {
+  background: #111827 !important;
+  border-color: #111827 !important;
+  color: #ffffff !important;
+}
+
+.content {
+  padding: 0.75rem;
+}
+
+/* TipTap (ProseMirror) */
+.prose :global(.ProseMirror) {
+  min-height: 220px;
+  outline: none;
+  color: #111827;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.prose :global(.ProseMirror p) {
+  margin: 0.6rem 0;
+}
+
+.prose :global(.ProseMirror h1),
+.prose :global(.ProseMirror h2),
+.prose :global(.ProseMirror h3) {
+  margin: 0.9rem 0 0.35rem;
+  color: #111827;
+}
+
+.prose :global(.ProseMirror a) {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.prose :global(.ProseMirror blockquote) {
+  border-left: 3px solid #cbd5e1;
+  margin: 0.8rem 0;
+  padding-left: 0.85rem;
+  color: #334155;
+}
+
+.prose :global(.ProseMirror ul),
+.prose :global(.ProseMirror ol) {
+  padding-left: 1.2rem;
+  margin: 0.6rem 0;
+}
+
+.prose :global(.ProseMirror img) {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0.6rem 0;
+}

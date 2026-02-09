@@ -248,3 +248,9 @@ iframe {
     height: auto;
   }
 }
+
+
+.btn{display:inline-block;padding:.55rem .85rem;border:1px solid #ddd;border-radius:.6rem;background:white;text-decoration:none;cursor:pointer;}
+.btn:hover{background:#f7f7f7}
+.btn:disabled{opacity:.6;cursor:not-allowed}
+input,textarea,select{padding:.6rem .75rem;border:1px solid #ddd;border-radius:.6rem;font:inherit;}

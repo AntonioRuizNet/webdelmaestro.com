@@ -1,0 +1,288 @@
+/* pages/admin/posts/PostsAdmin.module.css */
+
+/* Layout base */
+.page {
+  display: block;
+}
+
+.pageTitleRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.h1 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #111827; /* slate-900 */
+}
+
+/* Card */
+.card {
+  background: #fff;
+  border: 1px solid #e5e7eb; /* gray-200 */
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.06);
+}
+
+.cardGrid {
+  display: grid;
+  gap: 0.9rem;
+}
+
+/* Forms */
+.form {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.field label {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.label {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.help {
+  font-size: 0.85rem;
+  color: #6b7280; /* gray-500 */
+}
+
+.input,
+.textarea,
+.select {
+  width: 100%;
+  border: 1px solid #d1d5db; /* gray-300 */
+  border-radius: 10px;
+  padding: 0.65rem 0.8rem;
+  font-size: 0.98rem;
+  color: #111827;
+  background: #fff;
+  outline: none;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 76px;
+}
+
+.input:focus,
+.textarea:focus,
+.select:focus {
+  border-color: #6366f1; /* indigo-500 */
+  box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.15);
+}
+
+.row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.checkboxRow {
+  display: inline-flex;
+  gap: 0.55rem;
+  align-items: center;
+  font-weight: 600;
+  color: #111827;
+}
+
+/* Errors */
+.error {
+  color: #b42318; /* red-ish */
+  font-weight: 700;
+  font-size: 0.92rem;
+}
+
+/* Buttons */
+.actions {
+  display: flex;
+  gap: 8rem;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: end;
+}
+
+.btn {
+  appearance: none;
+  border: 1px solid #d1d5db;
+  background: #fff;
+  color: #111827;
+  font-weight: 800;
+  font-size: 0.95rem;
+  padding: 0.62rem 0.9rem;
+  border-radius: 11px;
+  cursor: pointer;
+  transition:
+    transform 0.05s ease,
+    box-shadow 0.15s ease,
+    background 0.15s ease,
+    border-color 0.15s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn:hover {
+  background: #f9fafb; /* gray-50 */
+  border-color: #cbd5e1; /* slate-300 */
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btnPrimary {
+  background: #111827;
+  border-color: #111827;
+  color: #fff;
+}
+
+.btnPrimary:hover {
+  background: #0b1220;
+}
+
+.btnDanger {
+  border-color: #f1c0c0;
+  background: #fff5f5;
+  color: #7f1d1d;
+}
+
+.btnDanger:hover {
+  background: #ffecec;
+}
+
+.btnGhost {
+  background: transparent;
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* List */
+.list {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.postRow {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.postMain {
+  flex: 1;
+  min-width: 0;
+}
+
+.postTitleRow {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.postTitle {
+  font-size: 1.05rem;
+  font-weight: 900;
+  color: #111827;
+}
+
+.slugLine {
+  color: #475569; /* slate-600 */
+  margin-top: 0.25rem;
+  overflow-wrap: anywhere;
+}
+
+.excerpt {
+  margin-top: 0.35rem;
+  color: #111827;
+  line-height: 1.45;
+}
+
+.badge {
+  padding: 0.15rem 0.55rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: #111827;
+  background: #f9fafb;
+}
+
+/* Editor wrapper (colores dentro del editor) */
+.editorWrap {
+  border: 1px solid #d1d5db;
+  border-radius: 12px;
+  padding: 0.75rem;
+  background: #fff;
+}
+
+/* TipTap suele renderizar dentro de un div contenteditable.
+   Esto ayuda a que el texto se vea bien y los elementos tengan estilos base. */
+.editorWrap :global([contenteditable="true"]) {
+  min-height: 220px;
+  outline: none;
+  color: #111827;
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.editorWrap :global(p) {
+  margin: 0.6rem 0;
+}
+
+.editorWrap :global(h1),
+.editorWrap :global(h2),
+.editorWrap :global(h3) {
+  margin: 0.9rem 0 0.35rem;
+  color: #111827;
+}
+
+.editorWrap :global(a) {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.editorWrap :global(blockquote) {
+  border-left: 3px solid #cbd5e1;
+  margin: 0.8rem 0;
+  padding-left: 0.85rem;
+  color: #334155;
+}
+
+.editorWrap :global(ul),
+.editorWrap :global(ol) {
+  padding-left: 1.2rem;
+  margin: 0.6rem 0;
+}
+
+.editorWrap :global(img) {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0.6rem 0;
+}

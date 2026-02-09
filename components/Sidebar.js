@@ -4,6 +4,7 @@ import { useRouter } from "next/router";
 const items = [
   { href: "/admin/dashboard", label: "Dashboard" },
   { href: "/admin/reports", label: "Reports" },
+  { href: "/admin/posts", label: "Posts" },
   // Agrega aquí más entradas de menú cuando quieras
 ];
 
