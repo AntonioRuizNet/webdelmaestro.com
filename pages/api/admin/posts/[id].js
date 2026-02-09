@@ -1,13 +1,18 @@
 import { requireEditorRole } from "@/lib/auth";
 import { getPostByIdAdmin, updatePostAdmin, deletePostAdmin, slugExists } from "@/lib/db";
 
+function toInt(value) {
+  const v = Array.isArray(value) ? value[0] : value;
+  const n = Number.parseInt(String(v), 10);
+  return Number.isInteger(n) ? n : null;
+}
+
 export default async function handler(req, res) {
   const session = await requireEditorRole(req, res);
   if (!session) return;
 
-  const { id } = req.query;
-  const postId = Number(id);
-  if (!postId) return res.status(400).json({ error: "Invalid id" });
+  const postId = toInt(req.query.id);
+  if (postId === null) return res.status(400).json({ error: "Invalid id" });
 
   if (req.method === "GET") {
     try {
@@ -24,9 +29,15 @@ export default async function handler(req, res) {
     try {
       const data = req.body || {};
 
-      if (data.slug) {
-        const exists = await slugExists(data.slug, postId);
+      // Si viene slug, validarlo como string
+      if (data.slug != null) {
+        const s = String(data.slug).trim();
+        if (!s) return res.status(400).json({ error: "slug cannot be empty" });
+
+        const exists = await slugExists(s, postId); // postId YA ES int
         if (exists) return res.status(409).json({ error: "Slug already exists" });
+
+        data.slug = s;
       }
 
       const saved = await updatePostAdmin(postId, {
