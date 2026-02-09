@@ -31,6 +31,7 @@ export default function EditPost() {
   const [bodyHtml, setBodyHtml] = useState("");
   const [isPublished, setIsPublished] = useState(false);
   const [slugError, setSlugError] = useState("");
+  const [uploadingFeatured, setUploadingFeatured] = useState(false);
 
   const fetchPost = async () => {
     if (!id) return;
@@ -73,14 +74,28 @@ export default function EditPost() {
     const form = new FormData();
     form.append("file", file);
 
-    const res = await fetch("/api/admin/uploads/image", {
-      method: "POST",
-      body: form,
-    });
-
+    const res = await fetch("/api/admin/uploads/image", { method: "POST", body: form });
     const data = await res.json().catch(() => ({}));
     if (!res.ok) throw new Error(data?.error || "Upload failed");
     return data.url;
+  };
+
+  const onFeaturedFileChange = async (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    setUploadingFeatured(true);
+    try {
+      const url = await uploadImage(file);
+      setFeaturedImage(url);
+      // guardamos inmediatamente solo la imagen destacada (sin tocar el resto)
+      await onSave({ featuredImage: url });
+    } catch {
+      alert("No se pudo subir la imagen destacada.");
+    } finally {
+      setUploadingFeatured(false);
+      e.target.value = "";
+    }
   };
 
   const onSave = async (extra = {}) => {
@@ -127,7 +142,6 @@ export default function EditPost() {
 
   return (
     <ProtectedLayout>
-      {/* Header */}
       <div className={styles.pageTitleRow}>
         <h1 className={styles.h1}>Editar artículo</h1>
 
@@ -136,7 +150,7 @@ export default function EditPost() {
             className={`${styles.btn} ${styles.btnPrimary}`}
             type="button"
             onClick={() => onSave()}
-            disabled={saving || !!slugError}
+            disabled={saving || uploadingFeatured || !!slugError}
           >
             {saving ? "Guardando…" : "Guardar"}
           </button>
@@ -145,7 +159,7 @@ export default function EditPost() {
             className={styles.btn}
             type="button"
             onClick={() => onSave({ isPublished: !isPublished })}
-            disabled={saving || !!slugError}
+            disabled={saving || uploadingFeatured || !!slugError}
           >
             {isPublished ? "Despublicar" : "Publicar"}
           </button>
@@ -154,13 +168,12 @@ export default function EditPost() {
             Ver
           </button>
 
-          <button className={styles.btn} type="button" onClick={() => router.push("/admin/posts")}>
+          <button className={styles.btn} type="button" onClick={() => router.push("/admin/posts")} disabled={uploadingFeatured}>
             Volver
           </button>
         </div>
       </div>
 
-      {/* Form */}
       <div className={`${styles.card} ${styles.cardGrid}`} style={{ marginTop: "1rem" }}>
         <label className={styles.field}>
           <div className={styles.label}>Título</div>
@@ -192,10 +205,43 @@ export default function EditPost() {
           <textarea value={excerpt} onChange={(e) => setExcerpt(e.target.value)} rows={3} className={styles.textarea} />
         </label>
 
-        <label className={styles.field}>
-          <div className={styles.label}>Imagen destacada (URL, opcional)</div>
-          <input value={featuredImage} onChange={(e) => setFeaturedImage(e.target.value)} className={styles.input} />
-        </label>
+        {/* Imagen destacada por subida */}
+        <div className={styles.field}>
+          <div className={styles.label}>Imagen destacada (opcional)</div>
+
+          <div className={styles.row}>
+            <input type="file" accept="image/*" onChange={onFeaturedFileChange} disabled={uploadingFeatured} />
+            {featuredImage ? (
+              <button
+                type="button"
+                className={styles.btn}
+                onClick={() => {
+                  setFeaturedImage("");
+                  onSave({ featuredImage: null });
+                }}
+                disabled={uploadingFeatured || saving}
+              >
+                Quitar
+              </button>
+            ) : null}
+          </div>
+
+          {uploadingFeatured ? <div className={styles.help}>Subiendo imagen…</div> : null}
+
+          {featuredImage ? (
+            <>
+              <div className={styles.help} style={{ overflowWrap: "anywhere" }}>
+                URL: <code>{featuredImage}</code>
+              </div>
+              <div style={{ marginTop: ".5rem" }}>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={featuredImage} alt="Imagen destacada" style={{ maxWidth: "100%", borderRadius: 12 }} />
+              </div>
+            </>
+          ) : (
+            <div className={styles.help}>Sube un archivo y se guardará como URL automáticamente.</div>
+          )}
+        </div>
 
         <label className={styles.field}>
           <div className={styles.label}>SEO Title (opcional)</div>

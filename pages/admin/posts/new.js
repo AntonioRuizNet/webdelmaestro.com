@@ -24,9 +24,11 @@ export default function NewPost() {
   const [metaDescription, setMetaDescription] = useState("");
   const [featuredImage, setFeaturedImage] = useState("");
   const [bodyHtml, setBodyHtml] = useState("");
-  const [isPublished, setIsPublished] = useState(false);
+  const [isPublished, setIsPublished] = useState(true);
+
   const [saving, setSaving] = useState(false);
   const [slugError, setSlugError] = useState("");
+  const [uploadingFeatured, setUploadingFeatured] = useState(false);
 
   const checkSlug = async (s) => {
     if (!s) return;
@@ -41,14 +43,29 @@ export default function NewPost() {
 
     const res = await fetch("/api/admin/uploads/image", { method: "POST", body: form });
     const data = await res.json().catch(() => ({}));
-
     if (!res.ok) throw new Error(data?.error || "Upload failed");
-    return data.url;
+    return data.url; // en prod: /api/uploads/...
+  };
+
+  const onFeaturedFileChange = async (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    setUploadingFeatured(true);
+    try {
+      const url = await uploadImage(file);
+      setFeaturedImage(url);
+    } catch {
+      alert("No se pudo subir la imagen destacada.");
+    } finally {
+      setUploadingFeatured(false);
+      // permitir re-seleccionar el mismo archivo
+      e.target.value = "";
+    }
   };
 
   const onSubmit = async (e) => {
     e.preventDefault();
-
     if (slugError) return;
 
     setSaving(true);
@@ -121,15 +138,37 @@ export default function NewPost() {
           />
         </label>
 
-        <label className={styles.field}>
-          <div className={styles.label}>Imagen destacada (URL, opcional)</div>
-          <input
-            value={featuredImage}
-            onChange={(e) => setFeaturedImage(e.target.value)}
-            className={styles.input}
-            placeholder="https://..."
-          />
-        </label>
+        {/* Imagen destacada por subida */}
+        <div className={styles.field}>
+          <div className={styles.label}>Imagen destacada (opcional)</div>
+
+          <div className={styles.row}>
+            <input type="file" accept="image/*" onChange={onFeaturedFileChange} disabled={uploadingFeatured} />
+            {featuredImage ? (
+              <button type="button" className={styles.btn} onClick={() => setFeaturedImage("")} disabled={uploadingFeatured}>
+                Quitar
+              </button>
+            ) : null}
+          </div>
+
+          {uploadingFeatured ? <div className={styles.help}>Subiendo imagen…</div> : null}
+
+          {featuredImage ? (
+            <div className={styles.help} style={{ overflowWrap: "anywhere" }}>
+              URL: <code>{featuredImage}</code>
+            </div>
+          ) : (
+            <div className={styles.help}>Sube un archivo y se guardará como URL automáticamente.</div>
+          )}
+
+          {featuredImage ? (
+            <div style={{ marginTop: ".5rem" }}>
+              {/* preview */}
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={featuredImage} alt="Imagen destacada" style={{ maxWidth: "100%", borderRadius: 12 }} />
+            </div>
+          ) : null}
+        </div>
 
         <label className={styles.field}>
           <div className={styles.label}>SEO Title (opcional)</div>
@@ -166,11 +205,15 @@ export default function NewPost() {
         </div>
 
         <div className={styles.actions}>
-          <button className={`${styles.btn} ${styles.btnPrimary}`} type="submit" disabled={saving || !!slugError}>
+          <button
+            className={`${styles.btn} ${styles.btnPrimary}`}
+            type="submit"
+            disabled={saving || uploadingFeatured || !!slugError}
+          >
             {saving ? "Guardando…" : "Guardar"}
           </button>
 
-          <button className={styles.btn} type="button" onClick={() => router.push("/admin/posts")}>
+          <button className={styles.btn} type="button" onClick={() => router.push("/admin/posts")} disabled={uploadingFeatured}>
             Cancelar
           </button>
         </div>

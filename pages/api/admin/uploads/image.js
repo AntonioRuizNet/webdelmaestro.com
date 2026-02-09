@@ -17,6 +17,16 @@ function ensureDir(p) {
   if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true });
 }
 
+async function moveFile(src, dest) {
+  try {
+    await fs.promises.rename(src, dest);
+  } catch (e) {
+    // fallback si rename falla (p.ej. cross-device)
+    await fs.promises.copyFile(src, dest);
+    await fs.promises.unlink(src).catch(() => {});
+  }
+}
+
 export default async function handler(req, res) {
   const session = await requireEditorRole(req, res);
   if (!session) return;
@@ -31,6 +41,8 @@ export default async function handler(req, res) {
   });
 
   form.parse(req, async (err, fields, files) => {
+    let tmpPath = null;
+
     try {
       if (err) {
         return res.status(400).json({ error: "Upload error", details: err.message });
@@ -45,27 +57,44 @@ export default async function handler(req, res) {
         return res.status(415).json({ error: "Unsupported file type" });
       }
 
-      const ext = mime === "image/jpeg" ? ".jpg"
-        : mime === "image/png" ? ".png"
-        : mime === "image/webp" ? ".webp"
-        : mime === "image/gif" ? ".gif"
-        : "";
+      const ext =
+        mime === "image/jpeg"
+          ? ".jpg"
+          : mime === "image/png"
+            ? ".png"
+            : mime === "image/webp"
+              ? ".webp"
+              : mime === "image/gif"
+                ? ".gif"
+                : "";
 
       const now = new Date();
       const subdir = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, "0")}`;
-      const publicBase = path.join(process.cwd(), "public", "uploads", subdir);
-      ensureDir(publicBase);
+
+      // Guardamos dentro de /public/uploads/yyyy/mm
+      const uploadDir = path.join(process.cwd(), "public", "uploads", subdir);
+      ensureDir(uploadDir);
 
       const name = crypto.randomBytes(16).toString("hex") + ext;
-      const dest = path.join(publicBase, name);
+      const dest = path.join(uploadDir, name);
 
-      const tmpPath = f.filepath;
-      await fs.promises.copyFile(tmpPath, dest);
+      tmpPath = f.filepath;
+      await moveFile(tmpPath, dest);
 
-      const url = `/uploads/${subdir}/${name}`;
+      // ✅ IMPORTANTE: en tu producción /uploads/* devuelve 404, así que servimos por API.
+      const url = `/api/uploads/${subdir}/${name}`;
+
       return res.status(200).json({ ok: true, url });
     } catch (e) {
       console.error("POST /api/admin/uploads/image error:", e);
+
+      // Limpieza del temporal si algo falla
+      if (tmpPath) {
+        try {
+          await fs.promises.unlink(tmpPath);
+        } catch (_) {}
+      }
+
       return res.status(500).json({ error: "Internal error" });
     }
   });
