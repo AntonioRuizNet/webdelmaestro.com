@@ -152,13 +152,13 @@ button {
 }
 
 article a {
-  border: 1px var(--color-primary) solid;
+  /* border: 1px var(--color-primary) solid;
   padding: 3px 15px;
   border-left: 5px var(--color-primary) solid;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
   display: block;
-  width: fit-content;
+  width: fit-content;*/
 }
 
 article a:hover {
@@ -168,6 +168,18 @@ article a:hover {
 article table img {
   width: 100%;
   height: auto;
+}
+
+article table {
+  width: 100%;
+  border-collapse: collapse; /* 🔴 CLAVE */
+  border-spacing: 0; /* 🔴 por si acaso */
+}
+
+article table td,
+article table th {
+  border: 1px solid #e6e6e6;
+  padding: 0.5rem 0.6rem;
 }
 
 iframe {
@@ -249,8 +261,27 @@ iframe {
   }
 }
 
-
-.btn{display:inline-block;padding:.55rem .85rem;border:1px solid #ddd;border-radius:.6rem;background:white;text-decoration:none;cursor:pointer;}
-.btn:hover{background:#f7f7f7}
-.btn:disabled{opacity:.6;cursor:not-allowed}
-input,textarea,select{padding:.6rem .75rem;border:1px solid #ddd;border-radius:.6rem;font:inherit;}
+.btn {
+  display: inline-block;
+  padding: 0.55rem 0.85rem;
+  border: 1px solid #ddd;
+  border-radius: 0.6rem;
+  background: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #f7f7f7;
+}
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+input,
+textarea,
+select {
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 0.6rem;
+  font: inherit;
+}
