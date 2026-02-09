@@ -3,6 +3,12 @@ import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
 import Link from "@tiptap/extension-link";
 import Image from "@tiptap/extension-image";
+
+import Table from "@tiptap/extension-table";
+import TableRow from "@tiptap/extension-table-row";
+import TableHeader from "@tiptap/extension-table-header";
+import TableCell from "@tiptap/extension-table-cell";
+
 import styles from "./RichTextEditor.module.css";
 
 function ToolbarButton({ onClick, active, disabled, children, title }) {
@@ -21,13 +27,23 @@ function ToolbarButton({ onClick, active, disabled, children, title }) {
 
 export default function RichTextEditor({ value = "", onChange, onUploadImage }) {
   const editor = useEditor({
-    extensions: [StarterKit, Link.configure({ openOnClick: false }), Image.configure({ inline: false })],
+    extensions: [
+      StarterKit,
+      Link.configure({ openOnClick: false }),
+      Image.configure({ inline: false }),
+
+      // ✅ Tablas
+      Table.configure({
+        resizable: true,
+      }),
+      TableRow,
+      TableHeader,
+      TableCell,
+    ],
     content: value || "",
     editorProps: {
       attributes: {
         class: "rte-prosemirror",
-        // Si quieres placeholder (requiere extension Placeholder para ser real)
-        // "data-placeholder": "Escribe aquí…",
       },
     },
     onUpdate: ({ editor }) => {
@@ -82,6 +98,13 @@ export default function RichTextEditor({ value = "", onChange, onUploadImage }) 
     input.click();
   };
 
+  const insertTable = () => {
+    // tabla 3x3 con header
+    editor.chain().focus().insertTable({ rows: 3, cols: 3, withHeaderRow: true }).run();
+  };
+
+  const isInTable = editor.isActive("table");
+
   return (
     <div className={styles.editor}>
       <div className={styles.toolbar}>
@@ -119,6 +142,40 @@ export default function RichTextEditor({ value = "", onChange, onUploadImage }) 
 
         <ToolbarButton title="Imagen" onClick={addImage}>
           Img
+        </ToolbarButton>
+
+        {/* ✅ Tablas */}
+        <ToolbarButton title="Insertar tabla" onClick={insertTable} active={false}>
+          Table
+        </ToolbarButton>
+
+        <ToolbarButton title="Añadir fila" onClick={() => editor.chain().focus().addRowAfter().run()} disabled={!isInTable}>
+          +Row
+        </ToolbarButton>
+
+        <ToolbarButton title="Quitar fila" onClick={() => editor.chain().focus().deleteRow().run()} disabled={!isInTable}>
+          -Row
+        </ToolbarButton>
+
+        <ToolbarButton title="Añadir columna" onClick={() => editor.chain().focus().addColumnAfter().run()} disabled={!isInTable}>
+          +Col
+        </ToolbarButton>
+
+        <ToolbarButton title="Quitar columna" onClick={() => editor.chain().focus().deleteColumn().run()} disabled={!isInTable}>
+          -Col
+        </ToolbarButton>
+
+        <ToolbarButton
+          title="Header on/off"
+          onClick={() => editor.chain().focus().toggleHeaderRow().run()}
+          disabled={!isInTable}
+          active={editor.isActive("tableHeader")}
+        >
+          Th
+        </ToolbarButton>
+
+        <ToolbarButton title="Borrar tabla" onClick={() => editor.chain().focus().deleteTable().run()} disabled={!isInTable}>
+          DelTbl
         </ToolbarButton>
 
         <div className={styles.spacer} />

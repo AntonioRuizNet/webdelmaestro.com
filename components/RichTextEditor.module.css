@@ -123,3 +123,45 @@
   display: block;
   margin: 0.6rem 0;
 }
+
+/* --- Tables (TipTap) --- */
+.prose :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.9rem 0;
+  table-layout: fixed;
+}
+
+.prose :global(th),
+.prose :global(td) {
+  border: 1px solid #111;
+  padding: 0.5rem 0.6rem;
+  vertical-align: top;
+  word-break: break-word;
+}
+
+.prose :global(th) {
+  font-weight: 800;
+  background: #f9fafb;
+}
+
+/* Resizing handle (si resizable: true) */
+.prose :global(.column-resize-handle) {
+  position: absolute;
+  right: -2px;
+  top: 0;
+  bottom: -2px;
+  width: 4px;
+  background: rgba(17, 24, 39, 0.2);
+  pointer-events: none;
+}
+
+.prose :global(.tableWrapper) {
+  overflow-x: auto;
+}
+
+/* Celda seleccionada (TipTap) */
+.prose :global(.selectedCell) {
+  outline: 2px solid rgba(99, 102, 241, 0.6);
+  outline-offset: -2px;
+}
