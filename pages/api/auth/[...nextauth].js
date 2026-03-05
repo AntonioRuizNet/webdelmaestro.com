@@ -20,10 +20,10 @@ export const authOptions = {
           where: { OR: [{ email: identifier }, { username: identifier }] },
         });
 
-        if (!user) throw new Error("Invalid email/username or password");
+        if (!user) throw new Error("Invalid email");
 
         const valid = await bcrypt.compare(password, user.passwordHash);
-        if (!valid) throw new Error("Invalid email/username or password");
+        if (!valid) throw new Error("Invalid password password");
 
         return { id: user.id, email: user.email, name: user.username, role: user.role };
       },
