@@ -22,9 +22,7 @@ export const authOptions = {
 
         if (!user) throw new Error("Invalid email/username or password");
 
-        //const valid = await bcrypt.compare(password, user.passwordHash);
-        const hash = user.passwordHash || user.password;
-        const valid = hash ? await bcrypt.compare(password, hash) : false;
+        const valid = await bcrypt.compare(password, user.passwordHash);
         if (!valid) throw new Error("Invalid email/username or password");
 
         return { id: user.id, email: user.email, name: user.username, role: user.role };
