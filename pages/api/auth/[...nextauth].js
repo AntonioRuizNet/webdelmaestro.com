@@ -10,27 +10,29 @@ export const authOptions = {
       name: "Credentials",
       credentials: {
         identifier: { label: "Email or Username", type: "text" },
-        password: { label: "Password", type: "password" }
+        password: { label: "Password", type: "password" },
       },
       async authorize(credentials) {
         const { identifier, password } = credentials || {};
         if (!identifier || !password) return null;
 
         const user = await prisma.user.findFirst({
-          where: { OR: [{ email: identifier }, { username: identifier }] }
+          where: { OR: [{ email: identifier }, { username: identifier }] },
         });
 
         if (!user) throw new Error("Invalid email/username or password");
 
-        const valid = await bcrypt.compare(password, user.passwordHash);
+        //const valid = await bcrypt.compare(password, user.passwordHash);
+        const hash = user.passwordHash || user.password;
+        const valid = hash ? await bcrypt.compare(password, hash) : false;
         if (!valid) throw new Error("Invalid email/username or password");
 
         return { id: user.id, email: user.email, name: user.username, role: user.role };
-      }
-    })
+      },
+    }),
   ],
   pages: {
-    signIn: "/login"
+    signIn: "/login",
   },
   callbacks: {
     async jwt({ token, user }) {
@@ -48,8 +50,8 @@ export const authOptions = {
         session.user.name = token.name;
       }
       return session;
-    }
-  }
+    },
+  },
 };
 
 export default NextAuth(authOptions);
