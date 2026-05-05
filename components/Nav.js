@@ -16,7 +16,7 @@ export default function Nav() {
           <ul className="nav-links">
             <li>
               <Link href="https://tablasdemultiplicar.app/" target="_blank" rel="noopener noreferrer">
-                Tablas de multiplicar
+                Tablas de multiplicar <sup className="appBadge">App</sup>
               </Link>
             </li>
           </ul>
