@@ -1,0 +1,10 @@
+.wrapper { display: grid; gap: 1rem; }
+.wrapper h3, .wrapper p { margin: 0; }
+.clue { color: #555; }
+.mask { display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 2rem; font-weight: 800; letter-spacing: 0.08em; }
+.mask span { min-width: 2rem; text-align: center; padding: 0.4rem 0.25rem; border-bottom: 3px solid var(--color-primary); }
+.field { display: grid; gap: 0.5rem; max-width: 360px; font-weight: 700; }
+.field input { padding: 0.75rem; border: 1px solid #d9d9d9; border-radius: var(--border-radius); font: inherit; }
+.correct { color: #247a43; font-weight: 700; }
+.wrong { color: #b3261e; font-weight: 700; }
+.button { justify-self: start; padding: 0.75rem 1rem; border-radius: 999px; background: var(--color-primary); color: #fff; font-weight: 700; }

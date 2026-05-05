@@ -1,0 +1,52 @@
+.grid {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) 1fr;
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.panel {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid #e5e5e5;
+  border-radius: var(--border-radius);
+  background: #f9f9f9;
+}
+
+.panel h3 {
+  margin: 0;
+}
+
+.field {
+  display: grid;
+  gap: 0.45rem;
+  font-weight: 700;
+}
+
+.field select {
+  width: 100%;
+  background: #ffffff;
+}
+
+.button {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 999px;
+  background: var(--color-primary);
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.note {
+  margin: 0;
+  color: #666666;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

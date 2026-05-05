@@ -24,6 +24,7 @@
     "bcryptjs": "2.4.3",
     "formidable": "^3.5.0",
     "jsdom": "26.1.0",
+    "jspdf": "^4.2.1",
     "next": "14.2.5",
     "next-auth": "4.24.7",
     "nodemailer": "6.9.13",

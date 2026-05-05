@@ -1,41 +1,45 @@
 // components/Nav.jsx
 import Link from "next/link";
+import Generadores from "@/components/Generadores/Generadores";
 
 export default function Nav() {
   return (
-    <header>
-      <nav className="main-nav" aria-label="Navegación principal">
-        <div className="nav-left">
-          <Link href="/" className="nav-logo">
-            Web del Maestro
-          </Link>
-        </div>
-
-        <ul className="nav-links">
-          <li>
-            <Link href="https://tablasdemultiplicar.app/" target="_blank" rel="noopener noreferrer">
-              Tablas de multiplicar
+    <>
+      <header>
+        <nav className="main-nav" aria-label="Navegación principal">
+          <div className="nav-left">
+            <Link href="/" className="nav-logo">
+              Web del Maestro
             </Link>
-          </li>
-        </ul>
+          </div>
 
-        <form
-          action="/buscar"
-          method="GET"
-          role="search"
-          aria-label="Buscar en Web del Maestro"
-          style={{ marginLeft: "auto", display: "flex", gap: "0.5rem" }}
-        >
-          <input
-            type="text"
-            name="q"
-            className="searcher"
-            placeholder="Busca manualidades o noticias"
-            aria-label="Escribe aquí para buscar manualidades o noticias"
-          />
-          <button type="submit">BUSCAR</button>
-        </form>
-      </nav>
-    </header>
+          <ul className="nav-links">
+            <li>
+              <Link href="https://tablasdemultiplicar.app/" target="_blank" rel="noopener noreferrer">
+                Tablas de multiplicar
+              </Link>
+            </li>
+          </ul>
+
+          <form
+            action="/buscar"
+            method="GET"
+            role="search"
+            aria-label="Buscar en Web del Maestro"
+            style={{ marginLeft: "auto", display: "flex", gap: "0.5rem" }}
+          >
+            <input
+              type="text"
+              name="q"
+              className="searcher"
+              placeholder="Busca manualidades o noticias"
+              aria-label="Escribe aquí para buscar manualidades o noticias"
+            />
+            <button type="submit">BUSCAR</button>
+          </form>
+        </nav>
+      </header>
+      <Generadores />
+    </>
   );
 }
