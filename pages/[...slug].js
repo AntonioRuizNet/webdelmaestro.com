@@ -3,7 +3,6 @@ import Head from "next/head";
 import Nav from "@/components/Nav";
 import CardList from "@/components/CardList";
 import { getSeasonalTerm } from "@/lib/functions";
-import { cleanHtml } from "@/lib/cleanHtml";
 
 function serializeDate(value) {
   return value instanceof Date ? value.toISOString() : value || null;
@@ -42,7 +41,7 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
 
       <div className="container-2col">
         <article className="container-post">
-          <div className="container-post-header">
+          {/*<div className="container-post-header">
             <div
               className="container-post-header-image"
               style={{
@@ -51,13 +50,14 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
               aria-label={post.title || ""}
               role="img"
             />
+
             <div className="container-post-header-info">
               <h1>{post.title}</h1>
               <div>{post.excerpt}</div>
             </div>
-          </div>
+          </div>*/}
 
-          <div dangerouslySetInnerHTML={{ __html: post.body || "" }} />
+          <div className="post-content" dangerouslySetInnerHTML={{ __html: post.body || "" }} />
         </article>
 
         <div className="container-2col-trending">
@@ -79,8 +79,9 @@ export async function getStaticProps({ params }) {
 
   const fullSlug = Array.isArray(slugParam) ? slugParam.join("/") : slugParam;
 
-  // ✅ IMPORTS SOLO EN SERVIDOR
+  // Imports solo en servidor
   const { getPostBySlug, searchPosts } = await import("@/lib/db");
+  const { cleanHtml } = await import("@/lib/cleanHtml");
 
   const post = await getPostBySlug(fullSlug);
 
@@ -89,11 +90,14 @@ export async function getStaticProps({ params }) {
   }
 
   let cleanedBody = post.body || "";
+
   try {
+    console.log("BODY ORIGINAL:", post.body);
     cleanedBody = cleanHtml(post.body, post.excerpt);
   } catch (e) {
     cleanedBody = post.body || "";
   }
+  console.log("BODY LIMPIO:", cleanedBody);
 
   const safePost = {
     ...post,
