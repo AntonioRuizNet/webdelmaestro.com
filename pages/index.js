@@ -53,6 +53,7 @@ export default function Home({ trending, interesting }) {
         <meta property="og:description" content={description} />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:site_name" content="Web del Maestro" />
+        <meta name="google-adsense-account" content="ca-pub-0494029669278178"></meta>
       </Head>
 
       <div>
