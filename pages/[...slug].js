@@ -35,7 +35,9 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
         {post.featured_image && <meta property="og:image" content={post.featured_image} />}
         {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
         <meta property="og:site_name" content="Web del Maestro" />
+        <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
       </Head>
+      <amp-auto-ads type="adsense" data-ad-client="ca-pub-0494029669278178"></amp-auto-ads>
 
       <Nav />
 
