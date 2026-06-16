@@ -36,6 +36,11 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
         {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
         <meta property="og:site_name" content="Web del Maestro" />
         <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0494029669278178"
+          crossorigin="anonymous"
+        ></script>
       </Head>
       <amp-auto-ads type="adsense" data-ad-client="ca-pub-0494029669278178"></amp-auto-ads>
 

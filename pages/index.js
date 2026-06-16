@@ -55,6 +55,11 @@ export default function Home({ trending, interesting }) {
         <meta property="og:site_name" content="Web del Maestro" />
         <meta name="google-adsense-account" content="ca-pub-0494029669278178"></meta>
         <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0494029669278178"
+          crossorigin="anonymous"
+        ></script>
       </Head>
       <amp-auto-ads type="adsense" data-ad-client="ca-pub-0494029669278178"></amp-auto-ads>
 
