@@ -1,0 +1,153 @@
+.article {
+  width: 100%;
+}
+
+.header {
+  margin-bottom: 28px;
+}
+
+.topic {
+  margin: 0 0 8px;
+  color: #46a28d;
+  font-weight: 700;
+}
+
+.excerpt {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.featuredImage {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin-top: 18px;
+}
+
+.content p,
+.content li {
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+.worksheets {
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 1px solid #dfdfdf;
+}
+
+.worksheetGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.worksheetCard {
+  border: 1px solid #dfdfdf;
+  border-radius: 14px;
+  padding: 18px;
+  background: #fff;
+}
+
+.worksheetCard h3 {
+  margin-top: 0;
+}
+
+.worksheetCard button {
+  width: 100%;
+  border: 0;
+  border-radius: 999px;
+  padding: 11px 16px;
+  background: #46a28d;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.worksheetCard button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.worksheetPreview {
+  overflow: hidden;
+  margin-bottom: 16px;
+  border: 1px solid #dfdfdf;
+  border-radius: 12px;
+  background: #f9f9f9;
+}
+
+.previewToolbar {
+  display: flex;
+  gap: 5px;
+  padding: 8px 10px;
+  border-bottom: 1px solid #dfdfdf;
+  background: #fff;
+}
+
+.previewToolbar span {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #dfdfdf;
+}
+
+.previewPage {
+  min-height: 190px;
+  margin: 12px;
+  padding: 14px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 8px 18px rgba(30, 30, 30, 0.08);
+}
+
+.previewLabel {
+  margin: 0 0 8px;
+  color: #46a28d;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.previewPage h4 {
+  margin: 0 0 8px;
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+
+.previewDescription {
+  margin: 0 0 12px;
+  color: #555;
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+
+.previewLines {
+  display: grid;
+  gap: 7px;
+}
+
+.previewLine {
+  display: grid;
+  grid-template-columns: 22px 1fr;
+  gap: 8px;
+  align-items: start;
+  color: #333;
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.previewNumber {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #f9f9f9;
+  color: #46a28d;
+  font-size: 0.7rem;
+  font-weight: 800;
+}

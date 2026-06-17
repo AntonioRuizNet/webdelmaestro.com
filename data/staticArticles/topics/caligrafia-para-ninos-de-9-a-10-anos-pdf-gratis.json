@@ -1,0 +1,136 @@
+{
+  "topic": {
+    "slug": "caligrafia-para-ninos-de-9-a-10-anos-pdf-gratis",
+    "name": "Caligrafía para niños de 9 a 10 años PDF gratis"
+  },
+  "articles": [
+    {
+      "slug": "actividades",
+      "title": "Caligrafía para niños de 9 a 10 años en PDF gratis",
+      "excerpt": "Fichas de caligrafía para niños de 9 a 10 años con textos breves, frases y ejercicios de mejora de la letra.",
+      "metaDescription": "Caligrafía para niños de 9 a 10 años PDF gratis: fichas imprimibles con palabras, frases y pequeños textos para mejorar la escritura.",
+      "featuredImage": "/uploads/fichas-caligrafia-ninos-9-10-anos-pdf-gratis.webp",
+      "keywords": [
+        "caligrafía para niños de 9 a 10 años pdf gratis",
+        "caligrafía 4 primaria",
+        "caligrafía 5 primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Entre los 9 y 10 años la caligrafía debe centrarse en mejorar la claridad, la regularidad y la presentación. Ya no se trata solo de copiar letras, sino de escribir frases y pequeños textos manteniendo buen tamaño, separación y limpieza."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Qué trabajar a esta edad"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tamaño uniforme de la letra.",
+            "Separación correcta entre palabras.",
+            "Márgenes y presentación.",
+            "Copia de frases con sentido.",
+            "Pequeños textos con vocabulario adecuado."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Las fichas deben tener textos cortos y comprensibles. Es mejor repetir una frase bien escrita que completar muchas líneas sin atención."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "caligrafia-9-10-frases",
+          "title": "Ficha de frases para copiar",
+          "description": "Frases breves para mejorar la letra y la separación.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Copia cuidando márgenes y separación",
+              "lines": [
+                "La constancia ayuda a mejorar cada día.",
+                "Una letra clara facilita la lectura.",
+                "Reviso mi trabajo antes de entregarlo.",
+                "Antes de terminar, revisa que todas las letras tengan un tamaño parecido.",
+                "Rodea la línea que mejor te haya salido."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "caligrafia-9-10-texto",
+          "title": "Ficha de pequeño texto",
+          "description": "Texto corto para practicar presentación y limpieza.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "Copia el texto y responde",
+              "text": "En la biblioteca de la escuela encontramos libros de aventuras, ciencia y poesía. Leer con atención nos ayuda a descubrir palabras nuevas y a expresar mejor nuestras ideas. Al copiar, no es necesario escribir deprisa. Lo más importante es mantener una letra clara, cuidar los márgenes y revisar el resultado final.",
+              "questions": [
+                "Copia el texto con buena letra.",
+                "Subraya una palabra nueva.",
+                "Escribe una frase usando esa palabra.",
+                "Revisa los márgenes.",
+                "Escribe una idea importante del texto."
+              ],
+              "instruction": "Lee el texto con atención. Después responde con frases completas cuando sea posible."
+            }
+          ]
+        },
+        {
+          "id": "caligrafia-9-10-revision",
+          "title": "Ficha de autocorrección",
+          "description": "Lista de revisión para valorar la propia escritura.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Revisa tu escritura",
+              "items": [
+                {
+                  "question": "¿He dejado espacio entre palabras?",
+                  "options": [
+                    "Sí",
+                    "No",
+                    "A veces",
+                    "Necesito revisarlo"
+                  ]
+                },
+                {
+                  "question": "¿La letra tiene un tamaño parecido?",
+                  "options": [
+                    "Sí",
+                    "No",
+                    "A veces",
+                    "Necesito revisarlo"
+                  ]
+                },
+                {
+                  "question": "¿He respetado los márgenes?",
+                  "options": [
+                    "Sí",
+                    "No",
+                    "A veces",
+                    "Necesito revisarlo"
+                  ]
+                }
+              ],
+              "instruction": "Marca la opción correcta. Si tienes dudas, vuelve a leer el enunciado antes de contestar."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Escribe una frase mejorando tu presentación",
+              "lines": [
+                "________________________________________________________",
+                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+              ],
+              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

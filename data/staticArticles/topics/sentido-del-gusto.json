@@ -1,0 +1,306 @@
+{
+  "topic": {
+    "slug": "sentido-del-gusto",
+    "name": "Sentido del gusto"
+  },
+  "articles": [
+    {
+      "slug": "sabores-basicos",
+      "title": "Sabores básicos para niños: dulce, salado, ácido, amargo y umami",
+      "excerpt": "Explicación sencilla de los sabores básicos con ejemplos cotidianos y fichas imprimibles para primaria.",
+      "metaDescription": "Sabores básicos para niños: dulce, salado, ácido, amargo y umami con ejemplos y fichas PDF para primaria.",
+      "featuredImage": "/uploads/fichas-sabores-basicos.webp",
+      "keywords": ["sabores básicos", "sentido del gusto primaria", "fichas sabores"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Los sabores básicos son las formas principales en las que percibimos el gusto de los alimentos. Los más conocidos son dulce, salado, ácido, amargo y umami."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de sabores"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dulce: miel o fruta madura",
+            "Salado: queso o patatas",
+            "Ácido: limón o yogur",
+            "Amargo: cacao puro",
+            "Umami: tomate o caldo"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Trabajar los sabores en clase ayuda a ampliar vocabulario, observar alimentos cercanos y relacionar el gusto con hábitos de alimentación saludable."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "sabores-basicos-clasificar",
+          "title": "Clasifica alimentos por sabor",
+          "description": "Identifica el sabor principal de diferentes alimentos.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": ["dulce", "salado", "ácido", "amargo", "umami", "alimentos", "sabores", "lengua"],
+              "text": "Con la ________ podemos reconocer distintos ________. Algunos ________ tienen sabor ________, otros son ________, ________, ________ o ________.",
+              "instruction": "Usa las palabras del banco para completar el texto correctamente.",
+              "writingLine": true,
+              "writingLines": 3
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Rodea la palabra que sobra",
+              "groups": [
+                ["miel", "azúcar", "caramelo", "limón", "galleta"],
+                ["limón", "vinagre", "naranja", "cacao", "yogur"],
+                ["sal", "queso", "patatas", "miel", "aceitunas"]
+              ],
+              "instruction": "Rodea la palabra que no pertenece al mismo grupo de sabor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lengua-y-papilas-gustativas",
+      "title": "La lengua y las papilas gustativas explicadas para primaria",
+      "excerpt": "Recurso educativo sobre la lengua, las papilas gustativas y cómo percibimos los sabores.",
+      "metaDescription": "La lengua y las papilas gustativas para niños: explicación sencilla y fichas PDF para primaria.",
+      "featuredImage": "/uploads/fichas-lengua-papilas-gustativas.webp",
+      "keywords": ["lengua", "papilas gustativas", "sentido del gusto"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "La lengua es el órgano principal del sentido del gusto. En ella se encuentran las papilas gustativas, que nos ayudan a reconocer los sabores de los alimentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "¿Qué hacen las papilas gustativas?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Las papilas gustativas captan información cuando un alimento toca la lengua. Después, esa información llega al cerebro, que interpreta el sabor."
+        },
+        {
+          "type": "list",
+          "items": [
+            "La lengua ayuda a saborear.",
+            "Las papilas detectan sabores.",
+            "El cerebro interpreta la información.",
+            "El olfato también participa al comer."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "lengua-papilas-actividad",
+          "title": "La lengua y las papilas",
+          "description": "Completa frases sobre el órgano del gusto.",
+          "activities": [
+            {
+              "type": "chooseWord",
+              "title": "Elige la palabra correcta",
+              "items": [
+                {
+                  "sentence": "La ________ es el órgano principal del gusto.",
+                  "options": ["lengua", "mano", "oreja", "rodilla"]
+                },
+                {
+                  "sentence": "Las papilas gustativas ayudan a reconocer los ________.",
+                  "options": ["sabores", "sonidos", "colores", "números"]
+                },
+                {
+                  "sentence": "El ________ interpreta la información que recibe.",
+                  "options": ["cerebro", "pie", "brazo", "lápiz"]
+                }
+              ],
+              "instruction": "Lee cada frase y marca la palabra que completa mejor la oración."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja la lengua",
+              "instruction": "Dibuja una lengua y señala dónde podrían estar las papilas gustativas.",
+              "rows": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gusto-y-olfato",
+      "title": "El gusto y el olfato: cómo trabajan juntos al comer",
+      "excerpt": "Explicación sencilla para niños sobre la relación entre el gusto y el olfato, con fichas descargables.",
+      "metaDescription": "El gusto y el olfato para niños: cómo trabajan juntos al comer, explicación y fichas PDF para primaria.",
+      "featuredImage": "/uploads/fichas-gusto-y-olfato.webp",
+      "keywords": ["gusto y olfato", "los sentidos", "sentido del gusto"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "El gusto y el olfato trabajan juntos cuando comemos. Por eso, cuando estamos resfriados, algunos alimentos parecen tener menos sabor."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Una experiencia fácil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Podemos probar un alimento con la nariz tapada y después volver a probarlo respirando normalmente. Así observamos cómo el olfato influye en el sabor."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "gusto-olfato-comprension",
+          "title": "Gusto y olfato",
+          "description": "Lee un texto breve y responde preguntas.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "Lee y responde",
+              "text": "Cuando comemos, el gusto y el olfato trabajan juntos. La lengua reconoce sabores, pero la nariz también ayuda a notar mejor los alimentos. Si estamos resfriados, puede parecer que la comida tiene menos sabor. Esto ocurre porque el olfato no funciona igual de bien. Por eso decimos que los sentidos colaboran entre sí.",
+              "questions": [
+                "¿Qué dos sentidos trabajan juntos al comer?",
+                "¿Qué órgano usamos principalmente para saborear?",
+                "¿Qué puede pasar cuando estamos resfriados?",
+                "¿Por qué el olfato ayuda al gusto?",
+                "Escribe un ejemplo de alimento con mucho olor."
+              ],
+              "instruction": "Lee el texto con atención y responde con frases completas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "alimentos-y-sabores",
+      "title": "Alimentos y sabores: actividades para clasificar en primaria",
+      "excerpt": "Actividades para clasificar alimentos según su sabor y trabajar vocabulario del gusto.",
+      "metaDescription": "Alimentos y sabores para primaria: actividades y fichas PDF para clasificar dulce, salado, ácido y amargo.",
+      "featuredImage": "/uploads/fichas-alimentos-y-sabores.webp",
+      "keywords": ["alimentos y sabores", "clasificar alimentos", "fichas del gusto"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Clasificar alimentos por su sabor ayuda a los niños a observar mejor lo que comen y a usar palabras precisas para describirlo."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Clasificar para aprender"
+        },
+        {
+          "type": "paragraph",
+          "text": "En clase se pueden usar listas de alimentos conocidos para agruparlos en dulces, salados, ácidos o amargos. También se pueden añadir alimentos saludables y hablar de una dieta variada."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "alimentos-sabores-unir",
+          "title": "Relaciona alimentos y sabores",
+          "description": "Une cada alimento con su sabor principal.",
+          "activities": [
+            {
+              "type": "matchingColumns",
+              "title": "Une con flechas",
+              "left": ["Limón", "Miel", "Queso", "Cacao puro", "Tomate"],
+              "right": ["Dulce", "Salado", "Ácido", "Amargo", "Umami"],
+              "instruction": "Une cada alimento con el sabor que mejor lo representa."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué alimento suele tener sabor ácido?",
+                  "options": ["Limón", "Miel", "Pan", "Agua"]
+                },
+                {
+                  "question": "¿Qué alimento suele tener sabor dulce?",
+                  "options": ["Azúcar", "Sal", "Vinagre", "Cacao puro"]
+                }
+              ],
+              "instruction": "Lee cada pregunta y marca la respuesta correcta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cuidar-el-sentido-del-gusto",
+      "title": "Cómo cuidar el sentido del gusto en niños",
+      "excerpt": "Consejos sencillos para cuidar el sentido del gusto y trabajar hábitos saludables en primaria.",
+      "metaDescription": "Cómo cuidar el sentido del gusto para niños: hábitos saludables, higiene y fichas PDF para primaria.",
+      "featuredImage": "/uploads/fichas-cuidar-sentido-del-gusto.webp",
+      "keywords": ["cuidar el gusto", "hábitos saludables primaria", "sentido del gusto niños"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cuidar el sentido del gusto también forma parte de los hábitos saludables. Para ello es importante mantener una buena higiene bucal, probar alimentos variados y evitar comidas demasiado calientes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Hábitos saludables"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Cepillarse los dientes después de comer.",
+            "Probar alimentos variados.",
+            "No tomar alimentos demasiado calientes.",
+            "Beber agua con frecuencia.",
+            "Comer frutas y verduras."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Estos hábitos ayudan a disfrutar mejor de los alimentos y a mantener una boca sana."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "cuidar-gusto-habitos",
+          "title": "Hábitos para cuidar el gusto",
+          "description": "Reconoce acciones saludables relacionadas con el gusto.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Elige la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué hábito ayuda a cuidar la boca?",
+                  "options": ["Cepillarse los dientes", "Comer sin parar", "No beber agua", "Dormir con comida en la boca"]
+                },
+                {
+                  "question": "¿Qué debemos evitar?",
+                  "options": ["Comida muy caliente", "Fruta", "Agua", "Verdura"]
+                },
+                {
+                  "question": "¿Qué es bueno para una alimentación variada?",
+                  "options": ["Probar distintos alimentos", "Comer siempre lo mismo", "No desayunar", "Tomar solo dulces"]
+                }
+              ],
+              "instruction": "Marca la opción más saludable en cada caso."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa las frases",
+              "lines": [
+                "Para cuidar la boca debo ____________________________.",
+                "No debo tomar alimentos demasiado __________________.",
+                "Un alimento saludable que me gusta es ______________.",
+                "Beber __________ también ayuda a cuidar mi cuerpo."
+              ],
+              "instruction": "Completa cada frase con una idea adecuada."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

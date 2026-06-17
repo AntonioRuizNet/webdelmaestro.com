@@ -1,0 +1,136 @@
+{
+  "topic": {
+    "slug": "ejercicios-de-sumas-y-restas",
+    "name": "Ejercicios de sumas y restas"
+  },
+  "articles": [
+    {
+      "slug": "actividades",
+      "title": "Ejercicios de sumas y restas para imprimir en PDF",
+      "excerpt": "Fichas de sumas y restas para primaria con actividades progresivas y descargables en PDF.",
+      "metaDescription": "Ejercicios de sumas y restas para primaria: fichas PDF para imprimir con operaciones sencillas y problemas cortos.",
+      "featuredImage": "/uploads/fichas-ejercicios-de-sumas-y-restas.webp",
+      "keywords": [
+        "ejercicios de sumas y restas",
+        "sumas y restas primaria",
+        "fichas matemáticas"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Las sumas y restas son operaciones básicas que deben practicarse de forma progresiva. Primero se trabaja el cálculo sin llevadas, después las operaciones con llevadas y finalmente pequeños problemas donde el alumno debe decidir qué operación usar."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cómo organizar la práctica"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Empezar con números pequeños.",
+            "Separar sumas y restas al inicio.",
+            "Mezclar operaciones cuando el alumno ya domina el procedimiento.",
+            "Incluir problemas sencillos de una operación."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Es importante revisar no solo el resultado, sino también la colocación de los números y el orden de las cifras."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "sumas-restas-basicas",
+          "title": "Sumas y restas básicas",
+          "description": "Operaciones sencillas sin llevadas.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Resuelve",
+              "lines": [
+                "23 + 15 = ____     41 + 28 = ____",
+                "56 - 24 = ____     39 - 17 = ____",
+                "12 + 34 = ____     78 - 35 = ____",
+                "Comprueba dos resultados haciendo la operación contraria.",
+                "Rodea la operación que te haya resultado más difícil."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "sumas-restas-llevadas",
+          "title": "Sumas y restas con llevadas",
+          "description": "Práctica de cálculo con números de dos y tres cifras.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Resuelve con cuidado",
+              "lines": [
+                "48 + 37 = ____     126 + 258 = ____",
+                "72 - 49 = ____     304 - 176 = ____",
+                "589 + 236 = ____   800 - 457 = ____",
+                "Comprueba dos resultados haciendo la operación contraria.",
+                "Rodea la operación que te haya resultado más difícil."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "sumas-restas-problemas",
+          "title": "Problemas de sumas y restas",
+          "description": "Problemas cortos para elegir la operación adecuada.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Lee y elige la operación correcta",
+              "items": [
+                {
+                  "question": "Ana tiene 24 cromos y gana 13 más. ¿Cuántos tiene ahora?",
+                  "options": [
+                    "24 + 13",
+                    "24 - 13",
+                    "13 - 24",
+                    "13 + 13"
+                  ]
+                },
+                {
+                  "question": "En una caja hay 56 lápices y se usan 18. ¿Cuántos quedan?",
+                  "options": [
+                    "56 + 18",
+                    "56 - 18",
+                    "18 - 56",
+                    "56 - 8"
+                  ]
+                },
+                {
+                  "question": "Luis tiene 35 canicas y Marta 27. ¿Cuántas tienen entre los dos?",
+                  "options": [
+                    "35 + 27",
+                    "35 - 27",
+                    "27 - 35",
+                    "35 + 35"
+                  ]
+                }
+              ],
+              "instruction": "Marca la opción correcta. Si tienes dudas, vuelve a leer el enunciado antes de contestar."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Resuelve las operaciones",
+              "lines": [
+                "1. Resultado: ________",
+                "2. Resultado: ________",
+                "3. Resultado: ________",
+                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+              ],
+              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

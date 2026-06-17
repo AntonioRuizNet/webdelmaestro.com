@@ -1,0 +1,171 @@
+{
+  "topic": {
+    "slug": "palabras-con-r-suave",
+    "name": "Palabras con r suave"
+  },
+  "articles": [
+    {
+      "slug": "actividades",
+      "title": "Palabras con r suave: explicación, ejemplos y fichas PDF",
+      "excerpt": "Recurso didáctico para trabajar la r suave con ejemplos, lectura de palabras y fichas imprimibles.",
+      "metaDescription": "Palabras con r suave para primaria: explicación sencilla, ejemplos y fichas PDF para practicar lectura, escritura y ortografía.",
+      "featuredImage": "/uploads/fichas-palabras-con-r-suave.webp",
+      "keywords": [
+        "palabras con r suave",
+        "r suave",
+        "ortografía primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "La r suave aparece cuando la letra r suena de forma suave dentro de una palabra, normalmente entre vocales. Es importante diferenciarla de la r fuerte para mejorar la lectura, la pronunciación y la escritura."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de palabras con r suave"
+        },
+        {
+          "type": "list",
+          "items": [
+            "cara",
+            "pera",
+            "mariposa",
+            "oro",
+            "toro",
+            "arena",
+            "sirena",
+            "corona",
+            "pirata",
+            "caramelo"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cómo practicarla"
+        },
+        {
+          "type": "paragraph",
+          "text": "Primero se puede leer una lista corta de palabras. Después, el alumno puede rodear la r suave, copiar palabras y completar frases sencillas. Este orden ayuda a pasar de la identificación visual a la escritura autónoma."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "r-suave-rodear",
+          "title": "Rodea la r suave",
+          "description": "Actividad para localizar la r suave dentro de palabras sencillas.",
+          "activities": [
+            {
+              "type": "oddOneOutGroups",
+              "title": "Rodea la palabra que no tiene r suave",
+              "groups": [
+                [
+                  "cara",
+                  "pera",
+                  "sapo",
+                  "oro",
+                  "rata"
+                ],
+                [
+                  "sirena",
+                  "mariposa",
+                  "luna",
+                  "arena",
+                  "rata"
+                ],
+                [
+                  "corona",
+                  "caramelo",
+                  "mesa",
+                  "pirata",
+                  "rata"
+                ]
+              ],
+              "instruction": "Lee todas las palabras de cada grupo y rodea la que no pertenece. Después explica oralmente por qué sobra."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia tres palabras con r suave",
+              "lines": [
+                "1. ____________________",
+                "2. ____________________",
+                "3. ____________________",
+                "Revisa tu respuesta antes de terminar."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "r-suave-copiar",
+          "title": "Copia palabras con r suave",
+          "description": "Ficha de copia para reforzar ortografía y caligrafía.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "La mariposa vuela sobre la arena.",
+                "El pirata encontró una corona de oro.",
+                "El toro mira una pera madura.",
+                "Revisa tu respuesta antes de terminar."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "r-suave-frases",
+          "title": "Completa frases con r suave",
+          "description": "Ejercicios para usar palabras con r suave en contexto.",
+          "activities": [
+            {
+              "type": "chooseWord",
+              "title": "Completa con la palabra correcta",
+              "items": [
+                {
+                  "sentence": "La ________ tiene alas de colores.",
+                  "options": [
+                    "mariposa",
+                    "mesa",
+                    "luna",
+                    "caracol"
+                  ]
+                },
+                {
+                  "sentence": "El ________ encontró un tesoro.",
+                  "options": [
+                    "pirata",
+                    "sapo",
+                    "vaso",
+                    "caracol"
+                  ]
+                },
+                {
+                  "sentence": "Me gusta comer una ________ dulce.",
+                  "options": [
+                    "pera",
+                    "taza",
+                    "silla",
+                    "caracol"
+                  ]
+                }
+              ],
+              "instruction": "Lee la frase completa y marca la palabra que encaja mejor por significado y ortografía."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Escribe una frase nueva con r suave",
+              "lines": [
+                "________________________________________________________",
+                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+              ],
+              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

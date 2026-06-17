@@ -1,0 +1,153 @@
+{
+  "topic": {
+    "slug": "descripcion-de-una-persona",
+    "name": "Descripción de una persona"
+  },
+  "articles": [
+    {
+      "slug": "actividades",
+      "title": "Descripción de una persona: actividades y fichas para primaria",
+      "excerpt": "Artículo didáctico con ideas para enseñar a describir personas y fichas imprimibles para trabajar el vocabulario, el orden y la expresión escrita.",
+      "metaDescription": "Descripción de una persona para primaria: explicación sencilla, ejemplos y fichas PDF descargables para trabajar rasgos físicos, carácter y redacción.",
+      "featuredImage": "/uploads/fichas-descripcion-de-una-persona.webp",
+      "keywords": ["descripción de una persona", "describir personas", "fichas de descripción"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Describir a una persona consiste en explicar cómo es de forma clara y ordenada. En primaria conviene empezar por los rasgos más visibles, continuar con la forma de ser y terminar con algún gusto, costumbre o detalle que ayude a imaginar mejor a esa persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Qué debe incluir una descripción"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Datos generales: nombre, edad aproximada o relación con quien escribe.",
+            "Aspecto físico: altura, pelo, ojos, ropa o rasgos destacados.",
+            "Carácter: alegre, tranquilo, trabajador, tímido, amable, curioso...",
+            "Gustos o aficiones: deportes, juegos, lectura, música o animales.",
+            "Una frase final que resuma por qué esa persona es especial."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplo breve"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mi amiga Laura es una niña alta y sonriente. Tiene el pelo castaño y los ojos grandes. Suele vestir con ropa cómoda porque le gusta correr en el recreo. Es amable, divertida y siempre ayuda a sus compañeros cuando tienen una duda."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Consejos para el aula"
+        },
+        {
+          "type": "paragraph",
+          "text": "Antes de escribir, es útil completar una tabla con palabras clave. Después, el alumno puede convertir esas ideas en frases completas. Así se evita que la descripción sea una lista desordenada y se mejora la expresión escrita."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "descripcion-tabla",
+          "title": "Ficha para ordenar una descripción",
+          "description": "Completa una tabla con rasgos físicos, carácter y gustos antes de redactar.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Banco de ideas para describir",
+              "instruction": "Usa algunas de estas palabras para completar el texto.",
+              "words": [
+                "alto",
+                "morena",
+                "amable",
+                "alegre",
+                "trabajador",
+                "simpática",
+                "responsable",
+                "curiosa",
+                "tranquilo",
+                "sonriente"
+              ],
+              "text": "Mi persona elegida es ________. Tiene el pelo ________ y es una persona ________. Le gusta ________ y suele mostrarse ________. ",
+              "writingLine": true,
+              "writingLines": 3
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa antes de redactar",
+              "lines": [
+                "Nombre de la persona: ________________________________",
+                "Aspecto físico: ______________________________________",
+                "Forma de ser: ________________________________________",
+                "Gustos o aficiones: __________________________________",
+                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+              ],
+              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
+            }
+          ]
+        },
+        {
+          "id": "descripcion-redaccion",
+          "title": "Ficha de redacción: describe a una persona",
+          "description": "Guía paso a paso para escribir una descripción completa.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Escribe una descripción completa siguiendo este orden",
+              "lines": [
+                "1. Presenta a la persona.",
+                "2. Explica cómo es físicamente.",
+                "3. Describe su carácter.",
+                "4. Añade un gusto o afición.",
+                "5. Termina con una frase final.",
+                "Revisa tu respuesta antes de terminar."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            },
+            {
+              "type": "readingComprehension",
+              "title": "Lee el ejemplo y responde",
+              "text": "Laura es una niña tranquila y curiosa. Tiene el pelo castaño, los ojos grandes y una sonrisa amable. Le gusta leer cuentos de aventuras y ayudar a sus compañeros cuando tienen dudas. En clase suele trabajar con cuidado y escucha con atención. Cuando describimos a una persona, es importante ordenar las ideas y utilizar palabras respetuosas. Así el lector puede imaginarla con claridad.",
+              "questions": [
+                "¿Cómo es Laura físicamente?",
+                "¿Qué afición tiene?",
+                "¿Qué rasgo de carácter aparece en el texto?",
+                "Escribe una frase nueva para describirla.",
+                "Escribe una idea importante del texto."
+              ],
+              "instruction": "Lee el texto con atención. Después responde con frases completas cuando sea posible."
+            }
+          ]
+        },
+        {
+          "id": "descripcion-vocabulario",
+          "title": "Banco de palabras para describir personas",
+          "description": "Lista de adjetivos útiles clasificados por aspecto físico y forma de ser.",
+          "activities": [
+            {
+              "type": "oddOneOutGroups",
+              "title": "Rodea la palabra que sobra en cada grupo",
+              "groups": [
+                ["alto", "bajo", "rubio", "generoso", "inteligente"],
+                ["amable", "simpática", "alegre", "moreno", "inteligente"],
+                ["pelo", "ojos", "nariz", "trabajador", "inteligente"]
+              ],
+              "instruction": "Lee todas las palabras de cada grupo y rodea la que no pertenece. Después explica oralmente por qué sobra."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une cada palabra con su tipo",
+              "left": ["alto", "alegre", "rubio", "trabajadora", "curioso"],
+              "right": ["aspecto físico", "forma de ser", "aspecto físico", "forma de ser", "Forma de ser"],
+              "instruction": "Une cada elemento de la columna izquierda con el que esté relacionado en la columna derecha."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

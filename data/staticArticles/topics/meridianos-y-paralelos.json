@@ -1,0 +1,137 @@
+{
+  "topic": {
+    "slug": "meridianos-y-paralelos",
+    "name": "Meridianos y paralelos"
+  },
+  "articles": [
+    {
+      "slug": "actividades",
+      "title": "Meridianos y paralelos: explicación y fichas para primaria",
+      "excerpt": "Aprende qué son los meridianos y paralelos con explicación sencilla, ejemplos y fichas imprimibles.",
+      "metaDescription": "Meridianos y paralelos para primaria: explicación clara, diferencias, ejemplos y fichas PDF descargables.",
+      "featuredImage": "/uploads/fichas-meridianos-y-paralelos.webp",
+      "keywords": [
+        "meridianos y paralelos",
+        "geografía primaria",
+        "coordenadas geográficas"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Los paralelos y meridianos son líneas imaginarias que se usan para localizar lugares en la Tierra. Aunque no se ven en la realidad, aparecen en mapas y globos terráqueos para ayudarnos a orientarnos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Diferencia entre paralelos y meridianos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Los paralelos rodean la Tierra de este a oeste.",
+            "El ecuador es el paralelo más importante.",
+            "Los meridianos van de polo a polo.",
+            "El meridiano de Greenwich es el meridiano de referencia."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Con los paralelos se mide la latitud y con los meridianos se mide la longitud. Ambas medidas permiten localizar un punto concreto en el planeta."
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "geo-identificar",
+          "title": "Identifica meridianos y paralelos",
+          "description": "Distingue líneas horizontales y verticales en un mapa.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Cómo van los paralelos en los mapas?",
+                  "options": [
+                    "De este a oeste",
+                    "De polo a polo",
+                    "En diagonal",
+                    "Forman círculos alrededor de la Tierra"
+                  ]
+                },
+                {
+                  "question": "¿Cómo van los meridianos?",
+                  "options": [
+                    "De polo a polo",
+                    "Alrededor del ecuador",
+                    "Solo por el mar",
+                    "Van de este a oeste"
+                  ]
+                }
+              ],
+              "instruction": "Marca la opción correcta. Si tienes dudas, vuelve a leer el enunciado antes de contestar."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja una línea de cada tipo",
+              "instruction": "Dibuja un paralelo y un meridiano.",
+              "rows": 6
+            }
+          ]
+        },
+        {
+          "id": "geo-conceptos",
+          "title": "Conceptos básicos de coordenadas",
+          "description": "Relaciona latitud, longitud, ecuador y Greenwich.",
+          "activities": [
+            {
+              "type": "matchingColumns",
+              "title": "Relaciona cada concepto",
+              "left": [
+                "Ecuador",
+                "Greenwich",
+                "Latitud",
+                "Longitud",
+                "Hemisferio"
+              ],
+              "right": [
+                "Paralelo principal",
+                "Meridiano principal",
+                "Distancia al ecuador",
+                "Distancia al meridiano de Greenwich",
+                "Mitad de la Tierra"
+              ],
+              "instruction": "Une cada elemento de la columna izquierda con el que esté relacionado en la columna derecha."
+            }
+          ]
+        },
+        {
+          "id": "geo-mapa",
+          "title": "Localiza puntos en el mapa",
+          "description": "Actividad sencilla de orientación geográfica.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Actividad de localización",
+              "lines": [
+                "Marca el ecuador con color.",
+                "Marca un meridiano de polo a polo.",
+                "Escribe qué líneas usarías para localizar una ciudad.",
+                "Revisa tu respuesta antes de terminar."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Respuesta",
+              "lines": [
+                "Usaría __________________ y __________________.",
+                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+              ],
+              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

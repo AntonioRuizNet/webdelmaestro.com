@@ -2,14 +2,20 @@
 import Head from "next/head";
 import Nav from "@/components/Nav";
 import CardList from "@/components/CardList";
+import StaticArticleRenderer from "@/components/StaticArticles/StaticArticleRenderer";
+import StaticTopicPage from "@/components/StaticArticles/StaticTopicPage";
 import { getSeasonalTerm } from "@/lib/functions";
 
 function serializeDate(value) {
   return value instanceof Date ? value.toISOString() : value || null;
 }
 
-export default function BlogPostPage({ post, canonicalUrl, trending }) {
-  if (!post) {
+export default function BlogPostPage({ post, staticTopic, canonicalUrl, trending }) {
+  const pageTitle = staticTopic?.title || post?.title || "Web del Maestro";
+  const pageDescription =
+    staticTopic?.description || post?.meta_description || post?.excerpt || "Recursos y manualidades para niños en Web del Maestro";
+
+  if (!post && !staticTopic) {
     return (
       <div>
         <Nav />
@@ -20,8 +26,8 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
     );
   }
 
-  const title = post.title || "Web del Maestro";
-  const description = post.meta_description || post.excerpt || "Recursos y manualidades para niños en Web del Maestro";
+  const title = pageTitle;
+  const description = pageDescription;
 
   return (
     <>
@@ -29,10 +35,10 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
         <title>{title} | Web del Maestro</title>
         <meta name="description" content={description} />
         {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
-        <meta property="og:type" content="article" />
+        <meta property="og:type" content={staticTopic ? "website" : "article"} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        {post.featured_image && <meta property="og:image" content={post.featured_image} />}
+        {post?.featured_image && <meta property="og:image" content={post.featured_image} />}
         {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
         <meta property="og:site_name" content="Web del Maestro" />
         <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
@@ -48,23 +54,13 @@ export default function BlogPostPage({ post, canonicalUrl, trending }) {
 
       <div className="container-2col">
         <article className="container-post">
-          {/*<div className="container-post-header">
-            <div
-              className="container-post-header-image"
-              style={{
-                backgroundImage: post.featured_image ? `url(${post.featured_image})` : "none",
-              }}
-              aria-label={post.title || ""}
-              role="img"
-            />
-
-            <div className="container-post-header-info">
-              <h1>{post.title}</h1>
-              <div>{post.excerpt}</div>
-            </div>
-          </div>*/}
-
-          <div className="post-content" dangerouslySetInnerHTML={{ __html: post.body || "" }} />
+          {staticTopic ? (
+            <StaticTopicPage topic={staticTopic} />
+          ) : post.source === "static" ? (
+            <StaticArticleRenderer post={post} />
+          ) : (
+            <div className="post-content" dangerouslySetInnerHTML={{ __html: post.body || "" }} />
+          )}
         </article>
 
         <div className="container-2col-trending">
@@ -91,28 +87,38 @@ export async function getStaticProps({ params }) {
   const { cleanHtml } = await import("@/lib/cleanHtml");
 
   const post = await getPostBySlug(fullSlug);
+  let staticTopic = null;
 
   if (!post) {
+    const staticArticles = await import("@/data/staticArticles");
+    staticTopic = staticArticles.getStaticTopicBySlug(fullSlug);
+  }
+
+  if (!post && !staticTopic) {
     return { notFound: true, revalidate: 60 };
   }
 
-  let cleanedBody = post.body || "";
+  let safePost = null;
 
-  try {
-    console.log("BODY ORIGINAL:", post.body);
-    cleanedBody = cleanHtml(post.body, post.excerpt);
-  } catch (e) {
-    cleanedBody = post.body || "";
+  if (post) {
+    let cleanedBody = post.body || "";
+
+    if (post.source !== "static") {
+      try {
+        cleanedBody = cleanHtml(post.body, post.excerpt);
+      } catch (e) {
+        cleanedBody = post.body || "";
+      }
+    }
+
+    safePost = {
+      ...post,
+      body: cleanedBody,
+      created_at: serializeDate(post.created_at),
+      published_at: serializeDate(post.published_at),
+      modified_at: serializeDate(post.modified_at),
+    };
   }
-  console.log("BODY LIMPIO:", cleanedBody);
-
-  const safePost = {
-    ...post,
-    body: cleanedBody,
-    created_at: serializeDate(post.created_at),
-    published_at: serializeDate(post.published_at),
-    modified_at: serializeDate(post.modified_at),
-  };
 
   const canonicalUrl = `https://webdelmaestro.com/${fullSlug.replace(/^\/+/, "")}`;
 
@@ -127,6 +133,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       post: safePost,
+      staticTopic,
       canonicalUrl,
       trending,
     },

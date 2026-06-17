@@ -1,0 +1,108 @@
+{
+  "topic": {
+    "slug": "grafomotricidad-pdf",
+    "name": "Grafomotricidad PDF"
+  },
+  "articles": [
+    {
+      "slug": "actividades",
+      "title": "Grafomotricidad PDF: fichas para imprimir",
+      "excerpt": "Actividades de grafomotricidad para imprimir en PDF y trabajar trazos previos a la escritura.",
+      "metaDescription": "Grafomotricidad PDF para infantil y primaria: fichas descargables con trazos, líneas, curvas y ejercicios preparatorios de escritura.",
+      "featuredImage": "/uploads/fichas-grafomotricidad-pdf.webp",
+      "keywords": [
+        "grafomotricidad pdf",
+        "fichas de grafomotricidad",
+        "trazos infantil"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "La grafomotricidad prepara al niño para escribir mediante movimientos controlados de la mano. Antes de trabajar letras completas, es recomendable practicar trazos horizontales, verticales, curvas, ondas y bucles."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Objetivo de las fichas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Estas actividades buscan mejorar la precisión, la direccionalidad y la coordinación ojo-mano. Deben realizarse sin prisa y valorando más el control del movimiento que la rapidez."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Progresión recomendada"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Trazos libres amplios.",
+            "Líneas guiadas con puntos.",
+            "Curvas y ondas.",
+            "Bucles y caminos más estrechos."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "grafomotricidad-lineas",
+          "title": "Ficha de líneas y caminos",
+          "description": "Trazos sencillos para controlar el movimiento.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Sigue los caminos con lápiz",
+              "lines": [
+                "--------------------------------------------",
+                "____________________________________________",
+                "- - - - - - - - - - - - - - - - - - - - - -",
+                "Haz primero una línea despacio y después repítela con más seguridad.",
+                "Colorea el camino que mejor te haya salido."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "grafomotricidad-curvas",
+          "title": "Ficha de curvas y ondas",
+          "description": "Ejercicios para mejorar la fluidez del trazo.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Repasa las curvas y ondas",
+              "lines": [
+                "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+                "∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿",
+                "Crea una línea de ondas debajo.",
+                "Haz primero una línea despacio y después repítela con más seguridad.",
+                "Colorea el camino que mejor te haya salido."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        },
+        {
+          "id": "grafomotricidad-bucles",
+          "title": "Ficha de bucles",
+          "description": "Actividad preparatoria para letras enlazadas.",
+          "activities": [
+            {
+              "type": "textLines",
+              "title": "Repasa los bucles con cuidado",
+              "lines": [
+                "oooooooooooooooooooooooooooooooooooooooooooo",
+                "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "Haz una fila nueva de bucles.",
+                "Haz primero una línea despacio y después repítela con más seguridad.",
+                "Colorea el camino que mejor te haya salido."
+              ],
+              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

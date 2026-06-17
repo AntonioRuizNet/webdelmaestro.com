@@ -1,9 +1,11 @@
 // pages/index.js
 import Head from "next/head";
 import CardList from "@/components/CardList";
+import StaticTopicsHome from "@/components/StaticArticles/StaticTopicsHome";
 import Nav from "@/components/Nav";
 import { getSeasonalTerm } from "@/lib/functions";
 import { searchPosts } from "@/lib/db";
+import { getStaticTopicsForHome } from "@/data/staticArticles";
 
 export async function getStaticProps() {
   const seasonalTerm = getSeasonalTerm();
@@ -26,8 +28,16 @@ export async function getStaticProps() {
     }),
   ]);
 
+  const printableTopics = getStaticTopicsForHome({
+    limit: 8,
+    articlesPerTopic: 4,
+    randomTopics: true,
+    randomArticles: true,
+  });
+
   return {
     props: {
+      printableTopics,
       trending,
       interesting,
     },
@@ -36,7 +46,7 @@ export async function getStaticProps() {
   };
 }
 
-export default function Home({ trending, interesting }) {
+export default function Home({ printableTopics, trending, interesting }) {
   const title = "Web del Maestro – Manualidades, recursos y actividades para niños";
   const description =
     "Manualidades para niños, recursos educativos y actividades creativas para el aula y casa. Descubre fichas, imprimibles y proyectos paso a paso en Web del Maestro.";
@@ -66,10 +76,12 @@ export default function Home({ trending, interesting }) {
       <div>
         <Nav />
         <main className="container">
+          <StaticTopicsHome topics={printableTopics} />
+
           <h1>Publicaciones en tendencia</h1>
           <CardList posts={trending} gridColumns={4} />
 
-          <h1>Algunas publicaciones interesantes</h1>
+          <h1>Otras publicaciones interesantes</h1>
           <CardList posts={interesting} gridColumns={4} />
         </main>
       </div>
