@@ -140,7 +140,6 @@ export default function StaticArticleRenderer({ post }) {
         <p className={styles.topic}>{article.topic?.name}</p>
         <h1>{post.title}</h1>
         {post.excerpt && <p className={styles.excerpt}>{post.excerpt}</p>}
-        {post.featured_image && <img className={styles.featuredImage} src={post.featured_image} alt={post.title} />}
       </section>
 
       <div className={styles.content}>

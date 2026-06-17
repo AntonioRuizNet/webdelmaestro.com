@@ -10,11 +10,7 @@
       "excerpt": "Recurso didáctico para trabajar la r suave con ejemplos, lectura de palabras y fichas imprimibles.",
       "metaDescription": "Palabras con r suave para primaria: explicación sencilla, ejemplos y fichas PDF para practicar lectura, escritura y ortografía.",
       "featuredImage": "/uploads/fichas-palabras-con-r-suave.webp",
-      "keywords": [
-        "palabras con r suave",
-        "r suave",
-        "ortografía primaria"
-      ],
+      "keywords": ["palabras con r suave", "r suave", "ortografía primaria"],
       "sections": [
         {
           "type": "paragraph",
@@ -27,18 +23,7 @@
         },
         {
           "type": "list",
-          "items": [
-            "cara",
-            "pera",
-            "mariposa",
-            "oro",
-            "toro",
-            "arena",
-            "sirena",
-            "corona",
-            "pirata",
-            "caramelo"
-          ]
+          "items": ["cara", "pera", "mariposa", "oro", "toro", "arena", "sirena", "corona", "pirata", "caramelo"]
         },
         {
           "type": "heading",
@@ -60,27 +45,9 @@
               "type": "oddOneOutGroups",
               "title": "Rodea la palabra que no tiene r suave",
               "groups": [
-                [
-                  "cara",
-                  "pera",
-                  "sapo",
-                  "oro",
-                  "rata"
-                ],
-                [
-                  "sirena",
-                  "mariposa",
-                  "luna",
-                  "arena",
-                  "rata"
-                ],
-                [
-                  "corona",
-                  "caramelo",
-                  "mesa",
-                  "pirata",
-                  "rata"
-                ]
+                ["cara", "pera", "sapo", "oro", "rata"],
+                ["sirena", "mariposa", "luna", "arena", "rata"],
+                ["corona", "caramelo", "mesa", "pirata", "rata"]
               ],
               "instruction": "Lee todas las palabras de cada grupo y rodea la que no pertenece. Después explica oralmente por qué sobra."
             },
@@ -107,9 +74,12 @@
               "title": "Copia con buena letra",
               "lines": [
                 "La mariposa vuela sobre la arena.",
+                "________________________________________________________",
                 "El pirata encontró una corona de oro.",
+                "________________________________________________________",
                 "El toro mira una pera madura.",
-                "Revisa tu respuesta antes de terminar."
+                "________________________________________________________",
+                ""
               ],
               "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
             }
@@ -126,40 +96,25 @@
               "items": [
                 {
                   "sentence": "La ________ tiene alas de colores.",
-                  "options": [
-                    "mariposa",
-                    "mesa",
-                    "luna",
-                    "caracol"
-                  ]
+                  "options": ["mariposa", "mesa", "luna", "caracol"]
                 },
                 {
                   "sentence": "El ________ encontró un tesoro.",
-                  "options": [
-                    "pirata",
-                    "sapo",
-                    "vaso",
-                    "caracol"
-                  ]
+                  "options": ["pirata", "sapo", "vaso", "caracol"]
                 },
                 {
                   "sentence": "Me gusta comer una ________ dulce.",
-                  "options": [
-                    "pera",
-                    "taza",
-                    "silla",
-                    "caracol"
-                  ]
+                  "options": ["pera", "taza", "silla", "caracol"]
                 }
               ],
               "instruction": "Lee la frase completa y marca la palabra que encaja mejor por significado y ortografía."
             },
             {
               "type": "fillBlanks",
-              "title": "Escribe una frase nueva con r suave",
+              "title": "Escribe dos frases nuevas con r suave",
               "lines": [
                 "________________________________________________________",
-                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+                "________________________________________________________"
               ],
               "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
             }

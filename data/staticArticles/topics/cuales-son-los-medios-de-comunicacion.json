@@ -1,0 +1,695 @@
+{
+  "topic": {
+    "slug": "cuales-son-los-medios-de-comunicacion",
+    "name": "Cuáles son los medios de comunicación"
+  },
+  "articles": [
+    {
+      "slug": "medios-de-comunicacion-principales",
+      "title": "Cuáles son los medios de comunicación principales",
+      "excerpt": "Aprende qué son la televisión, la radio, la prensa e internet.",
+      "metaDescription": "Medios de comunicación principales para primaria con explicación y actividades.",
+      "featuredImage": "/uploads/fichas-medios-de-comunicacion-principales.webp",
+      "keywords": [
+        "medios de comunicación",
+        "primaria",
+        "radio televisión prensa",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los medios de comunicación principales, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y conocimiento del entorno y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son televisión, radio, periódico, revista, internet y cartel. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los medios de comunicación principales, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como televisión, radio, periódico, revista, internet y cartel, porque son fáciles de imaginar y aparecen en situaciones cercanas. Los medios de comunicación sirven para informar, entretener y compartir mensajes con muchas personas. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La radio transmite sonidos y voces sin necesidad de imágenes.",
+            "Un periódico puede tener noticias, fotografías y anuncios.",
+            "La televisión combina imagen y sonido.",
+            "Internet permite consultar información muy variada."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Cuáles son los medios de comunicación principales",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa los medios",
+              "words": [
+                "televisión",
+                "radio",
+                "periódico",
+                "revista",
+                "internet",
+                "noticias"
+              ],
+              "text": "Los medios de comunicación nos ayudan a conocer __________________. La __________________ muestra imágenes y sonido. La __________________ usa voces y música. El __________________ se lee en papel o pantalla. Una __________________ tiene artículos y fotos. En __________________ buscamos información.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Reconoce el medio",
+              "items": [
+                {
+                  "question": "¿Qué medio usa imagen y sonido?",
+                  "options": [
+                    "televisión",
+                    "lápiz",
+                    "mochila"
+                  ],
+                  "answer": "televisión"
+                },
+                {
+                  "question": "¿Qué medio se escucha?",
+                  "options": [
+                    "radio",
+                    "pizarra",
+                    "silla"
+                  ],
+                  "answer": "radio"
+                },
+                {
+                  "question": "¿Dónde se leen noticias impresas?",
+                  "options": [
+                    "periódico",
+                    "balón",
+                    "plato"
+                  ],
+                  "answer": "periódico"
+                },
+                {
+                  "question": "¿Qué medio funciona con páginas web?",
+                  "options": [
+                    "internet",
+                    "estuche",
+                    "ventana"
+                  ],
+                  "answer": "internet"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une medio y característica",
+              "left": [
+                "televisión",
+                "radio",
+                "periódico",
+                "revista",
+                "internet"
+              ],
+              "right": [
+                "imagen y sonido",
+                "solo sonido",
+                "noticias escritas",
+                "artículos y fotos",
+                "páginas web"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja medios de comunicación",
+              "instruction": "Dibuja una televisión, una radio y un periódico con una noticia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "medios-para-informar",
+      "title": "Medios de comunicación para informar",
+      "excerpt": "Descubre cómo los medios cuentan noticias de forma clara.",
+      "metaDescription": "Medios para informar a niños de primaria con lectura y fichas.",
+      "featuredImage": "/uploads/fichas-medios-para-informar.webp",
+      "keywords": [
+        "noticias",
+        "medios de comunicación",
+        "información",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los medios que sirven para informar, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son noticia, reportero, periódico, radio, televisión y página web. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los medios que sirven para informar, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como noticia, reportero, periódico, radio, televisión y página web, porque son fáciles de imaginar y aparecen en situaciones cercanas. Una noticia debe contar datos importantes de manera ordenada, como qué pasó, dónde ocurrió y cuándo sucedió. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Las noticias ayudan a conocer lo que ocurre cerca y lejos.",
+            "Un reportero puede investigar antes de contar una noticia.",
+            "Las noticias deben intentar ser claras y verdaderas.",
+            "No todo lo que aparece en internet es una noticia fiable."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Medios de comunicación para informar",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "La noticia del colegio",
+              "text": "El lunes, la clase de segundo escuchó en la radio local una noticia sobre la biblioteca del barrio. Después, la maestra mostró la misma información en un periódico digital. La noticia decía que la biblioteca tendría nuevos cuentos infantiles y un rincón de lectura. Los niños compararon los dos medios y vieron que ambos contaban el mismo hecho, aunque de forma diferente.",
+              "questions": [
+                "¿Qué día escuchó la clase la noticia?",
+                "¿Sobre qué lugar trataba la noticia?",
+                "¿Qué tendría la biblioteca?",
+                "¿Qué dos medios compararon?",
+                "¿Qué contaban ambos medios?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Busca el intruso informativo",
+              "groups": [
+                {
+                  "items": [
+                    "noticia",
+                    "reportero",
+                    "periódico",
+                    "cuchara"
+                  ],
+                  "answer": "cuchara"
+                },
+                {
+                  "items": [
+                    "radio",
+                    "televisión",
+                    "web",
+                    "zapato"
+                  ],
+                  "answer": "zapato"
+                },
+                {
+                  "items": [
+                    "informar",
+                    "leer",
+                    "escuchar",
+                    "pelota"
+                  ],
+                  "answer": "pelota"
+                },
+                {
+                  "items": [
+                    "biblioteca",
+                    "barrio",
+                    "cuento",
+                    "tenedor"
+                  ],
+                  "answer": "tenedor"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa sobre noticias",
+              "lines": [
+                "Una noticia cuenta algo que ha __________________.",
+                "El reportero busca __________________.",
+                "La radio permite escuchar una __________________.",
+                "El periódico puede tener texto y __________________.",
+                "Una noticia debe ser clara y __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia palabras de información",
+              "lines": [
+                "noticia",
+                "reportero",
+                "periódico",
+                "radio",
+                "televisión",
+                "biblioteca"
+              ],
+              "instruction": "Copia las palabras con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "medios-para-entretener",
+      "title": "Medios de comunicación para entretener",
+      "excerpt": "Aprende cómo algunos medios ofrecen cuentos, música, juegos y dibujos.",
+      "metaDescription": "Medios de comunicación para entretener con actividades de primaria.",
+      "featuredImage": "/uploads/fichas-medios-para-entretener.webp",
+      "keywords": [
+        "entretenimiento",
+        "medios",
+        "televisión",
+        "radio"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los medios que entretienen, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y educación audiovisual y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son cuento, canción, dibujo animado, programa, juego y revista infantil. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los medios que entretienen, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como cuento, canción, dibujo animado, programa, juego y revista infantil, porque son fáciles de imaginar y aparecen en situaciones cercanas. Entretener significa ofrecer contenidos para disfrutar, descansar, imaginar o aprender de forma agradable. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un programa infantil puede enseñar y divertir al mismo tiempo.",
+            "Las revistas infantiles suelen tener juegos y pasatiempos.",
+            "La radio también puede emitir cuentos y canciones.",
+            "Conviene elegir contenidos adecuados para la edad."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Medios de comunicación para entretener",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "chooseWord",
+              "title": "Elige el entretenimiento",
+              "items": [
+                {
+                  "sentence": "Texto que puede aparecer en una revista infantil.",
+                  "options": [
+                    "cuento",
+                    "cuchillo",
+                    "rueda",
+                    "pared"
+                  ],
+                  "answer": "cuento"
+                },
+                {
+                  "sentence": "Contenido que se escucha en la radio.",
+                  "options": [
+                    "canción",
+                    "zapato",
+                    "silla",
+                    "plato"
+                  ],
+                  "answer": "canción"
+                },
+                {
+                  "sentence": "Programa con personajes dibujados.",
+                  "options": [
+                    "dibujo animado",
+                    "periódico",
+                    "semáforo",
+                    "tenedor"
+                  ],
+                  "answer": "dibujo animado"
+                },
+                {
+                  "sentence": "Actividad para jugar en una pantalla.",
+                  "options": [
+                    "juego",
+                    "fecha",
+                    "sobre",
+                    "carta"
+                  ],
+                  "answer": "juego"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Comprueba el contenido",
+              "items": [
+                {
+                  "question": "¿Qué medio puede emitir canciones?",
+                  "options": [
+                    "radio",
+                    "cuaderno",
+                    "mesa"
+                  ],
+                  "answer": "radio"
+                },
+                {
+                  "question": "¿Qué puede tener una revista infantil?",
+                  "options": [
+                    "pasatiempos",
+                    "tornillos",
+                    "zapatos"
+                  ],
+                  "answer": "pasatiempos"
+                },
+                {
+                  "question": "¿Qué contenido tiene personajes animados?",
+                  "options": [
+                    "dibujo animado",
+                    "receta",
+                    "calendario"
+                  ],
+                  "answer": "dibujo animado"
+                },
+                {
+                  "question": "¿Qué debemos elegir?",
+                  "options": [
+                    "contenidos adecuados",
+                    "ruidos fuertes",
+                    "mensajes confusos"
+                  ],
+                  "answer": "contenidos adecuados"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une contenido y medio",
+              "left": [
+                "cuento narrado",
+                "canción",
+                "dibujo animado",
+                "pasatiempo",
+                "juego educativo"
+              ],
+              "right": [
+                "radio",
+                "radio musical",
+                "televisión",
+                "revista",
+                "internet"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Diseña un programa infantil",
+              "instruction": "Dibuja la portada de un programa infantil que enseñe y entretenga."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "uso-responsable-de-los-medios",
+      "title": "Uso responsable de los medios de comunicación",
+      "excerpt": "Practica normas sencillas para usar los medios con cuidado.",
+      "metaDescription": "Uso responsable de los medios de comunicación para niños de primaria.",
+      "featuredImage": "/uploads/fichas-uso-responsable-de-los-medios.webp",
+      "keywords": [
+        "uso responsable",
+        "medios de comunicación",
+        "internet seguro",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar el uso responsable de los medios, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Educación digital y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son adulto, tiempo, pantalla, noticia, respeto y seguridad. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien el uso responsable de los medios, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como adulto, tiempo, pantalla, noticia, respeto y seguridad, porque son fáciles de imaginar y aparecen en situaciones cercanas. Usar los medios con responsabilidad significa elegir bien, pedir ayuda cuando algo no se entiende y respetar a otras personas. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Es bueno preguntar a un adulto si una información parece extraña.",
+            "No todas las páginas web son adecuadas para niños.",
+            "Descansar de las pantallas ayuda a cuidar la vista.",
+            "Comunicar con respeto también es importante en internet."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Uso responsable de los medios de comunicación",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa normas de uso",
+              "words": [
+                "adulto",
+                "tiempo",
+                "pantalla",
+                "noticia",
+                "respeto",
+                "seguridad"
+              ],
+              "text": "Cuando usamos una __________________, debemos cuidar el __________________. Si una __________________ parece rara, preguntamos a un __________________. En internet también usamos __________________ al hablar. Así cuidamos nuestra __________________ y aprendemos mejor.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Normas para los medios",
+              "lines": [
+                "Debo pedir ayuda a un __________________.",
+                "No debo creer cualquier __________________.",
+                "Uso la pantalla durante un __________________ adecuado.",
+                "En internet hablo con __________________.",
+                "La seguridad es muy __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Rodea lo que no encaja",
+              "groups": [
+                {
+                  "items": [
+                    "respeto",
+                    "seguridad",
+                    "ayuda",
+                    "gritar"
+                  ],
+                  "answer": "gritar"
+                },
+                {
+                  "items": [
+                    "adulto",
+                    "preguntar",
+                    "cuidar",
+                    "mentir"
+                  ],
+                  "answer": "mentir"
+                },
+                {
+                  "items": [
+                    "descanso",
+                    "pantalla",
+                    "tiempo",
+                    "cuchara"
+                  ],
+                  "answer": "cuchara"
+                },
+                {
+                  "items": [
+                    "noticia",
+                    "información",
+                    "duda",
+                    "zapato"
+                  ],
+                  "answer": "zapato"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia normas sencillas",
+              "lines": [
+                "Pido ayuda a un adulto.",
+                "Uso la pantalla con cuidado.",
+                "Leo noticias con atención.",
+                "Hablo con respeto.",
+                "Descanso la vista."
+              ],
+              "instruction": "Copia las normas con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "comparar-medios-de-comunicacion",
+      "title": "Comparar medios de comunicación",
+      "excerpt": "Compara radio, televisión, prensa e internet con actividades claras.",
+      "metaDescription": "Comparar medios de comunicación para primaria con fichas imprimibles.",
+      "featuredImage": "/uploads/fichas-comparar-medios-de-comunicacion.webp",
+      "keywords": [
+        "comparar medios",
+        "radio televisión",
+        "prensa internet",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar la comparación de medios de comunicación, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son radio, televisión, prensa, internet, imagen, sonido y texto. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien la comparación de medios de comunicación, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como radio, televisión, prensa, internet, imagen, sonido y texto, porque son fáciles de imaginar y aparecen en situaciones cercanas. Comparar medios ayuda a comprender que un mismo mensaje puede llegar de diferentes formas. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Una noticia puede aparecer en televisión y también en un periódico.",
+            "La radio no muestra imágenes, pero usa sonidos y voces.",
+            "Internet puede mezclar texto, imagen, vídeo y sonido.",
+            "Comparar ayuda a elegir el medio más adecuado."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Comparar medios de comunicación",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "Una noticia en tres medios",
+              "text": "Sara escuchó en la radio que habría una feria de libros en su barrio durante el sábado. Más tarde vio la misma noticia en la televisión, donde aparecían imágenes de los puestos y de varios cuentos. Por la tarde, su padre leyó en internet el horario completo y las actividades para niños. Sara entendió que un mismo mensaje puede llegar por distintos medios, pero cada uno lo presenta de una manera diferente.",
+              "questions": [
+                "¿Qué noticia escuchó Sara?",
+                "¿En qué medio la escuchó primero?",
+                "¿Qué mostraba la televisión?",
+                "¿Dónde leyó su padre el horario?",
+                "¿Qué entendió Sara?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une medio y forma",
+              "left": [
+                "radio",
+                "televisión",
+                "periódico",
+                "internet",
+                "revista"
+              ],
+              "right": [
+                "voz y sonido",
+                "imagen y sonido",
+                "texto impreso",
+                "mezcla contenidos",
+                "artículos y fotos"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Compara medios",
+              "items": [
+                {
+                  "question": "¿Qué medio no necesita imágenes?",
+                  "options": [
+                    "radio",
+                    "televisión",
+                    "vídeo"
+                  ],
+                  "answer": "radio"
+                },
+                {
+                  "question": "¿Qué medio puede mezclar muchos formatos?",
+                  "options": [
+                    "internet",
+                    "silla",
+                    "tiza"
+                  ],
+                  "answer": "internet"
+                },
+                {
+                  "question": "¿Qué medio suele imprimirse en papel?",
+                  "options": [
+                    "periódico",
+                    "radio",
+                    "auricular"
+                  ],
+                  "answer": "periódico"
+                },
+                {
+                  "question": "¿Qué ayuda a elegir un medio?",
+                  "options": [
+                    "comparar",
+                    "romper",
+                    "ensuciar"
+                  ],
+                  "answer": "comparar"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Mapa de medios",
+              "instruction": "Dibuja cuatro medios y escribe una palabra que explique cada uno."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

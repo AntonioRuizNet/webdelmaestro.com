@@ -1,0 +1,705 @@
+{
+  "topic": {
+    "slug": "autobiografia",
+    "name": "Autobiografía"
+  },
+  "articles": [
+    {
+      "slug": "que-es-una-autobiografia",
+      "title": "Qué es una autobiografía",
+      "excerpt": "Aprende qué es una autobiografía y cómo escribir una sencilla.",
+      "metaDescription": "Autobiografía para primaria con explicación y actividades.",
+      "featuredImage": "/uploads/fichas-que-es-una-autobiografia.webp",
+      "keywords": [
+        "autobiografía",
+        "escritura primaria",
+        "texto personal",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar qué es una autobiografía, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son nombre, edad, familia, gustos, recuerdos y colegio. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien qué es una autobiografía, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como nombre, edad, familia, gustos, recuerdos y colegio, porque son fáciles de imaginar y aparecen en situaciones cercanas. Una autobiografía es un texto en el que una persona cuenta datos importantes de su propia vida. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Auto significa por uno mismo.",
+            "Biografía habla de la vida de una persona.",
+            "En una autobiografía se escribe en primera persona.",
+            "Puede incluir recuerdos, gustos y experiencias."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Qué es una autobiografía",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa una autobiografía",
+              "words": [
+                "nombre",
+                "edad",
+                "familia",
+                "colegio",
+                "gustos",
+                "recuerdo"
+              ],
+              "text": "En mi autobiografía puedo escribir mi __________________, mi __________________ y datos de mi __________________. También puedo contar cómo es mi __________________, cuáles son mis __________________ y algún __________________ importante. Así otras personas conocen mejor mi vida y mis experiencias.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Reconoce la autobiografía",
+              "items": [
+                {
+                  "question": "¿Quién cuenta la vida en una autobiografía?",
+                  "options": [
+                    "la misma persona",
+                    "un vecino",
+                    "un personaje inventado"
+                  ],
+                  "answer": "la misma persona"
+                },
+                {
+                  "question": "¿Qué dato puede aparecer?",
+                  "options": [
+                    "nombre",
+                    "precio",
+                    "semáforo"
+                  ],
+                  "answer": "nombre"
+                },
+                {
+                  "question": "¿En qué persona se suele escribir?",
+                  "options": [
+                    "primera persona",
+                    "tercera persona",
+                    "ninguna"
+                  ],
+                  "answer": "primera persona"
+                },
+                {
+                  "question": "¿Qué puede contar?",
+                  "options": [
+                    "recuerdos",
+                    "ruedas",
+                    "nubes"
+                  ],
+                  "answer": "recuerdos"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une dato y ejemplo",
+              "left": [
+                "nombre",
+                "edad",
+                "familia",
+                "colegio",
+                "gusto",
+                "recuerdo"
+              ],
+              "right": [
+                "Me llamo Ana",
+                "Tengo ocho años",
+                "Vivo con mis padres",
+                "Voy a segundo",
+                "Me gusta leer",
+                "Mi primer viaje"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja tu vida",
+              "instruction": "Dibuja tres momentos importantes de tu vida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "datos-personales-en-una-autobiografia",
+      "title": "Datos personales en una autobiografía",
+      "excerpt": "Practica los datos personales que pueden aparecer en una autobiografía.",
+      "metaDescription": "Datos personales en una autobiografía para primaria.",
+      "featuredImage": "/uploads/fichas-datos-personales-en-una-autobiografia.webp",
+      "keywords": [
+        "autobiografía",
+        "escritura primaria",
+        "texto personal",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los datos personales en una autobiografía, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son nombre, edad, lugar de nacimiento, familia, colegio y aficiones. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los datos personales en una autobiografía, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como nombre, edad, lugar de nacimiento, familia, colegio y aficiones, porque son fáciles de imaginar y aparecen en situaciones cercanas. Los datos personales ayudan a presentar a la persona que escribe. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El nombre identifica a la persona.",
+            "La edad cuenta cuántos años tiene.",
+            "El lugar de nacimiento dice dónde nació.",
+            "Las aficiones explican qué le gusta hacer."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Datos personales en una autobiografía",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "La presentación de Laura",
+              "text": "Me llamo Laura y tengo ocho años. Nací en Córdoba y vivo con mi familia cerca del colegio. Me gusta dibujar animales, leer cuentos de aventuras y jugar en el parque con mis amigos. En mi autobiografía quiero contar quién soy, qué cosas me gustan y un recuerdo especial: el día que aprendí a montar en bicicleta sin ayuda de nadie, junto a mi padre y mi hermana.",
+              "questions": [
+                "¿Cómo se llama la niña?",
+                "¿Cuántos años tiene?",
+                "¿Dónde nació?",
+                "¿Qué le gusta dibujar?",
+                "¿Qué recuerdo especial quiere contar?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa datos personales",
+              "lines": [
+                "Mi nombre es __________________.",
+                "Tengo __________________ años.",
+                "Nací en __________________.",
+                "Vivo con mi __________________.",
+                "Me gusta __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige el dato correcto",
+              "items": [
+                {
+                  "sentence": "Dato que dice cómo te llamas.",
+                  "options": [
+                    "nombre",
+                    "color",
+                    "precio",
+                    "calle"
+                  ],
+                  "answer": "nombre"
+                },
+                {
+                  "sentence": "Dato que dice cuántos años tienes.",
+                  "options": [
+                    "edad",
+                    "silla",
+                    "mesa",
+                    "flor"
+                  ],
+                  "answer": "edad"
+                },
+                {
+                  "sentence": "Actividad que te gusta hacer.",
+                  "options": [
+                    "afición",
+                    "rueda",
+                    "nube",
+                    "puerta"
+                  ],
+                  "answer": "afición"
+                },
+                {
+                  "sentence": "Lugar donde naciste.",
+                  "options": [
+                    "nacimiento",
+                    "merienda",
+                    "juego",
+                    "zapato"
+                  ],
+                  "answer": "nacimiento"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia ideas personales",
+              "lines": [
+                "Me llamo...",
+                "Tengo... años.",
+                "Nací en...",
+                "Vivo con...",
+                "Me gusta...",
+                "Recuerdo cuando..."
+              ],
+              "instruction": "Copia las frases guía."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ordenar-una-autobiografia",
+      "title": "Ordenar una autobiografía",
+      "excerpt": "Aprende a ordenar una autobiografía desde el inicio hasta el final.",
+      "metaDescription": "Ordenar una autobiografía para niños de primaria.",
+      "featuredImage": "/uploads/fichas-ordenar-una-autobiografia.webp",
+      "keywords": [
+        "autobiografía",
+        "escritura primaria",
+        "texto personal",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar el orden de una autobiografía, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son presentación, nacimiento, familia, colegio, gustos y recuerdos. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien el orden de una autobiografía, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como presentación, nacimiento, familia, colegio, gustos y recuerdos, porque son fáciles de imaginar y aparecen en situaciones cercanas. Ordenar una autobiografía ayuda a que el lector entienda la vida que se cuenta. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Primero se puede presentar la persona.",
+            "Después se cuentan datos de nacimiento.",
+            "Luego se pueden añadir gustos y recuerdos.",
+            "Al final se puede escribir un deseo o sueño."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Ordenar una autobiografía",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Elige el orden correcto",
+              "items": [
+                {
+                  "question": "¿Qué puede ir al principio?",
+                  "options": [
+                    "presentación",
+                    "despedida final",
+                    "precio"
+                  ],
+                  "answer": "presentación"
+                },
+                {
+                  "question": "¿Qué dato cuenta dónde naciste?",
+                  "options": [
+                    "lugar de nacimiento",
+                    "color favorito",
+                    "comida"
+                  ],
+                  "answer": "lugar de nacimiento"
+                },
+                {
+                  "question": "¿Qué puede ir después de la familia?",
+                  "options": [
+                    "colegio",
+                    "semáforo",
+                    "zapato"
+                  ],
+                  "answer": "colegio"
+                },
+                {
+                  "question": "¿Qué puede cerrar el texto?",
+                  "options": [
+                    "un sueño futuro",
+                    "una rueda",
+                    "una suma"
+                  ],
+                  "answer": "un sueño futuro"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Busca el intruso del orden",
+              "groups": [
+                {
+                  "items": [
+                    "presentación",
+                    "nacimiento",
+                    "familia",
+                    "tenedor"
+                  ],
+                  "answer": "tenedor"
+                },
+                {
+                  "items": [
+                    "colegio",
+                    "gustos",
+                    "recuerdos",
+                    "piedra"
+                  ],
+                  "answer": "piedra"
+                },
+                {
+                  "items": [
+                    "primero",
+                    "después",
+                    "finalmente",
+                    "azúcar"
+                  ],
+                  "answer": "azúcar"
+                },
+                {
+                  "items": [
+                    "vida",
+                    "experiencia",
+                    "sueño",
+                    "ventana"
+                  ],
+                  "answer": "ventana"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une parte y contenido",
+              "left": [
+                "presentación",
+                "nacimiento",
+                "familia",
+                "colegio",
+                "gustos",
+                "futuro"
+              ],
+              "right": [
+                "quién soy",
+                "dónde nací",
+                "con quién vivo",
+                "dónde estudio",
+                "qué me gusta",
+                "qué sueño tengo"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Línea de vida sencilla",
+              "instruction": "Dibuja una línea con tres momentos de tu vida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "recuerdos-y-experiencias-en-autobiografia",
+      "title": "Recuerdos y experiencias en una autobiografía",
+      "excerpt": "Aprende a contar recuerdos importantes con claridad.",
+      "metaDescription": "Recuerdos y experiencias en autobiografía para primaria.",
+      "featuredImage": "/uploads/fichas-recuerdos-y-experiencias-en-autobiografia.webp",
+      "keywords": [
+        "autobiografía",
+        "escritura primaria",
+        "texto personal",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los recuerdos y experiencias en una autobiografía, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son primer día de colegio, cumpleaños, viaje, mascota, amistad y logro. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los recuerdos y experiencias en una autobiografía, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como primer día de colegio, cumpleaños, viaje, mascota, amistad y logro, porque son fáciles de imaginar y aparecen en situaciones cercanas. Los recuerdos hacen que una autobiografía sea personal y cercana. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un recuerdo puede ser alegre, emocionante o importante.",
+            "Una experiencia debe contarse con orden.",
+            "Conviene decir cuándo ocurrió y qué pasó.",
+            "También se puede contar cómo se sintió la persona."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Recuerdos y experiencias en una autobiografía",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa recuerdos personales",
+              "words": [
+                "colegio",
+                "cumpleaños",
+                "viaje",
+                "mascota",
+                "amistad",
+                "logro"
+              ],
+              "text": "En mi autobiografía puedo contar mi primer día de __________________. También puedo recordar un __________________, un __________________ en familia o la llegada de una __________________. Una buena __________________ y un __________________ conseguido también son experiencias importantes.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa recuerdos",
+              "lines": [
+                "Un recuerdo importante fue __________________.",
+                "Me sentí __________________ cuando ocurrió.",
+                "Estaba con __________________.",
+                "Pasó en __________________.",
+                "Aprendí que __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige experiencia",
+              "items": [
+                {
+                  "sentence": "Fiesta que se celebra cada año.",
+                  "options": [
+                    "cumpleaños",
+                    "semáforo",
+                    "lápiz",
+                    "ventana"
+                  ],
+                  "answer": "cumpleaños"
+                },
+                {
+                  "sentence": "Salida a otro lugar.",
+                  "options": [
+                    "viaje",
+                    "silla",
+                    "plato",
+                    "regla"
+                  ],
+                  "answer": "viaje"
+                },
+                {
+                  "sentence": "Animal que vive contigo.",
+                  "options": [
+                    "mascota",
+                    "piedra",
+                    "nube",
+                    "mesa"
+                  ],
+                  "answer": "mascota"
+                },
+                {
+                  "sentence": "Algo conseguido con esfuerzo.",
+                  "options": [
+                    "logro",
+                    "rueda",
+                    "vaso",
+                    "puerta"
+                  ],
+                  "answer": "logro"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia comienzos de recuerdos",
+              "lines": [
+                "Recuerdo el día que...",
+                "Me sentí feliz cuando...",
+                "Estaba con mi familia.",
+                "Aprendí algo importante.",
+                "Fue una experiencia especial."
+              ],
+              "instruction": "Copia estos comienzos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "escribir-mi-autobiografia",
+      "title": "Escribir mi autobiografía",
+      "excerpt": "Planifica y escribe una autobiografía sencilla para primaria.",
+      "metaDescription": "Escribir una autobiografía para niños con actividades imprimibles.",
+      "featuredImage": "/uploads/fichas-escribir-mi-autobiografia.webp",
+      "keywords": [
+        "autobiografía",
+        "escritura primaria",
+        "texto personal",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar la escritura de una autobiografía completa, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son presentación, datos, recuerdos, gustos, sueños y final. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien la escritura de una autobiografía completa, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como presentación, datos, recuerdos, gustos, sueños y final, porque son fáciles de imaginar y aparecen en situaciones cercanas. Escribir una autobiografía completa permite ordenar información personal y expresarla con respeto. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La autobiografía empieza con una presentación.",
+            "Los datos personales ayudan a conocer al autor.",
+            "Los recuerdos dan vida al texto.",
+            "Los sueños muestran deseos para el futuro."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Escribir mi autobiografía",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "La autobiografía de Marcos",
+              "text": "Me llamo Marcos y tengo nueve años. Nací en Granada y vivo con mi madre, mi padre y mi hermana. Voy al colegio del barrio y me gustan mucho los animales. Uno de mis mejores recuerdos es cuando adopté a mi perro Toby. Al principio era pequeño y asustadizo, pero pronto empezó a jugar conmigo. De mayor me gustaría cuidar animales y aprender más sobre la naturaleza.",
+              "questions": [
+                "¿Cómo se llama el niño?",
+                "¿Dónde nació?",
+                "¿Con quién vive?",
+                "¿Cómo se llama su perro?",
+                "¿Qué le gustaría hacer de mayor?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Comprende el texto personal",
+              "items": [
+                {
+                  "question": "¿Qué tipo de texto cuenta Marcos?",
+                  "options": [
+                    "autobiografía",
+                    "receta",
+                    "noticia"
+                  ],
+                  "answer": "autobiografía"
+                },
+                {
+                  "question": "¿Qué dato aparece al principio?",
+                  "options": [
+                    "nombre",
+                    "precio",
+                    "hora"
+                  ],
+                  "answer": "nombre"
+                },
+                {
+                  "question": "¿Qué recuerdo cuenta?",
+                  "options": [
+                    "adoptó a Toby",
+                    "compró una mesa",
+                    "perdió un lápiz"
+                  ],
+                  "answer": "adoptó a Toby"
+                },
+                {
+                  "question": "¿Qué sueño tiene?",
+                  "options": [
+                    "cuidar animales",
+                    "pintar paredes",
+                    "vender fruta"
+                  ],
+                  "answer": "cuidar animales"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Plan de autobiografía",
+              "left": [
+                "inicio",
+                "datos",
+                "familia",
+                "recuerdo",
+                "gustos",
+                "sueño"
+              ],
+              "right": [
+                "me presento",
+                "edad y lugar",
+                "con quién vivo",
+                "algo importante",
+                "qué me gusta",
+                "qué quiero hacer"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Portada de mi autobiografía",
+              "instruction": "Dibuja una portada con tu nombre y tres cosas que te representen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

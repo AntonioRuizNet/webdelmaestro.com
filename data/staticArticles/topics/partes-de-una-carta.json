@@ -1,0 +1,702 @@
+{
+  "topic": {
+    "slug": "partes-de-una-carta",
+    "name": "Partes de una carta"
+  },
+  "articles": [
+    {
+      "slug": "partes-principales-de-una-carta",
+      "title": "Partes principales de una carta para primaria",
+      "excerpt": "Aprende lugar, fecha, saludo, cuerpo, despedida y firma con fichas.",
+      "metaDescription": "Partes principales de una carta para niños con explicación y actividades.",
+      "featuredImage": "/uploads/fichas-partes-principales-de-una-carta.webp",
+      "keywords": [
+        "partes de una carta",
+        "carta primaria",
+        "expresión escrita",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a aprender sobre las partes principales de una carta, un contenido muy útil para escribir mensajes claros en Educación Primaria. Una carta es un texto que una persona escribe para comunicarse con otra. Puede servir para contar una noticia, felicitar, agradecer, pedir algo o compartir una experiencia. Algunos ejemplos que vamos a utilizar son lugar, fecha, saludo, cuerpo, despedida y firma. Aunque hoy también usamos correos electrónicos y mensajes, conocer las partes de una carta ayuda a ordenar las ideas antes de escribir. Una carta suele tener lugar y fecha, saludo, cuerpo, despedida y firma. Cada parte tiene una función concreta y ayuda al lector a entender quién escribe, cuándo escribe, a quién se dirige y qué quiere contar. Practicar con cartas sencillas permite mejorar la escritura, la lectura, la expresión de sentimientos y el uso de fórmulas de cortesía. Además, escribir cartas es una actividad cercana y significativa para niños y niñas."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Qué partes tiene una carta"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para comprender bien las partes principales de una carta, conviene observar una carta completa y leerla despacio. Primero aparece el lugar y la fecha, que indican desde dónde y cuándo se escribe. Después encontramos el saludo, que sirve para dirigirse a la persona que recibirá la carta. El cuerpo es la parte más larga porque contiene el mensaje principal. Al final aparecen la despedida y la firma, que cierran el texto de forma educada. Con ejemplos como una carta a un amigo, una carta a la abuela o una carta para pedir información, el alumnado puede reconocer cada parte y aprender a escribir cartas propias. También es importante usar frases ordenadas, mayúscula al empezar, punto al terminar una idea y palabras amables. Las actividades de completar huecos, unir partes, leer cartas breves y copiar fórmulas ayudan a practicar sin dificultad. Así se aprende que una carta no es solo un texto, sino una forma de comunicarse con respeto y claridad."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Antes muchas cartas viajaban durante días hasta llegar a su destino.",
+            "La firma ayuda a saber quién escribió la carta.",
+            "Una carta puede ser formal o familiar según a quién se escriba.",
+            "El saludo cambia si escribimos a un amigo o a una persona desconocida."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha 1: estructura de la carta",
+          "description": "Reconoce las partes principales de una carta.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa la carta",
+              "words": [
+                "fecha",
+                "saludo",
+                "cuerpo",
+                "despedida",
+                "firma",
+                "lugar"
+              ],
+              "text": "Una carta ordenada empieza con el __________________ y la __________________. Después aparece el __________________. La parte más larga es el __________________, donde se cuenta el mensaje. Al final escribimos la __________________ y la __________________.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Elige la parte correcta",
+              "items": [
+                {
+                  "question": "¿Qué parte indica cuándo se escribe?",
+                  "options": [
+                    "fecha",
+                    "firma",
+                    "cuerpo"
+                  ],
+                  "answer": "fecha"
+                },
+                {
+                  "question": "¿Qué parte abre la carta?",
+                  "options": [
+                    "saludo",
+                    "despedida",
+                    "sobre"
+                  ],
+                  "answer": "saludo"
+                },
+                {
+                  "question": "¿Dónde va el mensaje principal?",
+                  "options": [
+                    "cuerpo",
+                    "firma",
+                    "margen"
+                  ],
+                  "answer": "cuerpo"
+                },
+                {
+                  "question": "¿Qué parte dice quién escribe?",
+                  "options": [
+                    "firma",
+                    "fecha",
+                    "sello"
+                  ],
+                  "answer": "firma"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une parte y función",
+              "left": [
+                "lugar",
+                "fecha",
+                "saludo",
+                "cuerpo",
+                "despedida",
+                "firma"
+              ],
+              "right": [
+                "desde dónde se escribe",
+                "cuándo se escribe",
+                "abre la carta",
+                "mensaje principal",
+                "cierra la carta",
+                "nombre de quien escribe"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja una carta completa",
+              "instruction": "Dibuja una hoja de carta y señala sus partes principales."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lugar-y-fecha-en-una-carta",
+      "title": "Lugar y fecha en una carta",
+      "excerpt": "Aprende dónde escribir el lugar y la fecha en una carta sencilla.",
+      "metaDescription": "Lugar y fecha en una carta explicados para primaria con actividades.",
+      "featuredImage": "/uploads/fichas-lugar-y-fecha-en-una-carta.webp",
+      "keywords": [
+        "lugar y fecha",
+        "partes de una carta",
+        "carta primaria",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a aprender sobre el lugar y la fecha en una carta, un contenido muy útil para escribir mensajes claros en Educación Primaria. Una carta es un texto que una persona escribe para comunicarse con otra. Puede servir para contar una noticia, felicitar, agradecer, pedir algo o compartir una experiencia. Algunos ejemplos que vamos a utilizar son Lucena, Madrid, 12 de mayo, lunes 3 de junio y Córdoba. Aunque hoy también usamos correos electrónicos y mensajes, conocer las partes de una carta ayuda a ordenar las ideas antes de escribir. Una carta suele tener lugar y fecha, saludo, cuerpo, despedida y firma. Cada parte tiene una función concreta y ayuda al lector a entender quién escribe, cuándo escribe, a quién se dirige y qué quiere contar. Practicar con cartas sencillas permite mejorar la escritura, la lectura, la expresión de sentimientos y el uso de fórmulas de cortesía. Además, escribir cartas es una actividad cercana y significativa para niños y niñas."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Dónde se escriben el lugar y la fecha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para comprender bien el lugar y la fecha en una carta, conviene observar una carta completa y leerla despacio. Primero aparece el lugar y la fecha, que indican desde dónde y cuándo se escribe. Después encontramos el saludo, que sirve para dirigirse a la persona que recibirá la carta. El cuerpo es la parte más larga porque contiene el mensaje principal. Al final aparecen la despedida y la firma, que cierran el texto de forma educada. Con ejemplos como Lucena, 5 de abril; Madrid, 12 de mayo; o Córdoba, 20 de junio, el alumnado puede reconocer cada parte y aprender a escribir cartas propias. También es importante usar frases ordenadas, mayúscula al empezar, punto al terminar una idea y palabras amables. Las actividades de completar huecos, unir partes, leer cartas breves y copiar fórmulas ayudan a practicar sin dificultad. Así se aprende que una carta no es solo un texto, sino una forma de comunicarse con respeto y claridad."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La fecha permite saber cuándo se escribió una carta.",
+            "El lugar indica desde qué ciudad o pueblo se escribe.",
+            "En muchas cartas el lugar y la fecha aparecen al principio.",
+            "Las cartas antiguas ayudan a conocer hechos del pasado."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha 2: lugar y fecha",
+          "description": "Practica lugar y fecha en cartas.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "La carta de Alba",
+              "text": "Alba escribió una carta a su primo desde Sevilla el 8 de marzo. En la primera línea puso el lugar y la fecha para que su primo supiera cuándo la había escrito. Después añadió un saludo cariñoso y contó que en su clase estaban preparando una obra de teatro. Al final se despidió con cariño y firmó con su nombre. Su primo leyó la carta y entendió todos los datos importantes.",
+              "questions": [
+                "¿Quién escribió la carta?",
+                "¿Desde qué ciudad escribió Alba?",
+                "¿Qué fecha puso en la carta?",
+                "¿Qué preparaban en su clase?",
+                "¿Con qué firmó al final?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige lugar o fecha",
+              "items": [
+                {
+                  "sentence": "Ciudad desde donde se escribe.",
+                  "options": [
+                    "lugar",
+                    "firma",
+                    "cuerpo",
+                    "sello"
+                  ],
+                  "answer": "lugar"
+                },
+                {
+                  "sentence": "Día en que se escribe.",
+                  "options": [
+                    "fecha",
+                    "saludo",
+                    "sobre",
+                    "papel"
+                  ],
+                  "answer": "fecha"
+                },
+                {
+                  "sentence": "Ejemplo de lugar.",
+                  "options": [
+                    "Sevilla",
+                    "lunes",
+                    "querido",
+                    "adiós"
+                  ],
+                  "answer": "Sevilla"
+                },
+                {
+                  "sentence": "Ejemplo de fecha.",
+                  "options": [
+                    "8 de marzo",
+                    "Córdoba",
+                    "amigo",
+                    "carta"
+                  ],
+                  "answer": "8 de marzo"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa lugar y fecha",
+              "lines": [
+                "El __________________ dice desde dónde escribimos.",
+                "La __________________ dice cuándo escribimos.",
+                "En una carta podemos poner: Córdoba, __________________.",
+                "El lugar puede ser un pueblo o una __________________.",
+                "La fecha se escribe al __________________ de la carta."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia ejemplos de fecha",
+              "lines": [
+                "Lucena, 4 de abril",
+                "Córdoba, 10 de mayo",
+                "Sevilla, 22 de junio",
+                "Madrid, 7 de enero",
+                "Málaga, 15 de marzo"
+              ],
+              "instruction": "Copia cada lugar y fecha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "saludo-y-despedida-en-una-carta",
+      "title": "Saludo y despedida en una carta",
+      "excerpt": "Practica saludos y despedidas para escribir cartas con educación.",
+      "metaDescription": "Saludo y despedida en una carta para primaria con actividades.",
+      "featuredImage": "/uploads/fichas-saludo-y-despedida-en-una-carta.webp",
+      "keywords": [
+        "saludo carta",
+        "despedida carta",
+        "partes de una carta",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a aprender sobre el saludo y la despedida en una carta, un contenido muy útil para escribir mensajes claros en Educación Primaria. Una carta es un texto que una persona escribe para comunicarse con otra. Puede servir para contar una noticia, felicitar, agradecer, pedir algo o compartir una experiencia. Algunos ejemplos que vamos a utilizar son Querida Ana, Hola abuelo, Un abrazo, Hasta pronto y Con cariño. Aunque hoy también usamos correos electrónicos y mensajes, conocer las partes de una carta ayuda a ordenar las ideas antes de escribir. Una carta suele tener lugar y fecha, saludo, cuerpo, despedida y firma. Cada parte tiene una función concreta y ayuda al lector a entender quién escribe, cuándo escribe, a quién se dirige y qué quiere contar. Practicar con cartas sencillas permite mejorar la escritura, la lectura, la expresión de sentimientos y el uso de fórmulas de cortesía. Además, escribir cartas es una actividad cercana y significativa para niños y niñas."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cómo saludar y despedirse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para comprender bien el saludo y la despedida en una carta, conviene observar una carta completa y leerla despacio. Primero aparece el lugar y la fecha, que indican desde dónde y cuándo se escribe. Después encontramos el saludo, que sirve para dirigirse a la persona que recibirá la carta. El cuerpo es la parte más larga porque contiene el mensaje principal. Al final aparecen la despedida y la firma, que cierran el texto de forma educada. Con ejemplos como Querido amigo, Estimada profesora, Un abrazo, Muchos besos y Atentamente, el alumnado puede reconocer cada parte y aprender a escribir cartas propias. También es importante usar frases ordenadas, mayúscula al empezar, punto al terminar una idea y palabras amables. Las actividades de completar huecos, unir partes, leer cartas breves y copiar fórmulas ayudan a practicar sin dificultad. Así se aprende que una carta no es solo un texto, sino una forma de comunicarse con respeto y claridad."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El saludo suele aparecer antes del mensaje principal.",
+            "La despedida ayuda a cerrar la carta con amabilidad.",
+            "En cartas familiares se usan palabras cariñosas.",
+            "En cartas formales se usan saludos más respetuosos."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha 3: saludo y despedida",
+          "description": "Ejercicios de saludos y despedidas.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Escoge saludo o despedida",
+              "items": [
+                {
+                  "question": "¿Cuál puede ser un saludo?",
+                  "options": [
+                    "Querida Lola",
+                    "Hasta pronto",
+                    "Mi firma"
+                  ],
+                  "answer": "Querida Lola"
+                },
+                {
+                  "question": "¿Cuál puede ser una despedida?",
+                  "options": [
+                    "Un abrazo",
+                    "Madrid",
+                    "Cuerpo"
+                  ],
+                  "answer": "Un abrazo"
+                },
+                {
+                  "question": "¿Qué saludo usarías con un amigo?",
+                  "options": [
+                    "Hola Pablo",
+                    "Atentamente",
+                    "Fecha"
+                  ],
+                  "answer": "Hola Pablo"
+                },
+                {
+                  "question": "¿Qué despedida es cariñosa?",
+                  "options": [
+                    "Con cariño",
+                    "Lugar",
+                    "Primera línea"
+                  ],
+                  "answer": "Con cariño"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Encuentra el intruso",
+              "groups": [
+                {
+                  "items": [
+                    "Hola Ana",
+                    "Querido Luis",
+                    "Buenas tardes",
+                    "15 de mayo"
+                  ],
+                  "answer": "15 de mayo"
+                },
+                {
+                  "items": [
+                    "Un abrazo",
+                    "Hasta pronto",
+                    "Con cariño",
+                    "Sevilla"
+                  ],
+                  "answer": "Sevilla"
+                },
+                {
+                  "items": [
+                    "Estimada maestra",
+                    "Querida abuela",
+                    "Hola Marta",
+                    "sello"
+                  ],
+                  "answer": "sello"
+                },
+                {
+                  "items": [
+                    "Nos vemos pronto",
+                    "Muchos besos",
+                    "Atentamente",
+                    "cuerpo"
+                  ],
+                  "answer": "cuerpo"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une tipo y ejemplo",
+              "left": [
+                "saludo familiar",
+                "saludo formal",
+                "despedida familiar",
+                "despedida formal",
+                "saludo a un amigo"
+              ],
+              "right": [
+                "Querida abuela",
+                "Estimada directora",
+                "Muchos besos",
+                "Atentamente",
+                "Hola Carlos"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Diseña una tarjeta",
+              "instruction": "Dibuja una tarjeta con un saludo y una despedida cariñosa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cuerpo-de-una-carta",
+      "title": "El cuerpo de una carta",
+      "excerpt": "Aprende a escribir el mensaje principal de una carta de forma ordenada.",
+      "metaDescription": "El cuerpo de una carta explicado para niños con fichas de primaria.",
+      "featuredImage": "/uploads/fichas-cuerpo-de-una-carta.webp",
+      "keywords": [
+        "cuerpo de una carta",
+        "partes de una carta",
+        "escritura primaria",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a aprender sobre el cuerpo de una carta, un contenido muy útil para escribir mensajes claros en Educación Primaria. Una carta es un texto que una persona escribe para comunicarse con otra. Puede servir para contar una noticia, felicitar, agradecer, pedir algo o compartir una experiencia. Algunos ejemplos que vamos a utilizar son contar una noticia, pedir ayuda, agradecer un regalo, explicar un viaje y felicitar a alguien. Aunque hoy también usamos correos electrónicos y mensajes, conocer las partes de una carta ayuda a ordenar las ideas antes de escribir. Una carta suele tener lugar y fecha, saludo, cuerpo, despedida y firma. Cada parte tiene una función concreta y ayuda al lector a entender quién escribe, cuándo escribe, a quién se dirige y qué quiere contar. Practicar con cartas sencillas permite mejorar la escritura, la lectura, la expresión de sentimientos y el uso de fórmulas de cortesía. Además, escribir cartas es una actividad cercana y significativa para niños y niñas."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Qué se escribe en el cuerpo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para comprender bien el cuerpo de una carta, conviene observar una carta completa y leerla despacio. Primero aparece el lugar y la fecha, que indican desde dónde y cuándo se escribe. Después encontramos el saludo, que sirve para dirigirse a la persona que recibirá la carta. El cuerpo es la parte más larga porque contiene el mensaje principal. Al final aparecen la despedida y la firma, que cierran el texto de forma educada. Con ejemplos como una carta para contar una excursión, una carta de agradecimiento o una carta para invitar a un cumpleaños, el alumnado puede reconocer cada parte y aprender a escribir cartas propias. También es importante usar frases ordenadas, mayúscula al empezar, punto al terminar una idea y palabras amables. Las actividades de completar huecos, unir partes, leer cartas breves y copiar fórmulas ayudan a practicar sin dificultad. Así se aprende que una carta no es solo un texto, sino una forma de comunicarse con respeto y claridad."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El cuerpo suele ser la parte más larga de la carta.",
+            "Un cuerpo claro tiene ideas ordenadas.",
+            "Cada frase debe ayudar a entender el mensaje.",
+            "En una carta se pueden contar emociones y noticias."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha 4: el cuerpo",
+          "description": "Practica el mensaje principal.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el cuerpo de la carta",
+              "words": [
+                "noticia",
+                "excursión",
+                "amigos",
+                "parque",
+                "juegos",
+                "merienda"
+              ],
+              "text": "Te escribo para contarte una __________________. Ayer fuimos de __________________ con mis __________________. Visitamos un __________________ muy grande y lleno de árboles. Allí hicimos varios __________________ y después tomamos la __________________ bajo un árbol.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa ideas del cuerpo",
+              "lines": [
+                "En el cuerpo contamos el __________________ principal.",
+                "Podemos escribir una __________________ importante.",
+                "También podemos agradecer un __________________.",
+                "Las ideas deben estar en __________________.",
+                "Cada frase debe ser __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige la mejor palabra",
+              "items": [
+                {
+                  "sentence": "Parte donde se cuenta el mensaje.",
+                  "options": [
+                    "cuerpo",
+                    "firma",
+                    "fecha",
+                    "sello"
+                  ],
+                  "answer": "cuerpo"
+                },
+                {
+                  "sentence": "Una carta puede contar una...",
+                  "options": [
+                    "noticia",
+                    "rueda",
+                    "pared",
+                    "nube"
+                  ],
+                  "answer": "noticia"
+                },
+                {
+                  "sentence": "Las ideas deben estar...",
+                  "options": [
+                    "ordenadas",
+                    "rotas",
+                    "vacías",
+                    "perdidas"
+                  ],
+                  "answer": "ordenadas"
+                },
+                {
+                  "sentence": "Para terminar una frase usamos...",
+                  "options": [
+                    "punto",
+                    "zapato",
+                    "mesa",
+                    "silla"
+                  ],
+                  "answer": "punto"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia frases para una carta",
+              "lines": [
+                "Te escribo para contarte una noticia.",
+                "Me gustó mucho recibir tu carta.",
+                "Ayer fuimos de excursión con la clase.",
+                "Espero que puedas venir pronto.",
+                "Gracias por acordarte de mí."
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "firma-y-sobre-de-una-carta",
+      "title": "Firma y sobre de una carta",
+      "excerpt": "Aprende para qué sirven la firma y el sobre en una carta.",
+      "metaDescription": "Firma y sobre de una carta para primaria con lectura y actividades.",
+      "featuredImage": "/uploads/fichas-firma-y-sobre-de-una-carta.webp",
+      "keywords": [
+        "firma carta",
+        "sobre carta",
+        "partes de una carta",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a aprender sobre la firma y el sobre de una carta, un contenido muy útil para escribir mensajes claros en Educación Primaria. Una carta es un texto que una persona escribe para comunicarse con otra. Puede servir para contar una noticia, felicitar, agradecer, pedir algo o compartir una experiencia. Algunos ejemplos que vamos a utilizar son nombre del remitente, destinatario, dirección, sello y buzón. Aunque hoy también usamos correos electrónicos y mensajes, conocer las partes de una carta ayuda a ordenar las ideas antes de escribir. Una carta suele tener lugar y fecha, saludo, cuerpo, despedida y firma. Cada parte tiene una función concreta y ayuda al lector a entender quién escribe, cuándo escribe, a quién se dirige y qué quiere contar. Practicar con cartas sencillas permite mejorar la escritura, la lectura, la expresión de sentimientos y el uso de fórmulas de cortesía. Además, escribir cartas es una actividad cercana y significativa para niños y niñas."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Para qué sirven la firma y el sobre"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para comprender bien la firma y el sobre de una carta, conviene observar una carta completa y leerla despacio. Primero aparece el lugar y la fecha, que indican desde dónde y cuándo se escribe. Después encontramos el saludo, que sirve para dirigirse a la persona que recibirá la carta. El cuerpo es la parte más larga porque contiene el mensaje principal. Al final aparecen la despedida y la firma, que cierran el texto de forma educada. Con ejemplos como firmar con el nombre, escribir el destinatario, poner la dirección y pegar un sello, el alumnado puede reconocer cada parte y aprender a escribir cartas propias. También es importante usar frases ordenadas, mayúscula al empezar, punto al terminar una idea y palabras amables. Las actividades de completar huecos, unir partes, leer cartas breves y copiar fórmulas ayudan a practicar sin dificultad. Así se aprende que una carta no es solo un texto, sino una forma de comunicarse con respeto y claridad."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El sobre protege la carta durante el viaje.",
+            "El destinatario es la persona que recibe la carta.",
+            "El remitente es la persona que envía la carta.",
+            "El sello ayuda a enviar cartas por correo postal."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha 5: firma y sobre",
+          "description": "Actividades sobre firma, sobre y envío.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "La carta de Dani",
+              "text": "Dani escribió una carta a su tía Marta para felicitarla por su cumpleaños. Al terminar, puso una despedida cariñosa y firmó con su nombre. Después dobló la carta y la metió en un sobre. En la parte delantera escribió el nombre de su tía y su dirección. Su padre le explicó que esa persona era la destinataria. Por último, pegaron un sello y llevaron la carta al buzón.",
+              "questions": [
+                "¿A quién escribió Dani?",
+                "¿Por qué escribió la carta?",
+                "¿Qué puso Dani después de la despedida?",
+                "¿Dónde metió la carta?",
+                "¿Qué pegaron antes de llevarla al buzón?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Responde sobre el sobre",
+              "items": [
+                {
+                  "question": "¿Quién recibe la carta?",
+                  "options": [
+                    "destinatario",
+                    "remitente",
+                    "punto"
+                  ],
+                  "answer": "destinatario"
+                },
+                {
+                  "question": "¿Quién envía la carta?",
+                  "options": [
+                    "remitente",
+                    "sello",
+                    "calle"
+                  ],
+                  "answer": "remitente"
+                },
+                {
+                  "question": "¿Qué protege la carta?",
+                  "options": [
+                    "sobre",
+                    "lápiz",
+                    "mesa"
+                  ],
+                  "answer": "sobre"
+                },
+                {
+                  "question": "¿Qué se pega para enviarla?",
+                  "options": [
+                    "sello",
+                    "flor",
+                    "goma"
+                  ],
+                  "answer": "sello"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une palabra y significado",
+              "left": [
+                "firma",
+                "sobre",
+                "destinatario",
+                "remitente",
+                "dirección",
+                "sello"
+              ],
+              "right": [
+                "nombre de quien escribe",
+                "protege la carta",
+                "recibe la carta",
+                "envía la carta",
+                "lugar de entrega",
+                "sirve para enviar"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja un sobre",
+              "instruction": "Dibuja un sobre con destinatario, remitente, dirección y sello."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

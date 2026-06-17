@@ -1,0 +1,702 @@
+{
+  "topic": {
+    "slug": "como-hacer-un-cuento",
+    "name": "Cómo hacer un cuento"
+  },
+  "articles": [
+    {
+      "slug": "como-hacer-un-cuento-paso-a-paso",
+      "title": "Cómo hacer un cuento paso a paso",
+      "excerpt": "Aprende a crear un cuento con personajes, lugar, problema y final.",
+      "metaDescription": "Cómo hacer un cuento para niños de primaria con explicación y actividades.",
+      "featuredImage": "/uploads/fichas-como-hacer-un-cuento-paso-a-paso.webp",
+      "keywords": [
+        "cómo hacer un cuento",
+        "cuento primaria",
+        "escritura creativa",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar cómo hacer un cuento paso a paso, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y escritura creativa y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como personaje, lugar, inicio, problema, solución y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien cómo hacer un cuento paso a paso, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar personaje, lugar, inicio, problema, solución y final para observar cómo funciona el contenido dentro de una situación sencilla. Un cuento suele tener un inicio, un desarrollo y un final. En él aparecen personajes que viven una aventura. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un cuento puede nacer de una idea muy pequeña.",
+            "Los personajes pueden ser personas, animales u objetos imaginarios.",
+            "El problema hace que la historia sea más interesante.",
+            "El final cuenta cómo termina la aventura."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Cómo hacer un cuento paso a paso",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Cuento paso a paso",
+              "words": [
+                "personaje",
+                "lugar",
+                "inicio",
+                "problema",
+                "solución",
+                "final"
+              ],
+              "text": "Para crear un cuento elijo un __________________ y un __________________. En el __________________ presento la historia. Después aparece un __________________. Más tarde llega una __________________. Al terminar escribo un __________________ claro para cerrar la aventura.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Partes del cuento",
+              "items": [
+                {
+                  "question": "¿Qué aparece al principio?",
+                  "options": [
+                    "inicio",
+                    "firma",
+                    "precio"
+                  ],
+                  "answer": "inicio"
+                },
+                {
+                  "question": "¿Quién vive la aventura?",
+                  "options": [
+                    "personaje",
+                    "sello",
+                    "fecha"
+                  ],
+                  "answer": "personaje"
+                },
+                {
+                  "question": "¿Qué hace interesante la historia?",
+                  "options": [
+                    "problema",
+                    "ruido",
+                    "borrón"
+                  ],
+                  "answer": "problema"
+                },
+                {
+                  "question": "¿Qué cierra el cuento?",
+                  "options": [
+                    "final",
+                    "margen",
+                    "título"
+                  ],
+                  "answer": "final"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une parte y función",
+              "left": [
+                "personaje",
+                "lugar",
+                "inicio",
+                "problema",
+                "solución",
+                "final"
+              ],
+              "right": [
+                "vive la aventura",
+                "donde ocurre",
+                "presenta",
+                "crea emoción",
+                "arregla el conflicto",
+                "cierra la historia"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja tu idea de cuento",
+              "instruction": "Dibuja un personaje, un lugar y un problema para tu cuento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "personajes-de-un-cuento",
+      "title": "Personajes de un cuento",
+      "excerpt": "Descubre cómo crear personajes para escribir cuentos sencillos.",
+      "metaDescription": "Personajes de un cuento para primaria con actividades imprimibles.",
+      "featuredImage": "/uploads/fichas-personajes-de-un-cuento.webp",
+      "keywords": [
+        "cómo hacer un cuento",
+        "cuento primaria",
+        "escritura creativa",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los personajes de un cuento, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como protagonista, amigo, hada, dragón, niña, abuelo y animal, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien los personajes de un cuento, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar protagonista, amigo, hada, dragón, niña, abuelo y animal para observar cómo funciona el contenido dentro de una situación sencilla. Los personajes hacen acciones, hablan, sienten y ayudan a que el cuento avance. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El protagonista es el personaje principal.",
+            "Un personaje puede tener un deseo o una misión.",
+            "Los personajes secundarios acompañan la historia.",
+            "Los cuentos pueden tener personajes reales o fantásticos."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Personajes de un cuento",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "El personaje de Clara",
+              "text": "Clara quería escribir un cuento sobre una niña valiente. Primero pensó cómo se llamaría: Nora. Después decidió que Nora viviría cerca de un bosque y tendría un perro pequeño. El problema sería que una llave mágica se perdería entre los árboles. Clara dibujó a Nora con botas rojas y escribió tres palabras para describirla: curiosa, amable y valiente.",
+              "questions": [
+                "¿Quién quería escribir un cuento?",
+                "¿Cómo se llamaba la protagonista?",
+                "¿Dónde viviría Nora?",
+                "¿Qué objeto se perdería?",
+                "¿Qué tres palabras describían a Nora?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige el personaje",
+              "items": [
+                {
+                  "sentence": "Personaje principal del cuento.",
+                  "options": [
+                    "protagonista",
+                    "margen",
+                    "sello",
+                    "fecha"
+                  ],
+                  "answer": "protagonista"
+                },
+                {
+                  "sentence": "Personaje mágico con alas.",
+                  "options": [
+                    "hada",
+                    "mesa",
+                    "nube",
+                    "plato"
+                  ],
+                  "answer": "hada"
+                },
+                {
+                  "sentence": "Animal que acompaña a Nora.",
+                  "options": [
+                    "perro",
+                    "libro",
+                    "árbol",
+                    "casa"
+                  ],
+                  "answer": "perro"
+                },
+                {
+                  "sentence": "Personaje que puede lanzar fuego en cuentos.",
+                  "options": [
+                    "dragón",
+                    "lápiz",
+                    "zapato",
+                    "vaso"
+                  ],
+                  "answer": "dragón"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa personajes",
+              "lines": [
+                "El __________________ es el personaje principal.",
+                "Un personaje puede ser amable o __________________.",
+                "El personaje vive una __________________.",
+                "Un animal también puede ser __________________.",
+                "El protagonista puede tener una __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia descripciones",
+              "lines": [
+                "Nora es valiente.",
+                "El perro es pequeño.",
+                "El dragón duerme.",
+                "El hada ayuda.",
+                "El abuelo cuenta historias."
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lugar-y-tiempo-en-un-cuento",
+      "title": "Lugar y tiempo en un cuento",
+      "excerpt": "Aprende a elegir dónde y cuándo ocurre un cuento.",
+      "metaDescription": "Lugar y tiempo en un cuento para niños con fichas de primaria.",
+      "featuredImage": "/uploads/fichas-lugar-y-tiempo-en-un-cuento.webp",
+      "keywords": [
+        "cómo hacer un cuento",
+        "cuento primaria",
+        "escritura creativa",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar el lugar y el tiempo de un cuento, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como bosque, castillo, playa, colegio, mañana, noche y verano, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien el lugar y el tiempo de un cuento, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar bosque, castillo, playa, colegio, mañana, noche y verano para observar cómo funciona el contenido dentro de una situación sencilla. El lugar dice dónde ocurre la historia y el tiempo ayuda a saber cuándo sucede. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un cuento puede ocurrir en un bosque o en una ciudad.",
+            "La historia puede pasar de día o de noche.",
+            "El lugar ayuda a imaginar la escena.",
+            "El tiempo puede ser presente, pasado o imaginario."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Lugar y tiempo en un cuento",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Lugar y tiempo",
+              "items": [
+                {
+                  "question": "¿Qué indica el lugar?",
+                  "options": [
+                    "dónde ocurre",
+                    "quién firma",
+                    "qué precio"
+                  ],
+                  "answer": "dónde ocurre"
+                },
+                {
+                  "question": "¿Qué indica el tiempo?",
+                  "options": [
+                    "cuándo sucede",
+                    "qué pesa",
+                    "qué borra"
+                  ],
+                  "answer": "cuándo sucede"
+                },
+                {
+                  "question": "¿Cuál puede ser un lugar?",
+                  "options": [
+                    "bosque",
+                    "ayer",
+                    "pronto"
+                  ],
+                  "answer": "bosque"
+                },
+                {
+                  "question": "¿Cuál puede ser un momento?",
+                  "options": [
+                    "noche",
+                    "castillo",
+                    "playa"
+                  ],
+                  "answer": "noche"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Intrusos del escenario",
+              "groups": [
+                {
+                  "items": [
+                    "bosque",
+                    "castillo",
+                    "playa",
+                    "cuchara"
+                  ],
+                  "answer": "cuchara"
+                },
+                {
+                  "items": [
+                    "mañana",
+                    "noche",
+                    "verano",
+                    "zapato"
+                  ],
+                  "answer": "zapato"
+                },
+                {
+                  "items": [
+                    "colegio",
+                    "casa",
+                    "cueva",
+                    "tenedor"
+                  ],
+                  "answer": "tenedor"
+                },
+                {
+                  "items": [
+                    "ayer",
+                    "hoy",
+                    "después",
+                    "pared"
+                  ],
+                  "answer": "pared"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une escenario y pista",
+              "left": [
+                "bosque",
+                "castillo",
+                "playa",
+                "colegio",
+                "noche"
+              ],
+              "right": [
+                "árboles",
+                "torres",
+                "arena",
+                "clase",
+                "oscuridad"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja el escenario",
+              "instruction": "Dibuja el lugar donde ocurrirá tu cuento y escribe cuándo pasa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "problema-y-solucion-en-un-cuento",
+      "title": "Problema y solución en un cuento",
+      "excerpt": "Practica cómo crear un problema y una solución para tu cuento.",
+      "metaDescription": "Problema y solución en un cuento para primaria con actividades.",
+      "featuredImage": "/uploads/fichas-problema-y-solucion-en-un-cuento.webp",
+      "keywords": [
+        "cómo hacer un cuento",
+        "cuento primaria",
+        "escritura creativa",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar el problema y la solución en un cuento, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como objeto perdido, camino cerrado, lluvia, miedo, ayuda y final feliz, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien el problema y la solución en un cuento, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar objeto perdido, camino cerrado, lluvia, miedo, ayuda y final feliz para observar cómo funciona el contenido dentro de una situación sencilla. El problema crea una dificultad y la solución muestra cómo los personajes la superan. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sin problema, muchos cuentos serían muy cortos.",
+            "La solución puede llegar con ayuda o esfuerzo.",
+            "El problema debe entenderse con claridad.",
+            "Un buen final muestra qué cambió."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Problema y solución en un cuento",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa problema y solución",
+              "words": [
+                "llave",
+                "bosque",
+                "miedo",
+                "amigo",
+                "camino",
+                "final"
+              ],
+              "text": "En el cuento se pierde una __________________ dentro del __________________. El protagonista siente __________________, pero encuentra un __________________ que le ayuda. Juntos descubren otro __________________ y llegan a un __________________ alegre.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Crea el conflicto",
+              "lines": [
+                "El problema del cuento es __________________.",
+                "El personaje necesita __________________.",
+                "Un amigo puede ofrecer __________________.",
+                "La solución aparece cuando __________________.",
+                "El final debe ser __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige la solución",
+              "items": [
+                {
+                  "sentence": "Objeto que se perdió.",
+                  "options": [
+                    "llave",
+                    "silla",
+                    "mesa",
+                    "vaso"
+                  ],
+                  "answer": "llave"
+                },
+                {
+                  "sentence": "Lugar con árboles.",
+                  "options": [
+                    "bosque",
+                    "playa",
+                    "cocina",
+                    "calle"
+                  ],
+                  "answer": "bosque"
+                },
+                {
+                  "sentence": "Persona que ayuda.",
+                  "options": [
+                    "amigo",
+                    "rueda",
+                    "puerta",
+                    "piedra"
+                  ],
+                  "answer": "amigo"
+                },
+                {
+                  "sentence": "Parte que cierra la historia.",
+                  "options": [
+                    "final",
+                    "inicio",
+                    "título",
+                    "fecha"
+                  ],
+                  "answer": "final"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia ideas de conflicto",
+              "lines": [
+                "La llave se perdió.",
+                "El camino estaba cerrado.",
+                "La lluvia empezó fuerte.",
+                "Un amigo llegó a ayudar.",
+                "El final fue alegre."
+              ],
+              "instruction": "Copia estas ideas para cuentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "escribir-y-revisar-un-cuento",
+      "title": "Escribir un cuento completo",
+      "excerpt": "Organiza tus ideas para escribir un cuento completo y claro.",
+      "metaDescription": "Escribir un cuento completo para primaria con lectura y actividades.",
+      "featuredImage": "/uploads/fichas-escribir-y-revisar-un-cuento.webp",
+      "keywords": [
+        "cómo hacer un cuento",
+        "cuento primaria",
+        "escritura creativa",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar la escritura de un cuento completo, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como título, inicio, personajes, problema, solución y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien la escritura de un cuento completo, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar título, inicio, personajes, problema, solución y final para observar cómo funciona el contenido dentro de una situación sencilla. Un cuento completo necesita ideas ordenadas y frases que se entiendan bien. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El título invita a leer la historia.",
+            "El inicio presenta personajes y lugar.",
+            "El desarrollo cuenta el problema.",
+            "El final explica cómo termina todo."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Escribir un cuento completo",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "El cuento de Mateo",
+              "text": "Mateo escribió un cuento titulado La mochila viajera. En el inicio presentó a una niña llamada Leo y explicó que vivía cerca del mar. Después contó el problema: la mochila de Leo desapareció antes de una excursión. En el desarrollo, Leo siguió unas huellas de arena hasta una caseta. Allí encontró la mochila y descubrió que su perro la había llevado. El final fue alegre porque todos llegaron a tiempo al autobús.",
+              "questions": [
+                "¿Cómo se titulaba el cuento?",
+                "¿Cómo se llamaba la niña?",
+                "¿Dónde vivía Leo?",
+                "¿Qué problema ocurrió?",
+                "¿Quién había llevado la mochila?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Ordena partes del cuento",
+              "left": [
+                "título",
+                "inicio",
+                "problema",
+                "desarrollo",
+                "solución",
+                "final"
+              ],
+              "right": [
+                "nombre del cuento",
+                "presenta",
+                "dificultad",
+                "acciones",
+                "arreglo",
+                "cierre"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Comprende el cuento",
+              "items": [
+                {
+                  "question": "¿Qué presenta el inicio?",
+                  "options": [
+                    "personajes y lugar",
+                    "solo números",
+                    "una lista"
+                  ],
+                  "answer": "personajes y lugar"
+                },
+                {
+                  "question": "¿Qué desapareció?",
+                  "options": [
+                    "mochila",
+                    "barco",
+                    "cuaderno"
+                  ],
+                  "answer": "mochila"
+                },
+                {
+                  "question": "¿Qué siguió Leo?",
+                  "options": [
+                    "huellas",
+                    "estrellas",
+                    "papeles"
+                  ],
+                  "answer": "huellas"
+                },
+                {
+                  "question": "¿Cómo fue el final?",
+                  "options": [
+                    "alegre",
+                    "triste",
+                    "confuso"
+                  ],
+                  "answer": "alegre"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Portada del cuento",
+              "instruction": "Dibuja una portada para un cuento llamado La mochila viajera."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

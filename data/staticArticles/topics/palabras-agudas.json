@@ -1,0 +1,702 @@
+{
+  "topic": {
+    "slug": "palabras-agudas",
+    "name": "Palabras agudas"
+  },
+  "articles": [
+    {
+      "slug": "que-son-las-palabras-agudas",
+      "title": "Qué son las palabras agudas",
+      "excerpt": "Aprende qué son las palabras agudas con ejemplos sencillos.",
+      "metaDescription": "Palabras agudas para primaria con explicación y actividades.",
+      "featuredImage": "/uploads/fichas-que-son-las-palabras-agudas.webp",
+      "keywords": [
+        "palabras agudas",
+        "acentuación",
+        "lengua primaria",
+        "ortografía"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar las palabras agudas, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son café, balón, reloj, papel, canción y sofá. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien las palabras agudas, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como café, balón, reloj, papel, canción y sofá, porque son fáciles de imaginar y aparecen en situaciones cercanas. En una palabra aguda la sílaba que suena con más fuerza es la última. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Café es aguda porque suena fuerte al final.",
+            "Reloj es aguda, aunque no lleva tilde.",
+            "Balón lleva tilde porque termina en n.",
+            "Papel no lleva tilde porque termina en l."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Qué son las palabras agudas",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa palabras agudas",
+              "words": [
+                "café",
+                "balón",
+                "reloj",
+                "papel",
+                "sofá",
+                "canción"
+              ],
+              "text": "Las palabras agudas tienen fuerza en la última sílaba. Por ejemplo, __________________ y __________________ llevan tilde. También son agudas __________________, __________________, __________________ y __________________. Todas se leen marcando más la parte final.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Reconoce agudas",
+              "items": [
+                {
+                  "question": "¿Dónde suena fuerte una aguda?",
+                  "options": [
+                    "última sílaba",
+                    "primera sílaba",
+                    "ninguna"
+                  ],
+                  "answer": "última sílaba"
+                },
+                {
+                  "question": "¿Qué palabra es aguda?",
+                  "options": [
+                    "café",
+                    "mesa",
+                    "árbol"
+                  ],
+                  "answer": "café"
+                },
+                {
+                  "question": "¿Qué palabra aguda no lleva tilde?",
+                  "options": [
+                    "reloj",
+                    "balón",
+                    "sofá"
+                  ],
+                  "answer": "reloj"
+                },
+                {
+                  "question": "¿Qué palabra termina en n?",
+                  "options": [
+                    "balón",
+                    "papel",
+                    "café"
+                  ],
+                  "answer": "balón"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une palabra y pista",
+              "left": [
+                "café",
+                "balón",
+                "reloj",
+                "papel",
+                "sofá"
+              ],
+              "right": [
+                "termina en vocal",
+                "termina en n",
+                "termina en j",
+                "termina en l",
+                "mueble agudo"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja palabras agudas",
+              "instruction": "Dibuja un balón, un reloj y un sofá."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tilde-en-palabras-agudas",
+      "title": "La tilde en palabras agudas",
+      "excerpt": "Practica cuándo llevan tilde las palabras agudas.",
+      "metaDescription": "Tilde en palabras agudas para niños con fichas imprimibles.",
+      "featuredImage": "/uploads/fichas-tilde-en-palabras-agudas.webp",
+      "keywords": [
+        "palabras agudas",
+        "acentuación",
+        "lengua primaria",
+        "ortografía"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar la tilde en palabras agudas, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son camión, bebé, compás, menú, ciudad y animal. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien la tilde en palabras agudas, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como camión, bebé, compás, menú, ciudad y animal, porque son fáciles de imaginar y aparecen en situaciones cercanas. Las palabras agudas llevan tilde cuando terminan en vocal, n o s. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Camión lleva tilde porque termina en n.",
+            "Menú lleva tilde porque termina en vocal.",
+            "Ciudad es aguda pero no lleva tilde.",
+            "Animal termina en l y no lleva tilde."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: La tilde en palabras agudas",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "La lista de Raúl",
+              "text": "Raúl escribió una lista de palabras agudas en su cuaderno de Lengua. Primero apuntó camión, menú y bebé, porque su maestra explicó que llevan tilde al terminar en vocal o en n. Después escribió ciudad y animal, que también son agudas, pero no llevan tilde porque no terminan en vocal, n o s. Al final, Raúl leyó cada palabra separando las sílabas para escuchar cuál sonaba más fuerte.",
+              "questions": [
+                "¿Quién escribió la lista?",
+                "¿Qué tres palabras llevan tilde?",
+                "¿Qué dos palabras no llevan tilde?",
+                "¿Por qué ciudad no lleva tilde?",
+                "¿Qué hizo Raúl al final?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa la regla",
+              "lines": [
+                "Las agudas llevan tilde si terminan en __________________.",
+                "Camión lleva tilde porque termina en __________________.",
+                "Menú lleva tilde porque termina en __________________.",
+                "Animal no lleva tilde porque termina en __________________.",
+                "Ciudad es aguda pero no lleva __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Busca el intruso",
+              "groups": [
+                {
+                  "items": [
+                    "camión",
+                    "bebé",
+                    "menú",
+                    "mesa"
+                  ],
+                  "answer": "mesa"
+                },
+                {
+                  "items": [
+                    "ciudad",
+                    "animal",
+                    "reloj",
+                    "árbol"
+                  ],
+                  "answer": "árbol"
+                },
+                {
+                  "items": [
+                    "compás",
+                    "jamás",
+                    "interés",
+                    "casa"
+                  ],
+                  "answer": "casa"
+                },
+                {
+                  "items": [
+                    "papel",
+                    "pared",
+                    "tambor",
+                    "lápiz"
+                  ],
+                  "answer": "lápiz"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia agudas con tilde",
+              "lines": [
+                "camión",
+                "bebé",
+                "menú",
+                "compás",
+                "jamás",
+                "interés"
+              ],
+              "instruction": "Copia las palabras con tilde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "palabras-agudas-sin-tilde",
+      "title": "Palabras agudas sin tilde",
+      "excerpt": "Aprende palabras agudas que no llevan tilde.",
+      "metaDescription": "Palabras agudas sin tilde para primaria con ejercicios.",
+      "featuredImage": "/uploads/fichas-palabras-agudas-sin-tilde.webp",
+      "keywords": [
+        "palabras agudas",
+        "acentuación",
+        "lengua primaria",
+        "ortografía"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar las palabras agudas sin tilde, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son reloj, papel, pared, animal, ciudad y tambor. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien las palabras agudas sin tilde, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como reloj, papel, pared, animal, ciudad y tambor, porque son fáciles de imaginar y aparecen en situaciones cercanas. Muchas agudas no llevan tilde porque terminan en consonantes distintas de n o s. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Reloj termina en j y no lleva tilde.",
+            "Papel termina en l y no lleva tilde.",
+            "Pared termina en d y no lleva tilde.",
+            "Tambor termina en r y no lleva tilde."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Palabras agudas sin tilde",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "chooseWord",
+              "title": "Elige agudas sin tilde",
+              "items": [
+                {
+                  "sentence": "Objeto que da la hora.",
+                  "options": [
+                    "reloj",
+                    "mesa",
+                    "coche",
+                    "árbol"
+                  ],
+                  "answer": "reloj"
+                },
+                {
+                  "sentence": "Material para escribir.",
+                  "options": [
+                    "papel",
+                    "lápiz",
+                    "silla",
+                    "cama"
+                  ],
+                  "answer": "papel"
+                },
+                {
+                  "sentence": "Lugar con calles y edificios.",
+                  "options": [
+                    "ciudad",
+                    "campo",
+                    "flor",
+                    "nube"
+                  ],
+                  "answer": "ciudad"
+                },
+                {
+                  "sentence": "Instrumento que se golpea.",
+                  "options": [
+                    "tambor",
+                    "flauta",
+                    "piano",
+                    "regla"
+                  ],
+                  "answer": "tambor"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une palabra y final",
+              "left": [
+                "reloj",
+                "papel",
+                "pared",
+                "animal",
+                "ciudad",
+                "tambor"
+              ],
+              "right": [
+                "j",
+                "l",
+                "d",
+                "l",
+                "d",
+                "r"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa sin tilde",
+              "lines": [
+                "El __________________ marca la hora.",
+                "Escribo en un __________________.",
+                "Mi casa tiene una __________________ blanca.",
+                "El perro es un __________________.",
+                "Vivo en una __________________ grande."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja agudas sin tilde",
+              "instruction": "Dibuja un reloj, un papel y un tambor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "separar-silabas-agudas",
+      "title": "Separar sílabas en palabras agudas",
+      "excerpt": "Practica la sílaba fuerte de las palabras agudas.",
+      "metaDescription": "Separar sílabas en palabras agudas para primaria.",
+      "featuredImage": "/uploads/fichas-separar-silabas-agudas.webp",
+      "keywords": [
+        "palabras agudas",
+        "acentuación",
+        "lengua primaria",
+        "ortografía"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar la separación de sílabas en palabras agudas, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son ca-fé, ba-lón, re-loj, pa-pel, me-nú y ta-bor. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien la separación de sílabas en palabras agudas, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como ca-fé, ba-lón, re-loj, pa-pel, me-nú y ta-bor, porque son fáciles de imaginar y aparecen en situaciones cercanas. Separar sílabas ayuda a escuchar cuál es la parte que suena con más fuerza. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Café se separa ca-fé.",
+            "Balón se separa ba-lón.",
+            "Reloj se separa re-loj.",
+            "Menú se separa me-nú."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Separar sílabas en palabras agudas",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa sílabas agudas",
+              "words": [
+                "ca-fé",
+                "ba-lón",
+                "re-loj",
+                "pa-pel",
+                "me-nú",
+                "ta-bor"
+              ],
+              "text": "Para estudiar agudas separamos palabras. Café es __________________. Balón es __________________. Reloj es __________________. Papel es __________________. Menú es __________________. Tambor es __________________. En todas suena fuerte la última parte.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Escucha la sílaba fuerte",
+              "items": [
+                {
+                  "question": "¿Cuál es la última sílaba de ca-fé?",
+                  "options": [
+                    "fé",
+                    "ca",
+                    "ce"
+                  ],
+                  "answer": "fé"
+                },
+                {
+                  "question": "¿Cuál suena fuerte en ba-lón?",
+                  "options": [
+                    "lón",
+                    "ba",
+                    "bo"
+                  ],
+                  "answer": "lón"
+                },
+                {
+                  "question": "¿Cuál es la última de re-loj?",
+                  "options": [
+                    "loj",
+                    "re",
+                    "la"
+                  ],
+                  "answer": "loj"
+                },
+                {
+                  "question": "¿Qué ayuda a escuchar mejor?",
+                  "options": [
+                    "separar sílabas",
+                    "cerrar el libro",
+                    "borrar todo"
+                  ],
+                  "answer": "separar sílabas"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia separaciones",
+              "lines": [
+                "ca-fé",
+                "ba-lón",
+                "re-loj",
+                "pa-pel",
+                "me-nú",
+                "ta-bor"
+              ],
+              "instruction": "Copia las palabras separadas."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja y separa",
+              "instruction": "Dibuja un café y un balón. Escribe sus sílabas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "juegos-con-palabras-agudas",
+      "title": "Juegos con palabras agudas",
+      "excerpt": "Repasa palabras agudas con lectura, copia y juegos.",
+      "metaDescription": "Juegos con palabras agudas para niños de primaria.",
+      "featuredImage": "/uploads/fichas-juegos-con-palabras-agudas.webp",
+      "keywords": [
+        "palabras agudas",
+        "acentuación",
+        "lengua primaria",
+        "ortografía"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los juegos con palabras agudas, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Lengua y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son dominó, canción, cartel, rincón, azul y final. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los juegos con palabras agudas, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como dominó, canción, cartel, rincón, azul y final, porque son fáciles de imaginar y aparecen en situaciones cercanas. Los juegos ayudan a reconocer agudas de forma divertida y a fijarse en el sonido final. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Canción es aguda y lleva tilde.",
+            "Azul es aguda y no lleva tilde.",
+            "Final es aguda y termina en l.",
+            "Rincón lleva tilde porque termina en n."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Juegos con palabras agudas",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "El juego del rincón",
+              "text": "En clase jugaron al rincón de las palabras agudas. Cada equipo recibió tarjetas con palabras como canción, azul, cartel, final y rincón. La maestra pidió leerlas en voz alta y escuchar la sílaba final. Después, los niños separaron las palabras en sílabas y colocaron una estrella en las que llevaban tilde. Ganó el equipo que leyó con calma y ordenó mejor sus tarjetas.",
+              "questions": [
+                "¿A qué jugaron en clase?",
+                "¿Qué palabras tenían las tarjetas?",
+                "¿Qué pidió la maestra?",
+                "¿Dónde colocaron una estrella?",
+                "¿Qué equipo ganó?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Intrusos del juego",
+              "groups": [
+                {
+                  "items": [
+                    "canción",
+                    "rincón",
+                    "cartel",
+                    "mesa"
+                  ],
+                  "answer": "mesa"
+                },
+                {
+                  "items": [
+                    "azul",
+                    "final",
+                    "papel",
+                    "árbol"
+                  ],
+                  "answer": "árbol"
+                },
+                {
+                  "items": [
+                    "dominó",
+                    "bebé",
+                    "menú",
+                    "casa"
+                  ],
+                  "answer": "casa"
+                },
+                {
+                  "items": [
+                    "tambor",
+                    "reloj",
+                    "animal",
+                    "lápiz"
+                  ],
+                  "answer": "lápiz"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige la palabra aguda",
+              "items": [
+                {
+                  "sentence": "Palabra aguda con tilde.",
+                  "options": [
+                    "canción",
+                    "mesa",
+                    "árbol",
+                    "lápiz"
+                  ],
+                  "answer": "canción"
+                },
+                {
+                  "sentence": "Color que es palabra aguda.",
+                  "options": [
+                    "azul",
+                    "verde",
+                    "rojo",
+                    "blanco"
+                  ],
+                  "answer": "azul"
+                },
+                {
+                  "sentence": "Lugar pequeño en una habitación.",
+                  "options": [
+                    "rincón",
+                    "cama",
+                    "silla",
+                    "puerta"
+                  ],
+                  "answer": "rincón"
+                },
+                {
+                  "sentence": "Palabra que termina en l.",
+                  "options": [
+                    "final",
+                    "sofá",
+                    "camión",
+                    "bebé"
+                  ],
+                  "answer": "final"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une palabra y tilde",
+              "left": [
+                "canción",
+                "azul",
+                "rincón",
+                "final",
+                "dominó"
+              ],
+              "right": [
+                "con tilde",
+                "sin tilde",
+                "con tilde",
+                "sin tilde",
+                "con tilde"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

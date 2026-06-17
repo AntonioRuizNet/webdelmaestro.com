@@ -1,0 +1,701 @@
+{
+  "topic": {
+    "slug": "colores-en-ingles",
+    "name": "Colores en inglés"
+  },
+  "articles": [
+    {
+      "slug": "colores-basicos-en-ingles",
+      "title": "Colores básicos en inglés",
+      "excerpt": "Aprende red, blue, yellow, green, black y white con fichas.",
+      "metaDescription": "Colores básicos en inglés para niños de primaria con actividades.",
+      "featuredImage": "/uploads/fichas-colores-basicos-en-ingles.webp",
+      "keywords": [
+        "colores en inglés",
+        "english colors",
+        "vocabulario inglés",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los colores básicos en inglés, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Inglés y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son red, blue, yellow, green, black y white. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los colores básicos en inglés, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como red, blue, yellow, green, black y white, porque son fáciles de imaginar y aparecen en situaciones cercanas. Aprender colores en inglés ayuda a describir objetos, dibujos, ropa y animales en frases sencillas. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Red significa rojo.",
+            "Blue significa azul.",
+            "Yellow significa amarillo.",
+            "Green significa verde."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Colores básicos en inglés",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa los colores",
+              "words": [
+                "red",
+                "blue",
+                "yellow",
+                "green",
+                "black",
+                "white"
+              ],
+              "text": "In English, rojo is __________________ and azul is __________________. Amarillo is __________________ and verde is __________________. Negro is __________________ and blanco is __________________. These words help us describe drawings, clothes and classroom objects.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Choose the color",
+              "items": [
+                {
+                  "question": "What color is rojo?",
+                  "options": [
+                    "red",
+                    "blue",
+                    "green"
+                  ],
+                  "answer": "red"
+                },
+                {
+                  "question": "What color is azul?",
+                  "options": [
+                    "blue",
+                    "black",
+                    "white"
+                  ],
+                  "answer": "blue"
+                },
+                {
+                  "question": "What color is amarillo?",
+                  "options": [
+                    "yellow",
+                    "green",
+                    "red"
+                  ],
+                  "answer": "yellow"
+                },
+                {
+                  "question": "What color is blanco?",
+                  "options": [
+                    "white",
+                    "black",
+                    "blue"
+                  ],
+                  "answer": "white"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Match colors",
+              "left": [
+                "red",
+                "blue",
+                "yellow",
+                "green",
+                "black",
+                "white"
+              ],
+              "right": [
+                "rojo",
+                "azul",
+                "amarillo",
+                "verde",
+                "negro",
+                "blanco"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Draw basic colors",
+              "instruction": "Dibuja seis círculos y escribe red, blue, yellow, green, black y white."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "colores-de-objetos-en-ingles",
+      "title": "Colores de objetos en inglés",
+      "excerpt": "Practica colores en inglés con objetos de clase y de casa.",
+      "metaDescription": "Colores de objetos en inglés para primaria con fichas.",
+      "featuredImage": "/uploads/fichas-colores-de-objetos-en-ingles.webp",
+      "keywords": [
+        "colores en inglés",
+        "english colors",
+        "vocabulario inglés",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los colores de objetos en inglés, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Inglés y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son a red pencil, a blue bag, a green book, a yellow ball y a white door. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los colores de objetos en inglés, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como a red pencil, a blue bag, a green book, a yellow ball y a white door, porque son fáciles de imaginar y aparecen en situaciones cercanas. Podemos unir un color y un objeto para formar frases sencillas como a red pencil o a blue bag. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "En inglés el color suele ir antes del objeto.",
+            "A red pencil significa un lápiz rojo.",
+            "A blue bag significa una mochila azul.",
+            "A green book significa un libro verde."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Colores de objetos en inglés",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "The classroom colors",
+              "text": "In the classroom, Marta sees a red pencil on the table. She has a blue bag next to her chair and a green book in her hands. On the wall there is a yellow poster with animals and flowers. The door is white and the board is black. Marta says the colors in English with her teacher and then draws each object in her notebook using the correct color and writes its name.",
+              "questions": [
+                "What color is the pencil?",
+                "What color is the bag?",
+                "What object is green?",
+                "What color is the poster?",
+                "What color is the door?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Choose the object color",
+              "items": [
+                {
+                  "sentence": "A lápiz rojo.",
+                  "options": [
+                    "red pencil",
+                    "blue pencil",
+                    "green pencil",
+                    "white pencil"
+                  ],
+                  "answer": "red pencil"
+                },
+                {
+                  "sentence": "Una mochila azul.",
+                  "options": [
+                    "blue bag",
+                    "red bag",
+                    "yellow bag",
+                    "black bag"
+                  ],
+                  "answer": "blue bag"
+                },
+                {
+                  "sentence": "Un libro verde.",
+                  "options": [
+                    "green book",
+                    "white book",
+                    "red book",
+                    "blue book"
+                  ],
+                  "answer": "green book"
+                },
+                {
+                  "sentence": "Un cartel amarillo.",
+                  "options": [
+                    "yellow poster",
+                    "black poster",
+                    "blue poster",
+                    "red poster"
+                  ],
+                  "answer": "yellow poster"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Complete English colors",
+              "lines": [
+                "The pencil is __________________.",
+                "The bag is __________________.",
+                "The book is __________________.",
+                "The poster is __________________.",
+                "The door is __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "textLines",
+              "title": "Copy color phrases",
+              "lines": [
+                "red pencil",
+                "blue bag",
+                "green book",
+                "yellow poster",
+                "white door",
+                "black board"
+              ],
+              "instruction": "Copia las frases en inglés."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "colores-de-animales-en-ingles",
+      "title": "Colores de animales en inglés",
+      "excerpt": "Describe animales con colores en inglés mediante actividades.",
+      "metaDescription": "Colores de animales en inglés para niños de primaria.",
+      "featuredImage": "/uploads/fichas-colores-de-animales-en-ingles.webp",
+      "keywords": [
+        "colores en inglés",
+        "english colors",
+        "vocabulario inglés",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los colores de animales en inglés, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Inglés y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son brown dog, black cat, white rabbit, orange fish y gray elephant. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien los colores de animales en inglés, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como brown dog, black cat, white rabbit, orange fish y gray elephant, porque son fáciles de imaginar y aparecen en situaciones cercanas. Los colores permiten describir animales de forma sencilla en inglés. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Brown significa marrón.",
+            "Orange significa naranja.",
+            "Gray significa gris.",
+            "White rabbit significa conejo blanco."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Colores de animales en inglés",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "chooseWord",
+              "title": "Choose animal color",
+              "items": [
+                {
+                  "sentence": "Un perro marrón.",
+                  "options": [
+                    "brown dog",
+                    "blue dog",
+                    "red dog",
+                    "green dog"
+                  ],
+                  "answer": "brown dog"
+                },
+                {
+                  "sentence": "Un gato negro.",
+                  "options": [
+                    "black cat",
+                    "white cat",
+                    "yellow cat",
+                    "blue cat"
+                  ],
+                  "answer": "black cat"
+                },
+                {
+                  "sentence": "Un conejo blanco.",
+                  "options": [
+                    "white rabbit",
+                    "red rabbit",
+                    "green rabbit",
+                    "black rabbit"
+                  ],
+                  "answer": "white rabbit"
+                },
+                {
+                  "sentence": "Un pez naranja.",
+                  "options": [
+                    "orange fish",
+                    "gray fish",
+                    "brown fish",
+                    "blue fish"
+                  ],
+                  "answer": "orange fish"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Odd color out",
+              "groups": [
+                {
+                  "items": [
+                    "brown dog",
+                    "black cat",
+                    "white rabbit",
+                    "school bag"
+                  ],
+                  "answer": "school bag"
+                },
+                {
+                  "items": [
+                    "orange fish",
+                    "gray elephant",
+                    "green frog",
+                    "pencil case"
+                  ],
+                  "answer": "pencil case"
+                },
+                {
+                  "items": [
+                    "red bird",
+                    "blue whale",
+                    "yellow duck",
+                    "window"
+                  ],
+                  "answer": "window"
+                },
+                {
+                  "items": [
+                    "white sheep",
+                    "brown horse",
+                    "black dog",
+                    "table"
+                  ],
+                  "answer": "table"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Match animal phrases",
+              "left": [
+                "brown dog",
+                "black cat",
+                "white rabbit",
+                "orange fish",
+                "gray elephant"
+              ],
+              "right": [
+                "perro marrón",
+                "gato negro",
+                "conejo blanco",
+                "pez naranja",
+                "elefante gris"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Draw colored animals",
+              "instruction": "Dibuja tres animales y escribe su color en inglés."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mezclas-y-colores-en-ingles",
+      "title": "Mezclas y colores en inglés",
+      "excerpt": "Aprende colores y mezclas sencillas en inglés.",
+      "metaDescription": "Mezclas de colores en inglés para primaria con actividades.",
+      "featuredImage": "/uploads/fichas-mezclas-y-colores-en-ingles.webp",
+      "keywords": [
+        "colores en inglés",
+        "english colors",
+        "vocabulario inglés",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar las mezclas y colores en inglés, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Inglés y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son red, yellow, orange, blue, green, purple y pink. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien las mezclas y colores en inglés, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como red, yellow, orange, blue, green, purple y pink, porque son fáciles de imaginar y aparecen en situaciones cercanas. Algunas mezclas de colores ayudan a recordar vocabulario nuevo de manera visual. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Red and yellow make orange.",
+            "Blue and yellow make green.",
+            "Red and blue make purple.",
+            "Pink se relaciona con rosa."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Mezclas y colores en inglés",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Complete color mixes",
+              "words": [
+                "red",
+                "yellow",
+                "orange",
+                "blue",
+                "green",
+                "purple"
+              ],
+              "text": "When we mix __________________ and __________________, we can get __________________. When we mix __________________ and yellow, we can get __________________. Red and blue can make __________________. Colors help us paint and describe pictures in English.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Color mix questions",
+              "items": [
+                {
+                  "question": "Red and yellow make...",
+                  "options": [
+                    "orange",
+                    "green",
+                    "black"
+                  ],
+                  "answer": "orange"
+                },
+                {
+                  "question": "Blue and yellow make...",
+                  "options": [
+                    "green",
+                    "pink",
+                    "white"
+                  ],
+                  "answer": "green"
+                },
+                {
+                  "question": "Red and blue make...",
+                  "options": [
+                    "purple",
+                    "yellow",
+                    "brown"
+                  ],
+                  "answer": "purple"
+                },
+                {
+                  "question": "What color is rosa?",
+                  "options": [
+                    "pink",
+                    "black",
+                    "gray"
+                  ],
+                  "answer": "pink"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Complete color words",
+              "lines": [
+                "Red and yellow make __________________.",
+                "Blue and yellow make __________________.",
+                "Red and blue make __________________.",
+                "Pink means __________________.",
+                "Orange means __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Paint color mixes",
+              "instruction": "Dibuja tres mezclas de colores y escribe sus nombres en inglés."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "frases-con-colores-en-ingles",
+      "title": "Frases con colores en inglés",
+      "excerpt": "Lee y copia frases sencillas con colores en inglés.",
+      "metaDescription": "Frases con colores en inglés para primaria con comprensión.",
+      "featuredImage": "/uploads/fichas-frases-con-colores-en-ingles.webp",
+      "keywords": [
+        "colores en inglés",
+        "english colors",
+        "vocabulario inglés",
+        "primaria"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar las frases con colores en inglés, un contenido útil para alumnado de Educación Primaria. Este tema pertenece al aprendizaje de Inglés y ayuda a comprender mejor textos, situaciones y actividades de clase. Algunos ejemplos que vamos a usar son The ball is red, The sky is blue, The grass is green y The sun is yellow. Aprender con ejemplos cercanos permite relacionar las palabras nuevas con la vida diaria, los libros, los dibujos y las conversaciones del aula. También ayuda a leer con más atención, escribir con más claridad y explicar ideas de forma ordenada. Para estudiar este contenido conviene observar, comparar, completar frases, unir ideas y responder preguntas sencillas. Así los niños y niñas no memorizan sin entender, sino que descubren para qué sirve lo aprendido. Las actividades imprimibles permiten practicar poco a poco y comprobar si se reconocen los conceptos principales."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para entender bien las frases con colores en inglés, es importante empezar con una explicación sencilla y después practicar con casos reales. Podemos usar ejemplos como The ball is red, The sky is blue, The grass is green y The sun is yellow, porque son fáciles de imaginar y aparecen en situaciones cercanas. Las frases cortas ayudan a usar los colores en situaciones reales. Una buena actividad consiste en leer una frase, buscar la palabra clave y pensar qué significa antes de contestar. También se puede copiar vocabulario, completar huecos largos, relacionar columnas o dibujar una escena relacionada. Estos ejercicios ayudan a mejorar la comprensión lectora, la expresión escrita y la atención. Cuando el alumnado trabaja con materiales claros, se siente más seguro y participa mejor. Por eso cada ficha debe presentar pocas ideas importantes, explicadas con palabras sencillas y acompañadas de ejemplos que puedan reconocerse en casa, en el colegio o en los cuentos."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The sky is blue significa El cielo es azul.",
+            "The grass is green significa La hierba es verde.",
+            "The sun is yellow significa El sol es amarillo.",
+            "The ball is red significa La pelota es roja."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Frases con colores en inglés",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "A colorful day",
+              "text": "Today is a colorful day. The sky is blue and the sun is yellow. In the park, the grass is green and a small ball is red. Emma has a pink hat and a white notebook in her school bag. She draws a black cat and an orange fish on a clean page. Then she reads the color words aloud with her teacher and smiles because she remembers many colors from class and her book.",
+              "questions": [
+                "What color is the sky?",
+                "What color is the sun?",
+                "What color is the grass?",
+                "What color is the ball?",
+                "What animal is black?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Match sentences",
+              "left": [
+                "The sky is blue",
+                "The sun is yellow",
+                "The grass is green",
+                "The ball is red",
+                "The cat is black"
+              ],
+              "right": [
+                "El cielo es azul",
+                "El sol es amarillo",
+                "La hierba es verde",
+                "La pelota es roja",
+                "El gato es negro"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Read the sentence",
+              "items": [
+                {
+                  "question": "What means blue?",
+                  "options": [
+                    "azul",
+                    "rojo",
+                    "verde"
+                  ],
+                  "answer": "azul"
+                },
+                {
+                  "question": "What means yellow?",
+                  "options": [
+                    "amarillo",
+                    "negro",
+                    "blanco"
+                  ],
+                  "answer": "amarillo"
+                },
+                {
+                  "question": "What means green?",
+                  "options": [
+                    "verde",
+                    "gris",
+                    "rosa"
+                  ],
+                  "answer": "verde"
+                },
+                {
+                  "question": "What means black?",
+                  "options": [
+                    "negro",
+                    "naranja",
+                    "azul"
+                  ],
+                  "answer": "negro"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copy English sentences",
+              "lines": [
+                "The sky is blue.",
+                "The sun is yellow.",
+                "The grass is green.",
+                "The ball is red.",
+                "The cat is black."
+              ],
+              "instruction": "Copia las frases en inglés."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

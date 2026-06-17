@@ -1,0 +1,702 @@
+{
+  "topic": {
+    "slug": "como-hacer-un-comic",
+    "name": "Cómo hacer un cómic"
+  },
+  "articles": [
+    {
+      "slug": "como-hacer-un-comic-paso-a-paso",
+      "title": "Cómo hacer un cómic paso a paso",
+      "excerpt": "Aprende a crear un cómic con viñetas, bocadillos y personajes.",
+      "metaDescription": "Cómo hacer un cómic para niños con actividades de primaria.",
+      "featuredImage": "/uploads/fichas-como-hacer-un-comic-paso-a-paso.webp",
+      "keywords": [
+        "cómo hacer un cómic",
+        "comic primaria",
+        "viñetas",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar cómo hacer un cómic paso a paso, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y expresión visual y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como viñeta, personaje, bocadillo, diálogo, escena y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien cómo hacer un cómic paso a paso, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar viñeta, personaje, bocadillo, diálogo, escena y final para observar cómo funciona el contenido dentro de una situación sencilla. Un cómic cuenta una historia usando dibujos y palabras dentro de viñetas. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Las viñetas son los recuadros del cómic.",
+            "Los bocadillos muestran lo que dice un personaje.",
+            "El orden de lectura ayuda a entender la historia.",
+            "Un cómic puede ser divertido, misterioso o informativo."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Cómo hacer un cómic paso a paso",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el cómic",
+              "words": [
+                "viñeta",
+                "personaje",
+                "bocadillo",
+                "diálogo",
+                "escena",
+                "final"
+              ],
+              "text": "Para hacer un cómic dibujo una __________________ con un __________________. Si habla, uso un __________________ y escribo un __________________ corto. Cada __________________ debe entenderse bien y mostrar una acción. Al terminar preparo un __________________ claro para cerrar la aventura.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Partes del cómic",
+              "items": [
+                {
+                  "question": "¿Qué es una viñeta?",
+                  "options": [
+                    "un recuadro",
+                    "un precio",
+                    "una fecha"
+                  ],
+                  "answer": "un recuadro"
+                },
+                {
+                  "question": "¿Dónde habla el personaje?",
+                  "options": [
+                    "bocadillo",
+                    "margen",
+                    "sello"
+                  ],
+                  "answer": "bocadillo"
+                },
+                {
+                  "question": "¿Qué cuenta el cómic?",
+                  "options": [
+                    "historia",
+                    "solo números",
+                    "lista"
+                  ],
+                  "answer": "historia"
+                },
+                {
+                  "question": "¿Qué debe tener el final?",
+                  "options": [
+                    "claridad",
+                    "ruido",
+                    "manchas"
+                  ],
+                  "answer": "claridad"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une elemento y función",
+              "left": [
+                "viñeta",
+                "personaje",
+                "bocadillo",
+                "diálogo",
+                "escena",
+                "final"
+              ],
+              "right": [
+                "recuadro",
+                "actúa",
+                "muestra palabras",
+                "lo que dice",
+                "momento dibujado",
+                "cierre"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja una viñeta",
+              "instruction": "Dibuja una viñeta con un personaje hablando."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "personajes-para-un-comic",
+      "title": "Personajes para un cómic",
+      "excerpt": "Crea personajes sencillos para protagonizar un cómic.",
+      "metaDescription": "Personajes para un cómic de primaria con fichas imprimibles.",
+      "featuredImage": "/uploads/fichas-personajes-para-un-comic.webp",
+      "keywords": [
+        "cómo hacer un cómic",
+        "comic primaria",
+        "viñetas",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los personajes para un cómic, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y creatividad y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como héroe, amiga, robot, gato, detective y monstruo, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien los personajes para un cómic, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar héroe, amiga, robot, gato, detective y monstruo para observar cómo funciona el contenido dentro de una situación sencilla. Los personajes del cómic deben reconocerse fácilmente en cada viñeta. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un personaje puede tener ropa o color especial.",
+            "La cara ayuda a mostrar emociones.",
+            "Los gestos cuentan acciones sin muchas palabras.",
+            "Un personaje puede cambiar a lo largo de la historia."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Personajes para un cómic",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "El robot de Inés",
+              "text": "Inés creó un cómic sobre un robot pequeño llamado Rolo. En la primera viñeta, Rolo buscaba una pieza perdida. En la segunda, una gata le señalaba una caja azul. En la tercera, Rolo encontraba la pieza y sonreía. Inés dibujó ojos grandes para mostrar sorpresa y un bocadillo con una frase corta: ¡Gracias por ayudarme! Así su personaje se entendía mejor.",
+              "questions": [
+                "¿Quién creó el cómic?",
+                "¿Cómo se llamaba el robot?",
+                "¿Qué buscaba Rolo?",
+                "¿Qué animal le ayudaba?",
+                "¿Qué frase decía el bocadillo?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige personaje",
+              "items": [
+                {
+                  "sentence": "Personaje que resuelve casos.",
+                  "options": [
+                    "detective",
+                    "mesa",
+                    "lápiz",
+                    "nube"
+                  ],
+                  "answer": "detective"
+                },
+                {
+                  "sentence": "Máquina que puede hablar en cuentos.",
+                  "options": [
+                    "robot",
+                    "silla",
+                    "árbol",
+                    "plato"
+                  ],
+                  "answer": "robot"
+                },
+                {
+                  "sentence": "Animal que puede aparecer en un cómic.",
+                  "options": [
+                    "gato",
+                    "libro",
+                    "puerta",
+                    "vaso"
+                  ],
+                  "answer": "gato"
+                },
+                {
+                  "sentence": "Personaje fantástico grande.",
+                  "options": [
+                    "monstruo",
+                    "regla",
+                    "casa",
+                    "flor"
+                  ],
+                  "answer": "monstruo"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa personajes de cómic",
+              "lines": [
+                "Mi personaje se llama __________________.",
+                "Su emoción principal es __________________.",
+                "En la primera viñeta busca __________________.",
+                "Un amigo le ayuda con __________________.",
+                "El bocadillo dice __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia rasgos de personajes",
+              "lines": [
+                "Rolo es curioso.",
+                "La gata ayuda.",
+                "El detective observa.",
+                "El monstruo sonríe.",
+                "La heroína corre."
+              ],
+              "instruction": "Copia las frases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vinetas-y-orden-en-un-comic",
+      "title": "Viñetas y orden en un cómic",
+      "excerpt": "Aprende a ordenar viñetas para que el cómic se entienda.",
+      "metaDescription": "Viñetas y orden en un cómic para niños de primaria.",
+      "featuredImage": "/uploads/fichas-vinetas-y-orden-en-un-comic.webp",
+      "keywords": [
+        "cómo hacer un cómic",
+        "comic primaria",
+        "viñetas",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar las viñetas y el orden en un cómic, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como primera viñeta, segunda viñeta, escena, acción, flecha y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien las viñetas y el orden en un cómic, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar primera viñeta, segunda viñeta, escena, acción, flecha y final para observar cómo funciona el contenido dentro de una situación sencilla. El orden de las viñetas permite seguir la historia sin perderse. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Normalmente se lee de izquierda a derecha.",
+            "Cada viñeta muestra un momento de la historia.",
+            "Las acciones deben seguir un orden lógico.",
+            "Una flecha puede ayudar a indicar el camino de lectura."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Viñetas y orden en un cómic",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "chooseAnswer",
+              "title": "Orden de viñetas",
+              "items": [
+                {
+                  "question": "¿Qué muestra una viñeta?",
+                  "options": [
+                    "un momento",
+                    "un precio",
+                    "una suma"
+                  ],
+                  "answer": "un momento"
+                },
+                {
+                  "question": "¿Cómo se lee muchas veces?",
+                  "options": [
+                    "izquierda a derecha",
+                    "abajo a arriba",
+                    "sin orden"
+                  ],
+                  "answer": "izquierda a derecha"
+                },
+                {
+                  "question": "¿Qué ayuda a entender?",
+                  "options": [
+                    "orden lógico",
+                    "manchas",
+                    "ruido"
+                  ],
+                  "answer": "orden lógico"
+                },
+                {
+                  "question": "¿Qué puede indicar camino?",
+                  "options": [
+                    "flecha",
+                    "zapato",
+                    "vaso"
+                  ],
+                  "answer": "flecha"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "oddOneOutGroups",
+              "title": "Intrusos en viñetas",
+              "groups": [
+                {
+                  "items": [
+                    "viñeta",
+                    "escena",
+                    "acción",
+                    "cuchara"
+                  ],
+                  "answer": "cuchara"
+                },
+                {
+                  "items": [
+                    "primera",
+                    "segunda",
+                    "tercera",
+                    "zapato"
+                  ],
+                  "answer": "zapato"
+                },
+                {
+                  "items": [
+                    "flecha",
+                    "orden",
+                    "lectura",
+                    "tenedor"
+                  ],
+                  "answer": "tenedor"
+                },
+                {
+                  "items": [
+                    "inicio",
+                    "desarrollo",
+                    "final",
+                    "pared"
+                  ],
+                  "answer": "pared"
+                }
+              ],
+              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Une orden y momento",
+              "left": [
+                "primera viñeta",
+                "segunda viñeta",
+                "tercera viñeta",
+                "cuarta viñeta",
+                "final"
+              ],
+              "right": [
+                "presenta",
+                "aparece problema",
+                "buscan ayuda",
+                "encuentran solución",
+                "cierra"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Dibuja tres viñetas",
+              "instruction": "Dibuja tres viñetas con inicio, problema y final."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bocadillos-y-dialogos-en-un-comic",
+      "title": "Bocadillos y diálogos en un cómic",
+      "excerpt": "Practica bocadillos y diálogos cortos para tus cómics.",
+      "metaDescription": "Bocadillos y diálogos de cómic para primaria con actividades.",
+      "featuredImage": "/uploads/fichas-bocadillos-y-dialogos-en-un-comic.webp",
+      "keywords": [
+        "cómo hacer un cómic",
+        "comic primaria",
+        "viñetas",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar los bocadillos y diálogos en un cómic, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como hola, ayuda, gracias, bocadillo, pensamiento y grito, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien los bocadillos y diálogos en un cómic, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar hola, ayuda, gracias, bocadillo, pensamiento y grito para observar cómo funciona el contenido dentro de una situación sencilla. Los bocadillos permiten leer lo que dicen o piensan los personajes. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un bocadillo normal muestra una frase hablada.",
+            "Un pensamiento puede representarse con nubecitas.",
+            "Los diálogos deben ser cortos y claros.",
+            "Los signos de exclamación muestran emoción."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Bocadillos y diálogos en un cómic",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa diálogos",
+              "words": [
+                "bocadillo",
+                "hola",
+                "ayuda",
+                "gracias",
+                "pensamiento",
+                "grito"
+              ],
+              "text": "En un cómic usamos un __________________ para escribir palabras. Un personaje puede decir __________________ o pedir __________________. También puede responder __________________. Si imagina algo, usamos un __________________. Si habla muy fuerte, parece un __________________.",
+              "instruction": "Lee el texto. Usa todas las palabras."
+            },
+            {
+              "type": "fillBlanks",
+              "title": "Completa bocadillos",
+              "lines": [
+                "El personaje dice __________________.",
+                "Para pedir ayuda escribe __________________.",
+                "Si piensa, uso un __________________.",
+                "Un grito puede llevar signos de __________________.",
+                "El diálogo debe ser __________________."
+              ],
+              "instruction": "Completa cada frase con la palabra adecuada."
+            },
+            {
+              "type": "chooseWord",
+              "title": "Elige diálogo",
+              "items": [
+                {
+                  "sentence": "Saludo corto.",
+                  "options": [
+                    "hola",
+                    "mesa",
+                    "pared",
+                    "zapato"
+                  ],
+                  "answer": "hola"
+                },
+                {
+                  "sentence": "Palabra para pedir apoyo.",
+                  "options": [
+                    "ayuda",
+                    "silla",
+                    "caja",
+                    "rueda"
+                  ],
+                  "answer": "ayuda"
+                },
+                {
+                  "sentence": "Palabra amable.",
+                  "options": [
+                    "gracias",
+                    "plato",
+                    "vaso",
+                    "tiza"
+                  ],
+                  "answer": "gracias"
+                },
+                {
+                  "sentence": "Forma para lo que piensa.",
+                  "options": [
+                    "pensamiento",
+                    "puerta",
+                    "coche",
+                    "papel"
+                  ],
+                  "answer": "pensamiento"
+                }
+              ],
+              "instruction": "Lee cada frase. Elige la palabra correcta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia diálogos cortos",
+              "lines": [
+                "¡Hola!",
+                "¿Me ayudas?",
+                "Gracias por venir.",
+                "Estoy pensando.",
+                "¡Cuidado!"
+              ],
+              "instruction": "Copia los diálogos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "crear-un-comic-completo",
+      "title": "Crear un cómic completo",
+      "excerpt": "Organiza una historia breve para crear tu propio cómic.",
+      "metaDescription": "Crear un cómic completo para primaria con lectura y actividades.",
+      "featuredImage": "/uploads/fichas-crear-un-comic-completo.webp",
+      "keywords": [
+        "cómo hacer un cómic",
+        "comic primaria",
+        "viñetas",
+        "lengua"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "En esta ficha vamos a trabajar la creación de un cómic completo, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y expresión artística y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como título, viñetas, personajes, bocadillos, problema y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aprendemos con ejemplos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Para aprender bien la creación de un cómic completo, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar título, viñetas, personajes, bocadillos, problema y final para observar cómo funciona el contenido dentro de una situación sencilla. Un cómic completo combina dibujos ordenados y palabras fáciles de leer. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "El título presenta la historia.",
+            "Las viñetas organizan los momentos.",
+            "Los bocadillos muestran diálogos.",
+            "El final cierra la aventura."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "title": "Ficha: Crear un cómic completo",
+          "description": "Actividades imprimibles para practicar el tema.",
+          "activities": [
+            {
+              "type": "readingComprehension",
+              "title": "El cómic de Mario",
+              "text": "Mario hizo un cómic titulado El lápiz perdido. En la primera viñeta, una niña buscaba su lápiz rojo antes de empezar la clase. En la segunda, su amigo miraba debajo de la mesa. En la tercera, un gato aparecía jugando con el lápiz. En la última viñeta, la niña recuperaba el lápiz y decía en un bocadillo: ¡Gracias! Mario coloreó cada escena y escribió el título arriba.",
+              "questions": [
+                "¿Cómo se titulaba el cómic?",
+                "¿Qué buscaba la niña?",
+                "¿Dónde miraba su amigo?",
+                "¿Quién jugaba con el lápiz?",
+                "¿Qué decía la niña al final?"
+              ],
+              "instruction": "Lee el texto. Contesta con palabras sencillas."
+            },
+            {
+              "type": "matchingColumns",
+              "title": "Plan de cómic",
+              "left": [
+                "título",
+                "viñeta 1",
+                "viñeta 2",
+                "viñeta 3",
+                "bocadillo",
+                "final"
+              ],
+              "right": [
+                "nombre",
+                "presenta",
+                "busca",
+                "encuentra pista",
+                "diálogo",
+                "cierre"
+              ],
+              "instruction": "Une cada palabra con su pareja."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Comprende el cómic",
+              "items": [
+                {
+                  "question": "¿Qué se escribe arriba?",
+                  "options": [
+                    "título",
+                    "precio",
+                    "dirección"
+                  ],
+                  "answer": "título"
+                },
+                {
+                  "question": "¿Qué perdió la niña?",
+                  "options": [
+                    "lápiz rojo",
+                    "mochila azul",
+                    "goma"
+                  ],
+                  "answer": "lápiz rojo"
+                },
+                {
+                  "question": "¿Quién tenía el lápiz?",
+                  "options": [
+                    "gato",
+                    "perro",
+                    "pájaro"
+                  ],
+                  "answer": "gato"
+                },
+                {
+                  "question": "¿Cuántas viñetas se nombran?",
+                  "options": [
+                    "cuatro",
+                    "dos",
+                    "seis"
+                  ],
+                  "answer": "cuatro"
+                }
+              ],
+              "instruction": "Lee cada pregunta. Marca una respuesta."
+            },
+            {
+              "type": "drawingBox",
+              "title": "Portada de cómic",
+              "instruction": "Dibuja una portada para un cómic llamado El lápiz perdido."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
