@@ -5,6 +5,7 @@ import { store } from "@/store";
 import { brand } from "@/styles/fonts";
 import Head from "next/head";
 import Script from "next/script";
+import Footer from "@/components/Footer";
 
 export default function App({ Component, pageProps: { session, ...pageProps } }) {
   return (
@@ -31,6 +32,7 @@ export default function App({ Component, pageProps: { session, ...pageProps } })
 
       <div className={brand.className}>
         <Component {...pageProps} />
+        <Footer />
       </div>
     </Provider>
   );

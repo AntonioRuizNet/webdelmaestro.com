@@ -11,11 +11,12 @@ export default function ResetPassword() {
 
   async function onSubmit(e) {
     e.preventDefault();
-    setErr(""); setOk("");
+    setErr("");
+    setOk("");
     const res = await fetch("/api/auth/reset-password", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ token, password })
+      body: JSON.stringify({ token, password }),
     });
     const data = await res.json();
     if (!res.ok) return setErr(data?.message || "Error");
@@ -28,11 +29,25 @@ export default function ResetPassword() {
       <div className="container">
         <h1>Reset Password</h1>
         <form onSubmit={onSubmit}>
-          <input placeholder="New password" type="password" value={password} onChange={e => setPassword(e.target.value)} required />
+          <input
+            placeholder="New password"
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
           <button type="submit">Update password</button>
         </form>
-        {ok && <div className="card" style={{ color: "green" }}>{ok}</div>}
-        {err && <div className="card" style={{ color: "crimson" }}>{err}</div>}
+        {ok && (
+          <div className="card" style={{ color: "green" }}>
+            {ok}
+          </div>
+        )}
+        {err && (
+          <div className="card" style={{ color: "crimson" }}>
+            {err}
+          </div>
+        )}
       </div>
     </div>
   );

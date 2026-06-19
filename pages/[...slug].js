@@ -13,7 +13,10 @@ function serializeDate(value) {
 export default function BlogPostPage({ post, staticTopic, canonicalUrl, trending }) {
   const pageTitle = staticTopic?.title || post?.title || "Web del Maestro";
   const pageDescription =
-    staticTopic?.description || post?.meta_description || post?.excerpt || "Recursos y manualidades para niños en Web del Maestro";
+    staticTopic?.description ||
+    post?.meta_description ||
+    post?.excerpt ||
+    "Recursos y manualidades para niños en Web del Maestro";
 
   if (!post && !staticTopic) {
     return (

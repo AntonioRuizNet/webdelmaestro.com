@@ -15,7 +15,9 @@ export default function BuscarPage({ q, results, trending }) {
     ? `Resultados de búsqueda para ${term} en Web del Maestro: manualidades, actividades infantiles, recursos educativos y más.`
     : "Busca manualidades, actividades infantiles, fichas imprimibles y recursos educativos en Web del Maestro.";
 
-  const canonicalUrl = term ? `https://webdelmaestro.com/buscar?q=${encodeURIComponent(term)}` : "https://webdelmaestro.com/buscar";
+  const canonicalUrl = term
+    ? `https://webdelmaestro.com/buscar?q=${encodeURIComponent(term)}`
+    : "https://webdelmaestro.com/buscar";
 
   return (
     <>

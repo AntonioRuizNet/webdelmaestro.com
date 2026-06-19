@@ -1,0 +1,199 @@
+.header {
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.mainNav {
+  width: min(100%, calc(100% - 32px));
+  margin: 0 auto;
+  min-height: 68px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.navLeft {
+  flex-shrink: 0;
+}
+
+.navLogo {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #1e1e1e;
+  text-decoration: none;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 0;
+  margin: 0;
+}
+
+.navLinks a {
+  color: #1e1e1e;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.appBadge {
+  background: #ffd176;
+  color: #1e1e1e;
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 2px 6px;
+  border-radius: 999px;
+  margin-left: 3px;
+}
+
+.searchForm {
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+}
+
+.searcher {
+  width: 280px;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+}
+
+.searchButton,
+.sideSearchButton {
+  border: 0;
+  border-radius: 999px;
+  background: #46a28d;
+  color: #fff;
+  font-weight: 800;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.menuButton {
+  display: none;
+  margin-left: auto;
+  border: 0;
+  background: #46a28d;
+  color: #fff;
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  font-size: 1.35rem;
+  cursor: pointer;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(0, 0, 0, 0.35);
+  border: 0;
+}
+
+.sideMenu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 300;
+  width: min(390px, 88vw);
+  height: 100dvh;
+  background: #fff;
+  box-shadow: -12px 0 35px rgba(0, 0, 0, 0.16);
+  transform: translateX(100%);
+  transition: transform 0.25s ease;
+  padding: 22px;
+  overflow-y: auto;
+}
+
+.sideMenuOpen {
+  transform: translateX(0);
+}
+
+.sideHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+  font-size: 1.25rem;
+}
+
+.closeButton {
+  border: 0;
+  background: #f2f2f2;
+  color: #1e1e1e;
+  width: 38px;
+  height: 38px;
+  border-radius: 999px;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.sideSearchForm {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.sideSearcher {
+  min-width: 0;
+  flex: 1;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 10px 14px;
+}
+
+.topicsBlock h3 {
+  margin: 0 0 12px;
+  font-size: 1rem;
+  color: #387c6c;
+}
+
+.topicList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.moreLink {
+  display: block;
+  padding: 11px 13px;
+  border-radius: 12px;
+  background: #f9f9f9;
+  color: #1e1e1e;
+  text-decoration: none;
+  font-weight: 700;
+  border: 1px solid #eeeeee;
+}
+
+.moreLink:hover {
+  background: #edf8f5;
+  border-color: #46a28d;
+  color: #387c6c;
+}
+
+@media (max-width: 1024px) {
+  .navLinks,
+  .searchForm {
+    display: none;
+  }
+
+  .menuButton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mainNav {
+    min-height: 62px;
+  }
+}

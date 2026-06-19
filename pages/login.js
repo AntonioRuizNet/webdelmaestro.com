@@ -17,7 +17,7 @@ export default function Login() {
       redirect: false,
       identifier,
       password,
-      callbackUrl
+      callbackUrl,
     });
     if (res?.error) return setError(res.error || "Invalid credentials");
     router.push(callbackUrl);
@@ -29,12 +29,18 @@ export default function Login() {
       <div className="container">
         <h1>Login</h1>
         <form onSubmit={onSubmit}>
-          <input placeholder="Email or Username" value={identifier} onChange={e => setIdentifier(e.target.value)} required />
-          <input placeholder="Password" type="password" value={password} onChange={e => setPassword(e.target.value)} required />
-          {error && <div className="card" style={{ color: "crimson" }}>{error}</div>}
+          <input placeholder="Email or Username" value={identifier} onChange={(e) => setIdentifier(e.target.value)} required />
+          <input placeholder="Password" type="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
+          {error && (
+            <div className="card" style={{ color: "crimson" }}>
+              {error}
+            </div>
+          )}
           <button type="submit">Login</button>
         </form>
-        <p><a href="/forgot-password">Forgot your password?</a></p>
+        <p>
+          <a href="/forgot-password">Forgot your password?</a>
+        </p>
       </div>
     </div>
   );

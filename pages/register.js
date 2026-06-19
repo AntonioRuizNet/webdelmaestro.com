@@ -12,11 +12,12 @@ export default function Register() {
 
   async function onSubmit(e) {
     e.preventDefault();
-    setError(""); setOk("");
+    setError("");
+    setOk("");
     const res = await fetch("/api/auth/register", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email, username, password })
+      body: JSON.stringify({ email, username, password }),
     });
     const data = await res.json();
     if (!res.ok) return setError(data?.message || "Error");
@@ -30,11 +31,19 @@ export default function Register() {
       <div className="container">
         <h1>Register</h1>
         <form onSubmit={onSubmit}>
-          <input placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} required />
-          <input placeholder="Username" value={username} onChange={e => setUsername(e.target.value)} required />
-          <input placeholder="Password" type="password" value={password} onChange={e => setPassword(e.target.value)} required />
-          {error && <div className="card" style={{ color: "crimson" }}>{error}</div>}
-          {ok && <div className="card" style={{ color: "green" }}>{ok}</div>}
+          <input placeholder="Email" value={email} onChange={(e) => setEmail(e.target.value)} required />
+          <input placeholder="Username" value={username} onChange={(e) => setUsername(e.target.value)} required />
+          <input placeholder="Password" type="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
+          {error && (
+            <div className="card" style={{ color: "crimson" }}>
+              {error}
+            </div>
+          )}
+          {ok && (
+            <div className="card" style={{ color: "green" }}>
+              {ok}
+            </div>
+          )}
           <button type="submit">Create account</button>
         </form>
       </div>

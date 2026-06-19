@@ -1,0 +1,77 @@
+.footer {
+  margin-top: 48px;
+  background: #f9f9f9;
+  border-top: 1px solid #e8e8e8;
+  max-width: 90vw;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.inner {
+  width: min(100%, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 34px 0 22px;
+}
+
+.topicsSection {
+  margin-bottom: 26px;
+}
+
+.title {
+  margin: 0 0 16px;
+  color: #387c6c;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.topicList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px 18px;
+}
+
+.topicLink {
+  color: #1e1e1e;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.topicLink:hover {
+  color: #46a28d;
+  text-decoration: underline;
+}
+
+.copyright {
+  border-top: 1px solid #e3e3e3;
+  padding-top: 18px;
+  color: #666;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .topicList {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .inner {
+    padding: 28px 0 20px;
+  }
+
+  .topicList {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 9px 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .topicList {
+    grid-template-columns: 1fr;
+  }
+}

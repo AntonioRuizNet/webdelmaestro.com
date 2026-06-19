@@ -7,9 +7,7 @@ export default function ProtectedLayout({ children }) {
       <Nav />
       <div className="container">
         <div className="protected-layout">
-          <main className="protected-content">
-            {children}
-          </main>
+          <main className="protected-content">{children}</main>
           <aside className="protected-sidebar">
             <Sidebar />
           </aside>

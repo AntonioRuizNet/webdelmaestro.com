@@ -8,11 +8,12 @@ export default function ForgotPassword() {
 
   async function onSubmit(e) {
     e.preventDefault();
-    setStatus("loading"); setMsg("");
+    setStatus("loading");
+    setMsg("");
     const res = await fetch("/api/auth/forgot-password", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email })
+      body: JSON.stringify({ email }),
     });
     const data = await res.json();
     setStatus("done");
@@ -25,8 +26,10 @@ export default function ForgotPassword() {
       <div className="container">
         <h1>Forgot Password</h1>
         <form onSubmit={onSubmit}>
-          <input placeholder="Your email" value={email} onChange={e => setEmail(e.target.value)} required />
-          <button disabled={status === "loading"} type="submit">Send reset link</button>
+          <input placeholder="Your email" value={email} onChange={(e) => setEmail(e.target.value)} required />
+          <button disabled={status === "loading"} type="submit">
+            Send reset link
+          </button>
         </form>
         {msg && <div className="card">{msg}</div>}
       </div>

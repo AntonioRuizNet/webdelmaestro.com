@@ -26,13 +26,7 @@ function getTopicFiles() {
 function normalizeArticle(topicFile, article) {
   const topic = topicFile.topic;
   const slug = `${BASE_STATIC_PREFIX}/${topic.slug}/${article.slug}`;
-  const searchableText = [
-    article.title,
-    article.excerpt,
-    article.metaDescription,
-    topic.name,
-    ...(article.keywords || []),
-  ]
+  const searchableText = [article.title, article.excerpt, article.metaDescription, topic.name, ...(article.keywords || [])]
     .filter(Boolean)
     .join(" ")
     .toLowerCase();
@@ -81,8 +75,7 @@ function normalizeTopic(topicFile, { articlesPerTopic = null, random = false } =
     name: topic.name,
     title: topic.name,
     description:
-      topic.description ||
-      `Recopilación de fichas para imprimir sobre ${String(topic.name || "este tema").toLowerCase()}.`,
+      topic.description || `Recopilación de fichas para imprimir sobre ${String(topic.name || "este tema").toLowerCase()}.`,
     articles: visibleArticles,
     totalArticles: articles.length,
     requestedArticlesPerTopic: articlesPerTopic,
@@ -114,12 +107,7 @@ export function getStaticTopicBySlug(slug) {
   return topicFile ? normalizeTopic(topicFile) : null;
 }
 
-export function getStaticTopicsForHome({
-  limit = 6,
-  articlesPerTopic = 2,
-  randomTopics = false,
-  randomArticles = true,
-} = {}) {
+export function getStaticTopicsForHome({ limit = 6, articlesPerTopic = 2, randomTopics = false, randomArticles = true } = {}) {
   let topics = getAllStaticTopics({ articlesPerTopic, random: randomArticles }).filter((topic) => topic.totalArticles > 0);
 
   if (randomTopics) topics = shuffle(topics);
@@ -154,7 +142,9 @@ function matchesExclude(slug, exclude = []) {
 }
 
 export function searchStaticArticles({ term = "", column = "title", limit = 12, random = false, exclude = [] } = {}) {
-  const cleanTerm = String(term || "").trim().toLowerCase();
+  const cleanTerm = String(term || "")
+    .trim()
+    .toLowerCase();
 
   let articles = getAllStaticArticles().filter((article) => !matchesExclude(article.slug, exclude));
 
@@ -162,8 +152,14 @@ export function searchStaticArticles({ term = "", column = "title", limit = 12, 
     articles = articles.filter((article) => {
       if (column === "title") return article.title.toLowerCase().includes(cleanTerm);
       if (column === "slug") return article.slug.toLowerCase().includes(cleanTerm);
-      if (column === "excerpt") return String(article.excerpt || "").toLowerCase().includes(cleanTerm);
-      if (column === "url") return String(article.url || "").toLowerCase().includes(cleanTerm);
+      if (column === "excerpt")
+        return String(article.excerpt || "")
+          .toLowerCase()
+          .includes(cleanTerm);
+      if (column === "url")
+        return String(article.url || "")
+          .toLowerCase()
+          .includes(cleanTerm);
       return article.__searchableText.includes(cleanTerm);
     });
   }
@@ -174,5 +170,12 @@ export function searchStaticArticles({ term = "", column = "title", limit = 12, 
     ...article,
     body,
     staticArticle,
+  }));
+}
+
+export function getStaticTopicsList() {
+  return getTopicFiles().map((topicFile) => ({
+    slug: `${BASE_STATIC_PREFIX}/${topicFile.topic.slug}`,
+    name: topicFile.topic.name,
   }));
 }
