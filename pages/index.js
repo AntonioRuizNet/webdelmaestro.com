@@ -29,7 +29,7 @@ export async function getStaticProps() {
   ]);
 
   const printableTopics = getStaticTopicsForHome({
-    limit: 8,
+    limit: 9,
     articlesPerTopic: 4,
     randomTopics: true,
     randomArticles: true,

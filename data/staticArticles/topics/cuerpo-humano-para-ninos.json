@@ -1,0 +1,648 @@
+{
+  "topic": {
+    "slug": "cuerpo-humano-para-ninos",
+    "name": "Cuerpo humano para niños"
+  },
+  "articles": [
+    {
+      "slug": "cuerpo-humano-para-ninos-explicacion-para-primaria",
+      "title": "Cuerpo humano para niños: explicación para primaria",
+      "excerpt": "Ficha de cuerpo humano para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cuerpo humano para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-cuerpo-humano-para-ninos-explicacion-para-primaria.webp",
+      "keywords": [
+        "cuerpo humano para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como cabeza, tronco, brazos, piernas, corazón. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cuerpo humano para niños: explicación para primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como músculos, huesos, pulmones, corazón, piernas. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cuerpo humano para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "cuerpo-humano-para-ninos-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cuerpo humano para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "cabeza",
+                "tronco",
+                "brazos",
+                "piernas",
+                "corazón",
+                "pulmones",
+                "huesos",
+                "músculos"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "cabeza",
+                    "tronco",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "cabeza"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "tronco",
+                    "brazos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "tronco"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "brazos",
+                    "piernas",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "brazos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "piernas",
+                    "corazón",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "piernas"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo cabeza en clase.",
+                "___________________________________________",
+                "Aprendo tronco en clase.",
+                "___________________________________________",
+                "Aprendo brazos en clase.",
+                "___________________________________________",
+                "Aprendo piernas en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-cuerpo-humano-para-ninos-para-ninos",
+      "title": "Ejemplos de cuerpo humano para niños para niños",
+      "excerpt": "Ficha de cuerpo humano para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cuerpo humano para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-cuerpo-humano-para-ninos-para-ninos.webp",
+      "keywords": [
+        "cuerpo humano para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como tronco, brazos, piernas, corazón, pulmones. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de cuerpo humano para niños para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como cabeza, músculos, huesos, pulmones, corazón. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cuerpo humano para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-cuerpo-humano-para-ninos-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cuerpo humano para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "tronco",
+                "brazos",
+                "piernas",
+                "corazón",
+                "pulmones",
+                "huesos",
+                "músculos",
+                "cabeza"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "tronco",
+                    "brazos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "tronco"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "brazos",
+                    "piernas",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "brazos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "piernas",
+                    "corazón",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "piernas"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "corazón",
+                    "pulmones",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "corazón"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo tronco en clase.",
+                "___________________________________________",
+                "Aprendo brazos en clase.",
+                "___________________________________________",
+                "Aprendo piernas en clase.",
+                "___________________________________________",
+                "Aprendo corazón en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-cuerpo-humano-para-ninos-en-primaria",
+      "title": "Vocabulario de cuerpo humano para niños en primaria",
+      "excerpt": "Ficha de cuerpo humano para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cuerpo humano para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-cuerpo-humano-para-ninos-en-primaria.webp",
+      "keywords": [
+        "cuerpo humano para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como brazos, piernas, corazón, pulmones, huesos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de cuerpo humano para niños en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como tronco, cabeza, músculos, huesos, pulmones. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cuerpo humano para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-cuerpo-humano-para-ninos-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cuerpo humano para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "brazos",
+                "piernas",
+                "corazón",
+                "pulmones",
+                "huesos",
+                "músculos",
+                "cabeza",
+                "tronco"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "brazos",
+                    "piernas",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "brazos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "piernas",
+                    "corazón",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "piernas"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "corazón",
+                    "pulmones",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "corazón"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "pulmones",
+                    "huesos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pulmones"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo brazos en clase.",
+                "___________________________________________",
+                "Aprendo piernas en clase.",
+                "___________________________________________",
+                "Aprendo corazón en clase.",
+                "___________________________________________",
+                "Aprendo pulmones en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-cuerpo-humano-para-ninos-para-imprimir",
+      "title": "Actividades de cuerpo humano para niños para imprimir",
+      "excerpt": "Ficha de cuerpo humano para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cuerpo humano para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-cuerpo-humano-para-ninos-para-imprimir.webp",
+      "keywords": [
+        "cuerpo humano para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como piernas, corazón, pulmones, huesos, músculos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de cuerpo humano para niños para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como brazos, tronco, cabeza, músculos, huesos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cuerpo humano para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-cuerpo-humano-para-ninos-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cuerpo humano para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "piernas",
+                "corazón",
+                "pulmones",
+                "huesos",
+                "músculos",
+                "cabeza",
+                "tronco",
+                "brazos"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "piernas",
+                    "corazón",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "piernas"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "corazón",
+                    "pulmones",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "corazón"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "pulmones",
+                    "huesos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pulmones"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "huesos",
+                    "músculos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "huesos"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo piernas en clase.",
+                "___________________________________________",
+                "Aprendo corazón en clase.",
+                "___________________________________________",
+                "Aprendo pulmones en clase.",
+                "___________________________________________",
+                "Aprendo huesos en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-cuerpo-humano-para-ninos-con-ficha",
+      "title": "Repaso de cuerpo humano para niños con ficha",
+      "excerpt": "Ficha de cuerpo humano para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cuerpo humano para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-cuerpo-humano-para-ninos-con-ficha.webp",
+      "keywords": [
+        "cuerpo humano para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como corazón, pulmones, huesos, músculos, cabeza. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de cuerpo humano para niños con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuerpo humano para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como piernas, brazos, tronco, cabeza, músculos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cuerpo humano para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cuerpo humano para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-cuerpo-humano-para-ninos-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cuerpo humano para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "corazón",
+                "pulmones",
+                "huesos",
+                "músculos",
+                "cabeza",
+                "tronco",
+                "brazos",
+                "piernas"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "corazón",
+                    "pulmones",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "corazón"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "pulmones",
+                    "huesos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pulmones"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "huesos",
+                    "músculos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "huesos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cuerpo humano para niños?",
+                  "options": [
+                    "músculos",
+                    "cabeza",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "músculos"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo corazón en clase.",
+                "___________________________________________",
+                "Aprendo pulmones en clase.",
+                "___________________________________________",
+                "Aprendo huesos en clase.",
+                "___________________________________________",
+                "Aprendo músculos en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

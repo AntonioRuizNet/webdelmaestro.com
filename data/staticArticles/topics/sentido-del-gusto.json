@@ -5,298 +5,640 @@
   },
   "articles": [
     {
-      "slug": "sabores-basicos",
-      "title": "Sabores básicos para niños: dulce, salado, ácido, amargo y umami",
-      "excerpt": "Explicación sencilla de los sabores básicos con ejemplos cotidianos y fichas imprimibles para primaria.",
-      "metaDescription": "Sabores básicos para niños: dulce, salado, ácido, amargo y umami con ejemplos y fichas PDF para primaria.",
-      "featuredImage": "/uploads/fichas-sabores-basicos.webp",
-      "keywords": ["sabores básicos", "sentido del gusto primaria", "fichas sabores"],
+      "slug": "sentido-del-gusto-explicacion-para-primaria",
+      "title": "Sentido del gusto: explicación para primaria",
+      "excerpt": "Ficha de sentido del gusto para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del gusto para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-sentido-del-gusto-explicacion-para-primaria.webp",
+      "keywords": [
+        "sentido del gusto",
+        "primaria",
+        "fichas imprimibles"
+      ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "Los sabores básicos son las formas principales en las que percibimos el gusto de los alimentos. Los más conocidos son dulce, salado, ácido, amargo y umami."
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como lengua, sabor, dulce, salado, ácido. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Ejemplos de sabores"
+          "text": "Sentido del gusto: explicación para primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como alimento, umami, amargo, ácido, salado. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
         },
         {
           "type": "list",
           "items": [
-            "Dulce: miel o fruta madura",
-            "Salado: queso o patatas",
-            "Ácido: limón o yogur",
-            "Amargo: cacao puro",
-            "Umami: tomate o caldo"
+            "Aprender sentido del gusto es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Trabajar los sabores en clase ayuda a ampliar vocabulario, observar alimentos cercanos y relacionar el gusto con hábitos de alimentación saludable."
         }
       ],
       "worksheets": [
         {
-          "id": "sabores-basicos-clasificar",
-          "title": "Clasifica alimentos por sabor",
-          "description": "Identifica el sabor principal de diferentes alimentos.",
+          "id": "sentido-del-gusto-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del gusto.",
           "activities": [
             {
               "type": "wordBankParagraph",
               "title": "Completa el texto",
-              "words": ["dulce", "salado", "ácido", "amargo", "umami", "alimentos", "sabores", "lengua"],
-              "text": "Con la ________ podemos reconocer distintos ________. Algunos ________ tienen sabor ________, otros son ________, ________, ________ o ________.",
-              "instruction": "Usa las palabras del banco para completar el texto correctamente.",
-              "writingLine": true,
-              "writingLines": 3
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Rodea la palabra que sobra",
-              "groups": [
-                ["miel", "azúcar", "caramelo", "limón", "galleta"],
-                ["limón", "vinagre", "naranja", "cacao", "yogur"],
-                ["sal", "queso", "patatas", "miel", "aceitunas"]
+              "words": [
+                "lengua",
+                "sabor",
+                "dulce",
+                "salado",
+                "ácido",
+                "amargo",
+                "umami",
+                "alimento"
               ],
-              "instruction": "Rodea la palabra que no pertenece al mismo grupo de sabor."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "lengua-y-papilas-gustativas",
-      "title": "La lengua y las papilas gustativas explicadas para primaria",
-      "excerpt": "Recurso educativo sobre la lengua, las papilas gustativas y cómo percibimos los sabores.",
-      "metaDescription": "La lengua y las papilas gustativas para niños: explicación sencilla y fichas PDF para primaria.",
-      "featuredImage": "/uploads/fichas-lengua-papilas-gustativas.webp",
-      "keywords": ["lengua", "papilas gustativas", "sentido del gusto"],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "La lengua es el órgano principal del sentido del gusto. En ella se encuentran las papilas gustativas, que nos ayudan a reconocer los sabores de los alimentos."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "¿Qué hacen las papilas gustativas?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Las papilas gustativas captan información cuando un alimento toca la lengua. Después, esa información llega al cerebro, que interpreta el sabor."
-        },
-        {
-          "type": "list",
-          "items": [
-            "La lengua ayuda a saborear.",
-            "Las papilas detectan sabores.",
-            "El cerebro interpreta la información.",
-            "El olfato también participa al comer."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "id": "lengua-papilas-actividad",
-          "title": "La lengua y las papilas",
-          "description": "Completa frases sobre el órgano del gusto.",
-          "activities": [
-            {
-              "type": "chooseWord",
-              "title": "Elige la palabra correcta",
-              "items": [
-                {
-                  "sentence": "La ________ es el órgano principal del gusto.",
-                  "options": ["lengua", "mano", "oreja", "rodilla"]
-                },
-                {
-                  "sentence": "Las papilas gustativas ayudan a reconocer los ________.",
-                  "options": ["sabores", "sonidos", "colores", "números"]
-                },
-                {
-                  "sentence": "El ________ interpreta la información que recibe.",
-                  "options": ["cerebro", "pie", "brazo", "lápiz"]
-                }
-              ],
-              "instruction": "Lee cada frase y marca la palabra que completa mejor la oración."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja la lengua",
-              "instruction": "Dibuja una lengua y señala dónde podrían estar las papilas gustativas.",
-              "rows": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "gusto-y-olfato",
-      "title": "El gusto y el olfato: cómo trabajan juntos al comer",
-      "excerpt": "Explicación sencilla para niños sobre la relación entre el gusto y el olfato, con fichas descargables.",
-      "metaDescription": "El gusto y el olfato para niños: cómo trabajan juntos al comer, explicación y fichas PDF para primaria.",
-      "featuredImage": "/uploads/fichas-gusto-y-olfato.webp",
-      "keywords": ["gusto y olfato", "los sentidos", "sentido del gusto"],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "El gusto y el olfato trabajan juntos cuando comemos. Por eso, cuando estamos resfriados, algunos alimentos parecen tener menos sabor."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Una experiencia fácil"
-        },
-        {
-          "type": "paragraph",
-          "text": "Podemos probar un alimento con la nariz tapada y después volver a probarlo respirando normalmente. Así observamos cómo el olfato influye en el sabor."
-        }
-      ],
-      "worksheets": [
-        {
-          "id": "gusto-olfato-comprension",
-          "title": "Gusto y olfato",
-          "description": "Lee un texto breve y responde preguntas.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "Lee y responde",
-              "text": "Cuando comemos, el gusto y el olfato trabajan juntos. La lengua reconoce sabores, pero la nariz también ayuda a notar mejor los alimentos. Si estamos resfriados, puede parecer que la comida tiene menos sabor. Esto ocurre porque el olfato no funciona igual de bien. Por eso decimos que los sentidos colaboran entre sí.",
-              "questions": [
-                "¿Qué dos sentidos trabajan juntos al comer?",
-                "¿Qué órgano usamos principalmente para saborear?",
-                "¿Qué puede pasar cuando estamos resfriados?",
-                "¿Por qué el olfato ayuda al gusto?",
-                "Escribe un ejemplo de alimento con mucho olor."
-              ],
-              "instruction": "Lee el texto con atención y responde con frases completas."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "alimentos-y-sabores",
-      "title": "Alimentos y sabores: actividades para clasificar en primaria",
-      "excerpt": "Actividades para clasificar alimentos según su sabor y trabajar vocabulario del gusto.",
-      "metaDescription": "Alimentos y sabores para primaria: actividades y fichas PDF para clasificar dulce, salado, ácido y amargo.",
-      "featuredImage": "/uploads/fichas-alimentos-y-sabores.webp",
-      "keywords": ["alimentos y sabores", "clasificar alimentos", "fichas del gusto"],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "Clasificar alimentos por su sabor ayuda a los niños a observar mejor lo que comen y a usar palabras precisas para describirlo."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Clasificar para aprender"
-        },
-        {
-          "type": "paragraph",
-          "text": "En clase se pueden usar listas de alimentos conocidos para agruparlos en dulces, salados, ácidos o amargos. También se pueden añadir alimentos saludables y hablar de una dieta variada."
-        }
-      ],
-      "worksheets": [
-        {
-          "id": "alimentos-sabores-unir",
-          "title": "Relaciona alimentos y sabores",
-          "description": "Une cada alimento con su sabor principal.",
-          "activities": [
-            {
-              "type": "matchingColumns",
-              "title": "Une con flechas",
-              "left": ["Limón", "Miel", "Queso", "Cacao puro", "Tomate"],
-              "right": ["Dulce", "Salado", "Ácido", "Amargo", "Umami"],
-              "instruction": "Une cada alimento con el sabor que mejor lo representa."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
               "type": "chooseAnswer",
               "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "question": "¿Qué alimento suele tener sabor ácido?",
-                  "options": ["Limón", "Miel", "Pan", "Agua"]
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "lengua",
+                    "sabor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "lengua"
                 },
                 {
-                  "question": "¿Qué alimento suele tener sabor dulce?",
-                  "options": ["Azúcar", "Sal", "Vinagre", "Cacao puro"]
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "sabor",
+                    "dulce",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "sabor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "dulce",
+                    "salado",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "dulce"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "salado",
+                    "ácido",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "salado"
                 }
               ],
-              "instruction": "Lee cada pregunta y marca la respuesta correcta."
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo lengua en clase.",
+                "___________________________________________",
+                "Aprendo sabor en clase.",
+                "___________________________________________",
+                "Aprendo dulce en clase.",
+                "___________________________________________",
+                "Aprendo salado en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }
       ]
     },
     {
-      "slug": "cuidar-el-sentido-del-gusto",
-      "title": "Cómo cuidar el sentido del gusto en niños",
-      "excerpt": "Consejos sencillos para cuidar el sentido del gusto y trabajar hábitos saludables en primaria.",
-      "metaDescription": "Cómo cuidar el sentido del gusto para niños: hábitos saludables, higiene y fichas PDF para primaria.",
-      "featuredImage": "/uploads/fichas-cuidar-sentido-del-gusto.webp",
-      "keywords": ["cuidar el gusto", "hábitos saludables primaria", "sentido del gusto niños"],
+      "slug": "ejemplos-de-sentido-del-gusto-para-ninos",
+      "title": "Ejemplos de sentido del gusto para niños",
+      "excerpt": "Ficha de sentido del gusto para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del gusto para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-sentido-del-gusto-para-ninos.webp",
+      "keywords": [
+        "sentido del gusto",
+        "primaria",
+        "fichas imprimibles"
+      ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "Cuidar el sentido del gusto también forma parte de los hábitos saludables. Para ello es importante mantener una buena higiene bucal, probar alimentos variados y evitar comidas demasiado calientes."
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como sabor, dulce, salado, ácido, amargo. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Hábitos saludables"
+          "text": "Ejemplos de sentido del gusto para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como lengua, alimento, umami, amargo, ácido. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
         },
         {
           "type": "list",
           "items": [
-            "Cepillarse los dientes después de comer.",
-            "Probar alimentos variados.",
-            "No tomar alimentos demasiado calientes.",
-            "Beber agua con frecuencia.",
-            "Comer frutas y verduras."
+            "Aprender sentido del gusto es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Estos hábitos ayudan a disfrutar mejor de los alimentos y a mantener una boca sana."
         }
       ],
       "worksheets": [
         {
-          "id": "cuidar-gusto-habitos",
-          "title": "Hábitos para cuidar el gusto",
-          "description": "Reconoce acciones saludables relacionadas con el gusto.",
+          "id": "ejemplos-de-sentido-del-gusto-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del gusto.",
           "activities": [
             {
-              "type": "chooseAnswer",
-              "title": "Elige la respuesta correcta",
-              "items": [
-                {
-                  "question": "¿Qué hábito ayuda a cuidar la boca?",
-                  "options": ["Cepillarse los dientes", "Comer sin parar", "No beber agua", "Dormir con comida en la boca"]
-                },
-                {
-                  "question": "¿Qué debemos evitar?",
-                  "options": ["Comida muy caliente", "Fruta", "Agua", "Verdura"]
-                },
-                {
-                  "question": "¿Qué es bueno para una alimentación variada?",
-                  "options": ["Probar distintos alimentos", "Comer siempre lo mismo", "No desayunar", "Tomar solo dulces"]
-                }
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "sabor",
+                "dulce",
+                "salado",
+                "ácido",
+                "amargo",
+                "umami",
+                "alimento",
+                "lengua"
               ],
-              "instruction": "Marca la opción más saludable en cada caso."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "fillBlanks",
-              "title": "Completa las frases",
-              "lines": [
-                "Para cuidar la boca debo ____________________________.",
-                "No debo tomar alimentos demasiado __________________.",
-                "Un alimento saludable que me gusta es ______________.",
-                "Beber __________ también ayuda a cuidar mi cuerpo."
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "sabor",
+                    "dulce",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "sabor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "dulce",
+                    "salado",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "dulce"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "salado",
+                    "ácido",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "salado"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "ácido",
+                    "amargo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ácido"
+                }
               ],
-              "instruction": "Completa cada frase con una idea adecuada."
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo sabor en clase.",
+                "___________________________________________",
+                "Aprendo dulce en clase.",
+                "___________________________________________",
+                "Aprendo salado en clase.",
+                "___________________________________________",
+                "Aprendo ácido en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-sentido-del-gusto-en-primaria",
+      "title": "Vocabulario de sentido del gusto en primaria",
+      "excerpt": "Ficha de sentido del gusto para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del gusto para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-sentido-del-gusto-en-primaria.webp",
+      "keywords": [
+        "sentido del gusto",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como dulce, salado, ácido, amargo, umami. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de sentido del gusto en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como sabor, lengua, alimento, umami, amargo. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del gusto es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-sentido-del-gusto-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del gusto.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "dulce",
+                "salado",
+                "ácido",
+                "amargo",
+                "umami",
+                "alimento",
+                "lengua",
+                "sabor"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "dulce",
+                    "salado",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "dulce"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "salado",
+                    "ácido",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "salado"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "ácido",
+                    "amargo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ácido"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "amargo",
+                    "umami",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "amargo"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo dulce en clase.",
+                "___________________________________________",
+                "Aprendo salado en clase.",
+                "___________________________________________",
+                "Aprendo ácido en clase.",
+                "___________________________________________",
+                "Aprendo amargo en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-sentido-del-gusto-para-imprimir",
+      "title": "Actividades de sentido del gusto para imprimir",
+      "excerpt": "Ficha de sentido del gusto para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del gusto para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-sentido-del-gusto-para-imprimir.webp",
+      "keywords": [
+        "sentido del gusto",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como salado, ácido, amargo, umami, alimento. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de sentido del gusto para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como dulce, sabor, lengua, alimento, umami. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del gusto es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-sentido-del-gusto-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del gusto.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "salado",
+                "ácido",
+                "amargo",
+                "umami",
+                "alimento",
+                "lengua",
+                "sabor",
+                "dulce"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "salado",
+                    "ácido",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "salado"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "ácido",
+                    "amargo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ácido"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "amargo",
+                    "umami",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "amargo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "umami",
+                    "alimento",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "umami"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo salado en clase.",
+                "___________________________________________",
+                "Aprendo ácido en clase.",
+                "___________________________________________",
+                "Aprendo amargo en clase.",
+                "___________________________________________",
+                "Aprendo umami en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-sentido-del-gusto-con-ficha",
+      "title": "Repaso de sentido del gusto con ficha",
+      "excerpt": "Ficha de sentido del gusto para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del gusto para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-sentido-del-gusto-con-ficha.webp",
+      "keywords": [
+        "sentido del gusto",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como ácido, amargo, umami, alimento, lengua. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de sentido del gusto con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del gusto es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como salado, dulce, sabor, lengua, alimento. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del gusto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del gusto es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-sentido-del-gusto-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del gusto.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "ácido",
+                "amargo",
+                "umami",
+                "alimento",
+                "lengua",
+                "sabor",
+                "dulce",
+                "salado"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "ácido",
+                    "amargo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ácido"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "amargo",
+                    "umami",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "amargo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "umami",
+                    "alimento",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "umami"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del gusto?",
+                  "options": [
+                    "alimento",
+                    "lengua",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "alimento"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo ácido en clase.",
+                "___________________________________________",
+                "Aprendo amargo en clase.",
+                "___________________________________________",
+                "Aprendo umami en clase.",
+                "___________________________________________",
+                "Aprendo alimento en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }

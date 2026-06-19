@@ -1,0 +1,648 @@
+{
+  "topic": {
+    "slug": "palabras-con-y",
+    "name": "Palabras con y"
+  },
+  "articles": [
+    {
+      "slug": "palabras-con-y-explicacion-para-primaria",
+      "title": "Palabras con y: explicación para primaria",
+      "excerpt": "Ficha de palabras con y para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con y para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-palabras-con-y-explicacion-para-primaria.webp",
+      "keywords": [
+        "palabras con y",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como yate, yema, yogur, rayo, playa. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Palabras con y: explicación para primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como ayer, mayor, payaso, playa, rayo. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con y es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "palabras-con-y-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con y.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "yate",
+                "yema",
+                "yogur",
+                "rayo",
+                "playa",
+                "payaso",
+                "mayor",
+                "ayer"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "yate",
+                    "yema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "yate"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "yema",
+                    "yogur",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "yema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "yogur",
+                    "rayo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "yogur"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "rayo",
+                    "playa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "rayo"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo yate en clase.",
+                "___________________________________________",
+                "Aprendo yema en clase.",
+                "___________________________________________",
+                "Aprendo yogur en clase.",
+                "___________________________________________",
+                "Aprendo rayo en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-palabras-con-y-para-ninos",
+      "title": "Ejemplos de palabras con y para niños",
+      "excerpt": "Ficha de palabras con y para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con y para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-palabras-con-y-para-ninos.webp",
+      "keywords": [
+        "palabras con y",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como yema, yogur, rayo, playa, payaso. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de palabras con y para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como yate, ayer, mayor, payaso, playa. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con y es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-palabras-con-y-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con y.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "yema",
+                "yogur",
+                "rayo",
+                "playa",
+                "payaso",
+                "mayor",
+                "ayer",
+                "yate"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "yema",
+                    "yogur",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "yema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "yogur",
+                    "rayo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "yogur"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "rayo",
+                    "playa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "rayo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "playa",
+                    "payaso",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "playa"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo yema en clase.",
+                "___________________________________________",
+                "Aprendo yogur en clase.",
+                "___________________________________________",
+                "Aprendo rayo en clase.",
+                "___________________________________________",
+                "Aprendo playa en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-palabras-con-y-en-primaria",
+      "title": "Vocabulario de palabras con y en primaria",
+      "excerpt": "Ficha de palabras con y para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con y para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-palabras-con-y-en-primaria.webp",
+      "keywords": [
+        "palabras con y",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como yogur, rayo, playa, payaso, mayor. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de palabras con y en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como yema, yate, ayer, mayor, payaso. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con y es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-palabras-con-y-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con y.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "yogur",
+                "rayo",
+                "playa",
+                "payaso",
+                "mayor",
+                "ayer",
+                "yate",
+                "yema"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "yogur",
+                    "rayo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "yogur"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "rayo",
+                    "playa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "rayo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "playa",
+                    "payaso",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "playa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "payaso",
+                    "mayor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "payaso"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo yogur en clase.",
+                "___________________________________________",
+                "Aprendo rayo en clase.",
+                "___________________________________________",
+                "Aprendo playa en clase.",
+                "___________________________________________",
+                "Aprendo payaso en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-palabras-con-y-para-imprimir",
+      "title": "Actividades de palabras con y para imprimir",
+      "excerpt": "Ficha de palabras con y para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con y para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-palabras-con-y-para-imprimir.webp",
+      "keywords": [
+        "palabras con y",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como rayo, playa, payaso, mayor, ayer. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de palabras con y para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como yogur, yema, yate, ayer, mayor. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con y es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-palabras-con-y-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con y.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "rayo",
+                "playa",
+                "payaso",
+                "mayor",
+                "ayer",
+                "yate",
+                "yema",
+                "yogur"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "rayo",
+                    "playa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "rayo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "playa",
+                    "payaso",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "playa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "payaso",
+                    "mayor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "payaso"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "mayor",
+                    "ayer",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mayor"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo rayo en clase.",
+                "___________________________________________",
+                "Aprendo playa en clase.",
+                "___________________________________________",
+                "Aprendo payaso en clase.",
+                "___________________________________________",
+                "Aprendo mayor en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-palabras-con-y-con-ficha",
+      "title": "Repaso de palabras con y con ficha",
+      "excerpt": "Ficha de palabras con y para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con y para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-palabras-con-y-con-ficha.webp",
+      "keywords": [
+        "palabras con y",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como playa, payaso, mayor, ayer, yate. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de palabras con y con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con y es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como rayo, yogur, yema, yate, ayer. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con y."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con y es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-palabras-con-y-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con y.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "playa",
+                "payaso",
+                "mayor",
+                "ayer",
+                "yate",
+                "yema",
+                "yogur",
+                "rayo"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "playa",
+                    "payaso",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "playa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "payaso",
+                    "mayor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "payaso"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "mayor",
+                    "ayer",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mayor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con y?",
+                  "options": [
+                    "ayer",
+                    "yate",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ayer"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo playa en clase.",
+                "___________________________________________",
+                "Aprendo payaso en clase.",
+                "___________________________________________",
+                "Aprendo mayor en clase.",
+                "___________________________________________",
+                "Aprendo ayer en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

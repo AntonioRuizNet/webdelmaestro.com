@@ -5,118 +5,640 @@
   },
   "articles": [
     {
-      "slug": "actividades",
-      "title": "Palabras con r suave: explicación, ejemplos y fichas PDF",
-      "excerpt": "Recurso didáctico para trabajar la r suave con ejemplos, lectura de palabras y fichas imprimibles.",
-      "metaDescription": "Palabras con r suave para primaria: explicación sencilla, ejemplos y fichas PDF para practicar lectura, escritura y ortografía.",
-      "featuredImage": "/uploads/fichas-palabras-con-r-suave.webp",
-      "keywords": ["palabras con r suave", "r suave", "ortografía primaria"],
+      "slug": "palabras-con-r-suave-explicacion-para-primaria",
+      "title": "Palabras con r suave: explicación para primaria",
+      "excerpt": "Ficha de palabras con r suave para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con r suave para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-palabras-con-r-suave-explicacion-para-primaria.webp",
+      "keywords": [
+        "palabras con r suave",
+        "primaria",
+        "fichas imprimibles"
+      ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "La r suave aparece cuando la letra r suena de forma suave dentro de una palabra, normalmente entre vocales. Es importante diferenciarla de la r fuerte para mejorar la lectura, la pronunciación y la escritura."
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como cara, pera, mariposa, arena, oro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Ejemplos de palabras con r suave"
-        },
-        {
-          "type": "list",
-          "items": ["cara", "pera", "mariposa", "oro", "toro", "arena", "sirena", "corona", "pirata", "caramelo"]
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Cómo practicarla"
+          "text": "Palabras con r suave: explicación para primaria"
         },
         {
           "type": "paragraph",
-          "text": "Primero se puede leer una lista corta de palabras. Después, el alumno puede rodear la r suave, copiar palabras y completar frases sencillas. Este orden ayuda a pasar de la identificación visual a la escritura autónoma."
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como sirena, corona, toro, oro, arena. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con r suave es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
         }
       ],
       "worksheets": [
         {
-          "id": "r-suave-rodear",
-          "title": "Rodea la r suave",
-          "description": "Actividad para localizar la r suave dentro de palabras sencillas.",
+          "id": "palabras-con-r-suave-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con r suave.",
           "activities": [
             {
-              "type": "oddOneOutGroups",
-              "title": "Rodea la palabra que no tiene r suave",
-              "groups": [
-                ["cara", "pera", "sapo", "oro", "rata"],
-                ["sirena", "mariposa", "luna", "arena", "rata"],
-                ["corona", "caramelo", "mesa", "pirata", "rata"]
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "cara",
+                "pera",
+                "mariposa",
+                "arena",
+                "oro",
+                "toro",
+                "corona",
+                "sirena"
               ],
-              "instruction": "Lee todas las palabras de cada grupo y rodea la que no pertenece. Después explica oralmente por qué sobra."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "textLines",
-              "title": "Copia tres palabras con r suave",
-              "lines": [
-                "1. ____________________",
-                "2. ____________________",
-                "3. ____________________",
-                "Revisa tu respuesta antes de terminar."
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "cara",
+                    "pera",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "cara"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "pera",
+                    "mariposa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pera"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "mariposa",
+                    "arena",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mariposa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "arena",
+                    "oro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "arena"
+                }
               ],
-              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
-            }
-          ]
-        },
-        {
-          "id": "r-suave-copiar",
-          "title": "Copia palabras con r suave",
-          "description": "Ficha de copia para reforzar ortografía y caligrafía.",
-          "activities": [
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
             {
               "type": "textLines",
               "title": "Copia con buena letra",
               "lines": [
-                "La mariposa vuela sobre la arena.",
-                "________________________________________________________",
-                "El pirata encontró una corona de oro.",
-                "________________________________________________________",
-                "El toro mira una pera madura.",
-                "________________________________________________________",
-                ""
+                "Aprendo cara en clase.",
+                "___________________________________________",
+                "Aprendo pera en clase.",
+                "___________________________________________",
+                "Aprendo mariposa en clase.",
+                "___________________________________________",
+                "Aprendo arena en clase.",
+                "___________________________________________"
               ],
-              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
+              "instruction": "Copia las frases con buena letra."
             }
           ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-palabras-con-r-suave-para-ninos",
+      "title": "Ejemplos de palabras con r suave para niños",
+      "excerpt": "Ficha de palabras con r suave para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con r suave para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-palabras-con-r-suave-para-ninos.webp",
+      "keywords": [
+        "palabras con r suave",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como pera, mariposa, arena, oro, toro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
         },
         {
-          "id": "r-suave-frases",
-          "title": "Completa frases con r suave",
-          "description": "Ejercicios para usar palabras con r suave en contexto.",
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de palabras con r suave para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como cara, sirena, corona, toro, oro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con r suave es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-palabras-con-r-suave-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con r suave.",
           "activities": [
             {
-              "type": "chooseWord",
-              "title": "Completa con la palabra correcta",
-              "items": [
-                {
-                  "sentence": "La ________ tiene alas de colores.",
-                  "options": ["mariposa", "mesa", "luna", "caracol"]
-                },
-                {
-                  "sentence": "El ________ encontró un tesoro.",
-                  "options": ["pirata", "sapo", "vaso", "caracol"]
-                },
-                {
-                  "sentence": "Me gusta comer una ________ dulce.",
-                  "options": ["pera", "taza", "silla", "caracol"]
-                }
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "pera",
+                "mariposa",
+                "arena",
+                "oro",
+                "toro",
+                "corona",
+                "sirena",
+                "cara"
               ],
-              "instruction": "Lee la frase completa y marca la palabra que encaja mejor por significado y ortografía."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "fillBlanks",
-              "title": "Escribe dos frases nuevas con r suave",
-              "lines": [
-                "________________________________________________________",
-                "________________________________________________________"
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "pera",
+                    "mariposa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pera"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "mariposa",
+                    "arena",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mariposa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "arena",
+                    "oro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "arena"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "oro",
+                    "toro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "oro"
+                }
               ],
-              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo pera en clase.",
+                "___________________________________________",
+                "Aprendo mariposa en clase.",
+                "___________________________________________",
+                "Aprendo arena en clase.",
+                "___________________________________________",
+                "Aprendo oro en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-palabras-con-r-suave-en-primaria",
+      "title": "Vocabulario de palabras con r suave en primaria",
+      "excerpt": "Ficha de palabras con r suave para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con r suave para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-palabras-con-r-suave-en-primaria.webp",
+      "keywords": [
+        "palabras con r suave",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como mariposa, arena, oro, toro, corona. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de palabras con r suave en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como pera, cara, sirena, corona, toro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con r suave es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-palabras-con-r-suave-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con r suave.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "mariposa",
+                "arena",
+                "oro",
+                "toro",
+                "corona",
+                "sirena",
+                "cara",
+                "pera"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "mariposa",
+                    "arena",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mariposa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "arena",
+                    "oro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "arena"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "oro",
+                    "toro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "oro"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "toro",
+                    "corona",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "toro"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo mariposa en clase.",
+                "___________________________________________",
+                "Aprendo arena en clase.",
+                "___________________________________________",
+                "Aprendo oro en clase.",
+                "___________________________________________",
+                "Aprendo toro en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-palabras-con-r-suave-para-imprimir",
+      "title": "Actividades de palabras con r suave para imprimir",
+      "excerpt": "Ficha de palabras con r suave para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con r suave para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-palabras-con-r-suave-para-imprimir.webp",
+      "keywords": [
+        "palabras con r suave",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como arena, oro, toro, corona, sirena. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de palabras con r suave para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como mariposa, pera, cara, sirena, corona. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con r suave es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-palabras-con-r-suave-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con r suave.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "arena",
+                "oro",
+                "toro",
+                "corona",
+                "sirena",
+                "cara",
+                "pera",
+                "mariposa"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "arena",
+                    "oro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "arena"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "oro",
+                    "toro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "oro"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "toro",
+                    "corona",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "toro"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "corona",
+                    "sirena",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "corona"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo arena en clase.",
+                "___________________________________________",
+                "Aprendo oro en clase.",
+                "___________________________________________",
+                "Aprendo toro en clase.",
+                "___________________________________________",
+                "Aprendo corona en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-palabras-con-r-suave-con-ficha",
+      "title": "Repaso de palabras con r suave con ficha",
+      "excerpt": "Ficha de palabras con r suave para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con r suave para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-palabras-con-r-suave-con-ficha.webp",
+      "keywords": [
+        "palabras con r suave",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como oro, toro, corona, sirena, cara. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de palabras con r suave con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con r suave es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como arena, mariposa, pera, cara, sirena. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con r suave."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con r suave es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-palabras-con-r-suave-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con r suave.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "oro",
+                "toro",
+                "corona",
+                "sirena",
+                "cara",
+                "pera",
+                "mariposa",
+                "arena"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "oro",
+                    "toro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "oro"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "toro",
+                    "corona",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "toro"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "corona",
+                    "sirena",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "corona"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con r suave?",
+                  "options": [
+                    "sirena",
+                    "cara",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "sirena"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo oro en clase.",
+                "___________________________________________",
+                "Aprendo toro en clase.",
+                "___________________________________________",
+                "Aprendo corona en clase.",
+                "___________________________________________",
+                "Aprendo sirena en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }

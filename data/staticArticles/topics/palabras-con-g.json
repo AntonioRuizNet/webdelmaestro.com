@@ -1,34 +1,33 @@
 {
   "topic": {
     "slug": "palabras-con-g",
-    "name": "Palabras con G"
+    "name": "Palabras con g"
   },
   "articles": [
     {
-      "slug": "palabras-con-g-al-inicio",
-      "title": "Palabras con G al inicio para primaria",
-      "excerpt": "Aprende palabras que empiezan por G con ejemplos y fichas imprimibles.",
-      "metaDescription": "Palabras con G al inicio para niños de primaria con explicación y actividades.",
-      "featuredImage": "/uploads/fichas-palabras-con-g-al-inicio.webp",
+      "slug": "palabras-con-g-explicacion-para-primaria",
+      "title": "Palabras con g: explicación para primaria",
+      "excerpt": "Ficha de palabras con g para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con g para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-palabras-con-g-explicacion-para-primaria.webp",
       "keywords": [
         "palabras con g",
-        "letra g",
-        "ortografía primaria",
-        "vocabulario infantil"
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar palabras que empiezan por G para aprender a reconocer, leer y escribir palabras con la letra G. La G aparece en muchas palabras que usamos en clase, en casa, en los cuentos y en las conversaciones de cada día. Algunos ejemplos útiles son gato, gorra, globo, gusano, galleta y guitarra. Cuando una niña o un niño observa una palabra, la lee en voz alta y después la copia con cuidado, está entrenando la memoria visual, la atención y la escritura. También aprende a relacionar cada palabra con su significado real. Por eso no basta con repetir listas: es mejor usar las palabras en frases, dibujos, lecturas breves y pequeños juegos. De esta forma se entiende para qué sirve cada palabra y se recuerda con más facilidad. Practicar palabras con G ayuda a escribir textos más claros, leer con más seguridad y participar mejor en las actividades del aula."
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como gato, gorra, guitarra, globo, gema. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Palabras que empiezan por G"
+          "text": "Palabras con g: explicación para primaria"
         },
         {
           "type": "paragraph",
-          "text": "Para aprender bien las palabras que comienzan por G, podemos empezar mirando objetos, animales, lugares o acciones que tengan la letra G. Después podemos escribir palabras como gato, gorra, globo, gallina, galleta, goma y gusano y separarlas en grupos. Por ejemplo, unas pueden ser nombres de animales, otras pueden ser cosas que hay en casa y otras pueden aparecer en un cuento. También es importante leer frases completas, porque una palabra se entiende mejor cuando aparece dentro de una idea. Si escribimos «El gato mira un globo» sabemos quién aparece y qué objeto ve. Las actividades imprimibles ayudan porque permiten completar huecos, unir columnas, elegir respuestas, copiar palabras y dibujar escenas. Así se trabajan la comprensión, la ortografía y la creatividad de una manera sencilla. Cada ejercicio debe hacerse con calma, leyendo primero la consigna y pensando en el significado de las palabras antes de escribir."
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como goma, galleta, gusano, gema, globo. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
         },
         {
           "type": "heading",
@@ -38,670 +37,606 @@
         {
           "type": "list",
           "items": [
-            "La palabra gato empieza por G y es muy fácil de dibujar.",
-            "Guitarra tiene una G al inicio y dos letras r en el centro.",
-            "Globo empieza por G y también tiene el grupo gl.",
-            "Muchas palabras con G nombran objetos que vemos en clase."
+            "Aprender palabras con g es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha 1: palabras iniciales con G",
-          "description": "Reconoce palabras que empiezan por G.",
+          "id": "palabras-con-g-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con g.",
           "activities": [
             {
               "type": "wordBankParagraph",
-              "title": "Banco de palabras con G",
+              "title": "Completa el texto",
               "words": [
-                "goma",
-                "gorra",
-                "galleta",
                 "gato",
+                "gorra",
                 "guitarra",
-                "globo"
-              ],
-              "text": "En la clase hay una __________________ para borrar, una __________________ azul y una __________________ dulce. En el cuento aparece un __________________ pequeño junto a una __________________ roja. Al final, todos miran un __________________ que sube al cielo.",
-              "instruction": "Lee el texto. Usa todas las palabras."
-            },
-            {
-              "type": "chooseWord",
-              "title": "Elige la palabra con G",
-              "items": [
-                {
-                  "sentence": "Animal que maúlla.",
-                  "options": [
-                    "gato",
-                    "pato",
-                    "sapo",
-                    "loro"
-                  ],
-                  "answer": "gato"
-                },
-                {
-                  "sentence": "Objeto redondo que puede flotar.",
-                  "options": [
-                    "globo",
-                    "plato",
-                    "vaso",
-                    "dado"
-                  ],
-                  "answer": "globo"
-                },
-                {
-                  "sentence": "Dulce que se come en la merienda.",
-                  "options": [
-                    "galleta",
-                    "maleta",
-                    "tomate",
-                    "pelota"
-                  ],
-                  "answer": "galleta"
-                },
-                {
-                  "sentence": "Sirve para borrar el lápiz.",
-                  "options": [
-                    "goma",
-                    "copa",
-                    "rama",
-                    "silla"
-                  ],
-                  "answer": "goma"
-                }
-              ],
-              "instruction": "Lee la frase. Elige la palabra correcta."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa con palabras iniciales",
-              "lines": [
-                "El __________________ duerme en una manta.",
-                "La __________________ borra una palabra.",
-                "Mi __________________ me protege del sol.",
-                "El __________________ tiene muchos colores.",
-                "La __________________ suena en la canción."
-              ],
-              "instruction": "Completa cada frase con una palabra con G."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibujo con G inicial",
-              "instruction": "Dibuja un gato, un globo y una gorra en la misma escena."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "animales-con-g",
-      "title": "Animales con G para niños",
-      "excerpt": "Descubre animales con G y practica vocabulario con actividades únicas.",
-      "metaDescription": "Animales con G para primaria con lectura, juegos y actividades imprimibles.",
-      "featuredImage": "/uploads/fichas-animales-con-g.webp",
-      "keywords": [
-        "animales con g",
-        "palabras con g",
-        "vocabulario de animales",
-        "primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar nombres de animales con G para aprender a reconocer, leer y escribir palabras con la letra G. La G aparece en muchas palabras que usamos en clase, en casa, en los cuentos y en las conversaciones de cada día. Algunos ejemplos útiles son gato, gallina, gorila, ganso, guepardo y golondrina. Cuando una niña o un niño observa una palabra, la lee en voz alta y después la copia con cuidado, está entrenando la memoria visual, la atención y la escritura. También aprende a relacionar cada palabra con su significado real. Por eso no basta con repetir listas: es mejor usar las palabras en frases, dibujos, lecturas breves y pequeños juegos. De esta forma se entiende para qué sirve cada palabra y se recuerda con más facilidad. Practicar palabras con G ayuda a escribir textos más claros, leer con más seguridad y participar mejor en las actividades del aula."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Animales que llevan la letra G"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien los animales con G, podemos empezar mirando objetos, animales, lugares o acciones que tengan la letra G. Después podemos escribir palabras como gato, gallina, ganso, gorila, guepardo, golondrina y gusano y separarlas en grupos. Por ejemplo, unas pueden ser nombres de animales, otras pueden ser cosas que hay en casa y otras pueden aparecer en un cuento. También es importante leer frases completas, porque una palabra se entiende mejor cuando aparece dentro de una idea. Si escribimos «El gato mira un globo» sabemos quién aparece y qué objeto ve. Las actividades imprimibles ayudan porque permiten completar huecos, unir columnas, elegir respuestas, copiar palabras y dibujar escenas. Así se trabajan la comprensión, la ortografía y la creatividad de una manera sencilla. Cada ejercicio debe hacerse con calma, leyendo primero la consigna y pensando en el significado de las palabras antes de escribir."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "El guepardo es un animal muy veloz.",
-            "La golondrina es un ave que puede recorrer grandes distancias.",
-            "El gorila vive en grupo y cuida a sus crías.",
-            "La gallina pone huevos y vive en corrales o granjas."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 2: animales con G",
-          "description": "Actividades sobre animales con la letra G.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "La visita a la granja",
-              "text": "Gema visitó una granja con su clase. Allí vio una gallina que picoteaba maíz, un ganso que caminaba cerca del agua y un gato que descansaba sobre una silla. Después, la maestra mostró una lámina con un gorila y explicó que no vive en la granja, sino en lugares con selvas y bosques. Gema escribió todos los nombres en su cuaderno para recordarlos mejor.",
-              "questions": [
-                "¿Cómo se llamaba la niña?",
-                "¿Qué animal picoteaba maíz?",
-                "¿Dónde descansaba el gato?",
-                "¿Qué animal no vivía en la granja?",
-                "¿Dónde escribió Gema los nombres?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Encuentra el intruso",
-              "groups": [
-                {
-                  "items": [
-                    "gato",
-                    "gallina",
-                    "ganso",
-                    "mesa"
-                  ],
-                  "answer": "mesa"
-                },
-                {
-                  "items": [
-                    "gorila",
-                    "guepardo",
-                    "golondrina",
-                    "zapato"
-                  ],
-                  "answer": "zapato"
-                },
-                {
-                  "items": [
-                    "gusano",
-                    "gaviota",
-                    "gato",
-                    "lápiz"
-                  ],
-                  "answer": "lápiz"
-                },
-                {
-                  "items": [
-                    "gallina",
-                    "ganso",
-                    "gorrión",
-                    "silla"
-                  ],
-                  "answer": "silla"
-                }
-              ],
-              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une animal y pista",
-              "left": [
-                "gato",
-                "gallina",
-                "guepardo",
-                "golondrina",
-                "gusano"
-              ],
-              "right": [
-                "maúlla",
-                "pone huevos",
-                "corre rápido",
-                "es un ave",
-                "se arrastra"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "textLines",
-              "title": "Copia animales con G",
-              "lines": [
-                "gato",
-                "gallina",
-                "ganso",
-                "gorila",
-                "guepardo",
-                "golondrina"
-              ],
-              "instruction": "Copia los nombres de animales."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "objetos-con-g",
-      "title": "Objetos con G en casa y en clase",
-      "excerpt": "Trabaja objetos con G mediante juegos de vocabulario y escritura.",
-      "metaDescription": "Objetos con G para niños de primaria con explicación y fichas imprimibles.",
-      "featuredImage": "/uploads/fichas-objetos-con-g.webp",
-      "keywords": [
-        "objetos con g",
-        "palabras con g",
-        "vocabulario primaria",
-        "fichas de lengua"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar objetos con G que vemos en casa y en clase para aprender a reconocer, leer y escribir palabras con la letra G. La G aparece en muchas palabras que usamos en clase, en casa, en los cuentos y en las conversaciones de cada día. Algunos ejemplos útiles son goma, gorra, guante, guitarra, globo, grifo y grapadora. Cuando una niña o un niño observa una palabra, la lee en voz alta y después la copia con cuidado, está entrenando la memoria visual, la atención y la escritura. También aprende a relacionar cada palabra con su significado real. Por eso no basta con repetir listas: es mejor usar las palabras en frases, dibujos, lecturas breves y pequeños juegos. De esta forma se entiende para qué sirve cada palabra y se recuerda con más facilidad. Practicar palabras con G ayuda a escribir textos más claros, leer con más seguridad y participar mejor en las actividades del aula."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Objetos cotidianos con G"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien los objetos con G, podemos empezar mirando objetos, animales, lugares o acciones que tengan la letra G. Después podemos escribir palabras como goma, gorra, guante, guitarra, grifo, grapadora, globo y gafas y separarlas en grupos. Por ejemplo, unas pueden ser nombres de animales, otras pueden ser cosas que hay en casa y otras pueden aparecer en un cuento. También es importante leer frases completas, porque una palabra se entiende mejor cuando aparece dentro de una idea. Si escribimos «El gato mira un globo» sabemos quién aparece y qué objeto ve. Las actividades imprimibles ayudan porque permiten completar huecos, unir columnas, elegir respuestas, copiar palabras y dibujar escenas. Así se trabajan la comprensión, la ortografía y la creatividad de una manera sencilla. Cada ejercicio debe hacerse con calma, leyendo primero la consigna y pensando en el significado de las palabras antes de escribir."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "La goma ayuda a corregir errores escritos con lápiz.",
-            "El grifo permite abrir y cerrar el paso del agua.",
-            "Las gafas ayudan a algunas personas a ver mejor.",
-            "La grapadora une hojas con pequeñas grapas."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 3: objetos con G",
-          "description": "Práctica de objetos con G.",
-          "activities": [
-            {
-              "type": "wordBankParagraph",
-              "title": "Texto con objetos",
-              "words": [
-                "goma",
-                "gafas",
-                "grapadora",
-                "grifo",
-                "guante",
-                "globo"
-              ],
-              "text": "En mi mesa tengo una __________________, unas __________________ y una __________________. Mi padre abre el __________________ para llenar un vaso con agua fresca. En invierno uso un __________________ de lana y, en una fiesta, llevo un __________________ verde atado con una cuerda.",
-              "instruction": "Lee el texto. Usa todas las palabras."
-            },
-            {
-              "type": "chooseAnswer",
-              "title": "¿Qué objeto es?",
-              "items": [
-                {
-                  "question": "¿Qué usamos para borrar?",
-                  "options": [
-                    "goma",
-                    "ganso",
-                    "gato",
-                    "girasol"
-                  ],
-                  "answer": "goma"
-                },
-                {
-                  "question": "¿Qué usamos en la mano cuando hace frío?",
-                  "options": [
-                    "guante",
-                    "globo",
-                    "grifo"
-                  ],
-                  "answer": "guante"
-                },
-                {
-                  "question": "¿Qué abre el agua?",
-                  "options": [
-                    "grifo",
-                    "guitarra",
-                    "gorila"
-                  ],
-                  "answer": "grifo"
-                },
-                {
-                  "question": "¿Qué une hojas?",
-                  "options": [
-                    "grapadora",
-                    "galleta",
-                    "gaviota"
-                  ],
-                  "answer": "grapadora"
-                }
-              ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa objetos",
-              "lines": [
-                "Uso la __________________ para borrar.",
-                "El __________________ tiene agua.",
-                "Mi abuela lleva __________________ para leer.",
-                "El __________________ protege mi mano.",
-                "La __________________ une varias hojas."
-              ],
-              "instruction": "Completa cada frase con una palabra con G."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja objetos con G",
-              "instruction": "Dibuja una mesa con una goma, unas gafas y una grapadora."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "sonidos-ga-go-gu",
-      "title": "Palabras con ga, go y gu",
-      "excerpt": "Practica palabras con ga, go y gu con lecturas y ejercicios claros.",
-      "metaDescription": "Palabras con ga, go y gu para primaria con actividades educativas.",
-      "featuredImage": "/uploads/fichas-sonidos-ga-go-gu.webp",
-      "keywords": [
-        "ga go gu",
-        "palabras con g",
-        "ortografía g",
-        "lengua primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar palabras con las sílabas ga, go y gu para aprender a reconocer, leer y escribir palabras con la letra G. La G aparece en muchas palabras que usamos en clase, en casa, en los cuentos y en las conversaciones de cada día. Algunos ejemplos útiles son gato, galleta, gorra, goma, gusano y gusto. Cuando una niña o un niño observa una palabra, la lee en voz alta y después la copia con cuidado, está entrenando la memoria visual, la atención y la escritura. También aprende a relacionar cada palabra con su significado real. Por eso no basta con repetir listas: es mejor usar las palabras en frases, dibujos, lecturas breves y pequeños juegos. De esta forma se entiende para qué sirve cada palabra y se recuerda con más facilidad. Practicar palabras con G ayuda a escribir textos más claros, leer con más seguridad y participar mejor en las actividades del aula."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "El sonido de ga, go y gu"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien las sílabas ga, go y gu, podemos empezar mirando objetos, animales, lugares o acciones que tengan la letra G. Después podemos escribir palabras como gato, galleta, garaje, gorra, gota, goma, gusano, guante y gusto y separarlas en grupos. Por ejemplo, unas pueden ser nombres de animales, otras pueden ser cosas que hay en casa y otras pueden aparecer en un cuento. También es importante leer frases completas, porque una palabra se entiende mejor cuando aparece dentro de una idea. Si escribimos «El gato mira un globo» sabemos quién aparece y qué objeto ve. Las actividades imprimibles ayudan porque permiten completar huecos, unir columnas, elegir respuestas, copiar palabras y dibujar escenas. Así se trabajan la comprensión, la ortografía y la creatividad de una manera sencilla. Cada ejercicio debe hacerse con calma, leyendo primero la consigna y pensando en el significado de las palabras antes de escribir."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Ga aparece en palabras como gato y galleta.",
-            "Go aparece en gorra, goma y gota.",
-            "Gu aparece en gusano, guante y gusto.",
-            "Separar palabras en sílabas ayuda a leer mejor."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 4: ga, go y gu",
-          "description": "Ejercicios con ga, go y gu.",
-          "activities": [
-            {
-              "type": "chooseWord",
-              "title": "Elige ga, go o gu",
-              "items": [
-                {
-                  "sentence": "Animal que dice miau.",
-                  "options": [
-                    "gato",
-                    "gota",
-                    "gusano",
-                    "goma"
-                  ],
-                  "answer": "gato"
-                },
-                {
-                  "sentence": "Cae del cielo cuando llueve.",
-                  "options": [
-                    "gota",
-                    "gato",
-                    "guante",
-                    "galleta"
-                  ],
-                  "answer": "gota"
-                },
-                {
-                  "sentence": "Animal pequeño que se arrastra.",
-                  "options": [
-                    "gusano",
-                    "gorra",
-                    "goma",
-                    "gallo"
-                  ],
-                  "answer": "gusano"
-                },
-                {
-                  "sentence": "Dulce redondo para merendar.",
-                  "options": [
-                    "galleta",
-                    "goma",
-                    "guante",
-                    "gota"
-                  ],
-                  "answer": "galleta"
-                },
-                {
-                  "sentence": "Objeto para proteger la mano.",
-                  "options": [
-                    "guante",
-                    "gato",
-                    "gorra",
-                    "goma"
-                  ],
-                  "answer": "guante"
-                }
-              ],
-              "instruction": "Lee la frase. Elige la palabra correcta."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une por sílaba",
-              "left": [
-                "gato",
-                "gorra",
+                "globo",
+                "gema",
                 "gusano",
                 "galleta",
-                "goma",
-                "guante"
+                "goma"
               ],
-              "right": [
-                "ga",
-                "go",
-                "gu",
-                "ga",
-                "go",
-                "gu"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "textLines",
-              "title": "Copia por grupos",
-              "lines": [
-                "ga: gato",
-                "ga: galleta",
-                "go: gorra",
-                "go: goma",
-                "gu: gusano",
-                "gu: guante"
-              ],
-              "instruction": "Copia las palabras en su grupo."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa con ga, go o gu",
-              "lines": [
-                "El __________________ come despacio.",
-                "La __________________ cae en el cristal.",
-                "Me pongo un __________________ en la mano.",
-                "La __________________ es dulce.",
-                "La __________________ borra el lápiz."
-              ],
-              "instruction": "Completa cada frase con una palabra con G."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "lecturas-y-frases-con-g",
-      "title": "Lecturas y frases con G",
-      "excerpt": "Lee textos breves con G y practica comprensión, copia y vocabulario.",
-      "metaDescription": "Lecturas y frases con G para primaria con comprensión y actividades.",
-      "featuredImage": "/uploads/fichas-lecturas-y-frases-con-g.webp",
-      "keywords": [
-        "lecturas con g",
-        "frases con g",
-        "comprensión lectora",
-        "palabras con g"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar lecturas y frases con palabras que llevan G para aprender a reconocer, leer y escribir palabras con la letra G. La G aparece en muchas palabras que usamos en clase, en casa, en los cuentos y en las conversaciones de cada día. Algunos ejemplos útiles son Gema, Gonzalo, gato, globo, galleta, gorra y guitarra. Cuando una niña o un niño observa una palabra, la lee en voz alta y después la copia con cuidado, está entrenando la memoria visual, la atención y la escritura. También aprende a relacionar cada palabra con su significado real. Por eso no basta con repetir listas: es mejor usar las palabras en frases, dibujos, lecturas breves y pequeños juegos. De esta forma se entiende para qué sirve cada palabra y se recuerda con más facilidad. Practicar palabras con G ayuda a escribir textos más claros, leer con más seguridad y participar mejor en las actividades del aula."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Leer frases con palabras con G"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien las lecturas con palabras con G, podemos empezar mirando objetos, animales, lugares o acciones que tengan la letra G. Después podemos escribir palabras como Gema guarda una gorra, Gonzalo toca la guitarra, el gato mira un globo y la gallina picotea grano y separarlas en grupos. Por ejemplo, unas pueden ser nombres de animales, otras pueden ser cosas que hay en casa y otras pueden aparecer en un cuento. También es importante leer frases completas, porque una palabra se entiende mejor cuando aparece dentro de una idea. Si escribimos «El gato mira un globo» sabemos quién aparece y qué objeto ve. Las actividades imprimibles ayudan porque permiten completar huecos, unir columnas, elegir respuestas, copiar palabras y dibujar escenas. Así se trabajan la comprensión, la ortografía y la creatividad de una manera sencilla. Cada ejercicio debe hacerse con calma, leyendo primero la consigna y pensando en el significado de las palabras antes de escribir."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Leer frases ayuda a entender mejor las palabras.",
-            "Los nombres Gema y Gonzalo empiezan por G.",
-            "Una misma palabra puede aparecer en cuentos y poesías.",
-            "Copiar frases cortas mejora la atención y la letra."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 5: lectura y escritura",
-          "description": "Comprensión y escritura con palabras con G.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "El globo de Gonzalo",
-              "text": "Gonzalo salió al patio con una gorra azul y un globo rojo. Su amiga Gema llevaba galletas para compartir. Cerca de la puerta, un gato gris miraba la guitarra de un músico que tocaba una canción alegre. Gonzalo escuchó la música, dio una galleta a Gema y guardó el globo para llevarlo a casa. Después escribió en su cuaderno cinco palabras con G que había visto durante la tarde.",
-              "questions": [
-                "¿Cómo se llamaba el niño?",
-                "¿De qué color era el globo?",
-                "¿Qué llevaba Gema?",
-                "¿Qué miraba el gato gris?",
-                "¿Dónde escribió Gonzalo las palabras?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Palabras de la lectura",
-              "groups": [
-                {
-                  "items": [
-                    "Gonzalo",
-                    "Gema",
-                    "globo",
-                    "cuchara"
-                  ],
-                  "answer": "cuchara"
-                },
-                {
-                  "items": [
-                    "gorra",
-                    "galletas",
-                    "guitarra",
-                    "zapato"
-                  ],
-                  "answer": "zapato"
-                },
-                {
-                  "items": [
-                    "gato",
-                    "gris",
-                    "guardó",
-                    "mesa"
-                  ],
-                  "answer": "mesa"
-                },
-                {
-                  "items": [
-                    "cuaderno",
-                    "patio",
-                    "puerta",
-                    "goma"
-                  ],
-                  "answer": "goma"
-                }
-              ],
-              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
               "type": "chooseAnswer",
-              "title": "Comprende la lectura",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "question": "¿Quién llevaba galletas?",
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
                   "options": [
-                    "Gema",
-                    "Gonzalo",
-                    "el gato"
+                    "gato",
+                    "gorra",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "Gema"
+                  "answer": "gato"
                 },
                 {
-                  "question": "¿Dónde salió Gonzalo?",
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
                   "options": [
-                    "al patio",
-                    "al cine",
-                    "al río"
+                    "gorra",
+                    "guitarra",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "al patio"
+                  "answer": "gorra"
                 },
                 {
-                  "question": "¿Qué instrumento aparece?",
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
                   "options": [
                     "guitarra",
-                    "tambor",
-                    "flauta"
+                    "globo",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "guitarra"
                 },
                 {
-                  "question": "¿Qué guardó Gonzalo?",
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
                   "options": [
-                    "el globo",
-                    "la gorra",
-                    "la puerta"
+                    "globo",
+                    "gema",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "el globo"
+                  "answer": "globo"
                 }
               ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
               "type": "textLines",
-              "title": "Escribe frases con G",
+              "title": "Copia con buena letra",
               "lines": [
-                "Gema comparte galletas.",
-                "Gonzalo lleva una gorra.",
-                "El gato mira el globo.",
-                "La guitarra suena suave.",
-                "Guardo palabras en mi cuaderno."
+                "Aprendo gato en clase.",
+                "___________________________________________",
+                "Aprendo gorra en clase.",
+                "___________________________________________",
+                "Aprendo guitarra en clase.",
+                "___________________________________________",
+                "Aprendo globo en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-palabras-con-g-para-ninos",
+      "title": "Ejemplos de palabras con g para niños",
+      "excerpt": "Ficha de palabras con g para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con g para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-palabras-con-g-para-ninos.webp",
+      "keywords": [
+        "palabras con g",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como gorra, guitarra, globo, gema, gusano. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de palabras con g para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como gato, goma, galleta, gusano, gema. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con g es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-palabras-con-g-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con g.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "gorra",
+                "guitarra",
+                "globo",
+                "gema",
+                "gusano",
+                "galleta",
+                "goma",
+                "gato"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gorra",
+                    "guitarra",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gorra"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "guitarra",
+                    "globo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "guitarra"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "globo",
+                    "gema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "globo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gema",
+                    "gusano",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gema"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo gorra en clase.",
+                "___________________________________________",
+                "Aprendo guitarra en clase.",
+                "___________________________________________",
+                "Aprendo globo en clase.",
+                "___________________________________________",
+                "Aprendo gema en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-palabras-con-g-en-primaria",
+      "title": "Vocabulario de palabras con g en primaria",
+      "excerpt": "Ficha de palabras con g para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con g para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-palabras-con-g-en-primaria.webp",
+      "keywords": [
+        "palabras con g",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como guitarra, globo, gema, gusano, galleta. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de palabras con g en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como gorra, gato, goma, galleta, gusano. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con g es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-palabras-con-g-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con g.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "guitarra",
+                "globo",
+                "gema",
+                "gusano",
+                "galleta",
+                "goma",
+                "gato",
+                "gorra"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "guitarra",
+                    "globo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "guitarra"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "globo",
+                    "gema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "globo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gema",
+                    "gusano",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gusano",
+                    "galleta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gusano"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo guitarra en clase.",
+                "___________________________________________",
+                "Aprendo globo en clase.",
+                "___________________________________________",
+                "Aprendo gema en clase.",
+                "___________________________________________",
+                "Aprendo gusano en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-palabras-con-g-para-imprimir",
+      "title": "Actividades de palabras con g para imprimir",
+      "excerpt": "Ficha de palabras con g para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con g para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-palabras-con-g-para-imprimir.webp",
+      "keywords": [
+        "palabras con g",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como globo, gema, gusano, galleta, goma. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de palabras con g para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como guitarra, gorra, gato, goma, galleta. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con g es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-palabras-con-g-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con g.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "globo",
+                "gema",
+                "gusano",
+                "galleta",
+                "goma",
+                "gato",
+                "gorra",
+                "guitarra"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "globo",
+                    "gema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "globo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gema",
+                    "gusano",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gusano",
+                    "galleta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gusano"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "galleta",
+                    "goma",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "galleta"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo globo en clase.",
+                "___________________________________________",
+                "Aprendo gema en clase.",
+                "___________________________________________",
+                "Aprendo gusano en clase.",
+                "___________________________________________",
+                "Aprendo galleta en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-palabras-con-g-con-ficha",
+      "title": "Repaso de palabras con g con ficha",
+      "excerpt": "Ficha de palabras con g para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Palabras con g para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-palabras-con-g-con-ficha.webp",
+      "keywords": [
+        "palabras con g",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como gema, gusano, galleta, goma, gato. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de palabras con g con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Palabras con g es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como globo, guitarra, gorra, gato, goma. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende palabras con g."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender palabras con g es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-palabras-con-g-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre palabras con g.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "gema",
+                "gusano",
+                "galleta",
+                "goma",
+                "gato",
+                "gorra",
+                "guitarra",
+                "globo"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gema",
+                    "gusano",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "gusano",
+                    "galleta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gusano"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "galleta",
+                    "goma",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "galleta"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con palabras con g?",
+                  "options": [
+                    "goma",
+                    "gato",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "goma"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo gema en clase.",
+                "___________________________________________",
+                "Aprendo gusano en clase.",
+                "___________________________________________",
+                "Aprendo galleta en clase.",
+                "___________________________________________",
+                "Aprendo goma en clase.",
+                "___________________________________________"
               ],
               "instruction": "Copia las frases con buena letra."
             }

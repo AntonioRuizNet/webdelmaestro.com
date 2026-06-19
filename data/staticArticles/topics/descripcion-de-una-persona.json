@@ -1,149 +1,644 @@
 {
   "topic": {
     "slug": "descripcion-de-una-persona",
-    "name": "Descripción de una persona"
+    "name": "Descripcion de una persona"
   },
   "articles": [
     {
-      "slug": "actividades",
-      "title": "Descripción de una persona: actividades y fichas para primaria",
-      "excerpt": "Artículo didáctico con ideas para enseñar a describir personas y fichas imprimibles para trabajar el vocabulario, el orden y la expresión escrita.",
-      "metaDescription": "Descripción de una persona para primaria: explicación sencilla, ejemplos y fichas PDF descargables para trabajar rasgos físicos, carácter y redacción.",
-      "featuredImage": "/uploads/fichas-descripcion-de-una-persona.webp",
-      "keywords": ["descripción de una persona", "describir personas", "fichas de descripción"],
+      "slug": "descripcion-de-una-persona-explicacion-para-primaria",
+      "title": "Descripcion de una persona: explicación para primaria",
+      "excerpt": "Ficha de descripcion de una persona para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Descripcion de una persona para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-descripcion-de-una-persona-explicacion-para-primaria.webp",
+      "keywords": [
+        "descripcion de una persona",
+        "primaria",
+        "fichas imprimibles"
+      ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "Describir a una persona consiste en explicar cómo es de forma clara y ordenada. En primaria conviene empezar por los rasgos más visibles, continuar con la forma de ser y terminar con algún gusto, costumbre o detalle que ayude a imaginar mejor a esa persona."
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como alto, morena, amable, alegre, ojos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Qué debe incluir una descripción"
+          "text": "Descripcion de una persona: explicación para primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como gustos, carácter, pelo, ojos, alegre. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
         },
         {
           "type": "list",
           "items": [
-            "Datos generales: nombre, edad aproximada o relación con quien escribe.",
-            "Aspecto físico: altura, pelo, ojos, ropa o rasgos destacados.",
-            "Carácter: alegre, tranquilo, trabajador, tímido, amable, curioso...",
-            "Gustos o aficiones: deportes, juegos, lectura, música o animales.",
-            "Una frase final que resuma por qué esa persona es especial."
+            "Aprender descripcion de una persona es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Ejemplo breve"
-        },
-        {
-          "type": "paragraph",
-          "text": "Mi amiga Laura es una niña alta y sonriente. Tiene el pelo castaño y los ojos grandes. Suele vestir con ropa cómoda porque le gusta correr en el recreo. Es amable, divertida y siempre ayuda a sus compañeros cuando tienen una duda."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Consejos para el aula"
-        },
-        {
-          "type": "paragraph",
-          "text": "Antes de escribir, es útil completar una tabla con palabras clave. Después, el alumno puede convertir esas ideas en frases completas. Así se evita que la descripción sea una lista desordenada y se mejora la expresión escrita."
         }
       ],
       "worksheets": [
         {
-          "id": "descripcion-tabla",
-          "title": "Ficha para ordenar una descripción",
-          "description": "Completa una tabla con rasgos físicos, carácter y gustos antes de redactar.",
+          "id": "descripcion-de-una-persona-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre descripcion de una persona.",
           "activities": [
             {
               "type": "wordBankParagraph",
-              "title": "Banco de ideas para describir",
-              "instruction": "Usa algunas de estas palabras para completar el texto.",
+              "title": "Completa el texto",
               "words": [
                 "alto",
                 "morena",
                 "amable",
                 "alegre",
-                "trabajador",
-                "simpática",
-                "responsable",
-                "curiosa",
-                "tranquilo",
-                "sonriente"
+                "ojos",
+                "pelo",
+                "carácter",
+                "gustos"
               ],
-              "text": "Mi persona elegida es ________. Tiene el pelo ________ y es una persona ________. Le gusta ________ y suele mostrarse ________. ",
-              "writingLine": true,
-              "writingLines": 3
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "fillBlanks",
-              "title": "Completa antes de redactar",
-              "lines": [
-                "Nombre de la persona: ________________________________",
-                "Aspecto físico: ______________________________________",
-                "Forma de ser: ________________________________________",
-                "Gustos o aficiones: __________________________________",
-                "Explica brevemente cómo has resuelto la actividad: ______________________________"
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "alto",
+                    "morena",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "alto"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "morena",
+                    "amable",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "morena"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "amable",
+                    "alegre",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "amable"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "alegre",
+                    "ojos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "alegre"
+                }
               ],
-              "instruction": "Completa cada frase o respuesta con letra clara. Deja espacio suficiente para escribir."
-            }
-          ]
-        },
-        {
-          "id": "descripcion-redaccion",
-          "title": "Ficha de redacción: describe a una persona",
-          "description": "Guía paso a paso para escribir una descripción completa.",
-          "activities": [
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
             {
               "type": "textLines",
-              "title": "Escribe una descripción completa siguiendo este orden",
+              "title": "Copia con buena letra",
               "lines": [
-                "1. Presenta a la persona.",
-                "2. Explica cómo es físicamente.",
-                "3. Describe su carácter.",
-                "4. Añade un gusto o afición.",
-                "5. Termina con una frase final.",
-                "Revisa tu respuesta antes de terminar."
+                "Aprendo alto en clase.",
+                "___________________________________________",
+                "Aprendo morena en clase.",
+                "___________________________________________",
+                "Aprendo amable en clase.",
+                "___________________________________________",
+                "Aprendo alegre en clase.",
+                "___________________________________________"
               ],
-              "instruction": "Lee la consigna y completa la actividad despacio, cuidando la presentación y dejando espacios claros."
-            },
-            {
-              "type": "readingComprehension",
-              "title": "Lee el ejemplo y responde",
-              "text": "Laura es una niña tranquila y curiosa. Tiene el pelo castaño, los ojos grandes y una sonrisa amable. Le gusta leer cuentos de aventuras y ayudar a sus compañeros cuando tienen dudas. En clase suele trabajar con cuidado y escucha con atención. Cuando describimos a una persona, es importante ordenar las ideas y utilizar palabras respetuosas. Así el lector puede imaginarla con claridad.",
-              "questions": [
-                "¿Cómo es Laura físicamente?",
-                "¿Qué afición tiene?",
-                "¿Qué rasgo de carácter aparece en el texto?",
-                "Escribe una frase nueva para describirla.",
-                "Escribe una idea importante del texto."
-              ],
-              "instruction": "Lee el texto con atención. Después responde con frases completas cuando sea posible."
+              "instruction": "Copia las frases con buena letra."
             }
           ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-descripcion-de-una-persona-para-ninos",
+      "title": "Ejemplos de descripcion de una persona para niños",
+      "excerpt": "Ficha de descripcion de una persona para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Descripcion de una persona para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-descripcion-de-una-persona-para-ninos.webp",
+      "keywords": [
+        "descripcion de una persona",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como morena, amable, alegre, ojos, pelo. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
         },
         {
-          "id": "descripcion-vocabulario",
-          "title": "Banco de palabras para describir personas",
-          "description": "Lista de adjetivos útiles clasificados por aspecto físico y forma de ser.",
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de descripcion de una persona para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como alto, gustos, carácter, pelo, ojos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender descripcion de una persona es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-descripcion-de-una-persona-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre descripcion de una persona.",
           "activities": [
             {
-              "type": "oddOneOutGroups",
-              "title": "Rodea la palabra que sobra en cada grupo",
-              "groups": [
-                ["alto", "bajo", "rubio", "generoso", "inteligente"],
-                ["amable", "simpática", "alegre", "moreno", "inteligente"],
-                ["pelo", "ojos", "nariz", "trabajador", "inteligente"]
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "morena",
+                "amable",
+                "alegre",
+                "ojos",
+                "pelo",
+                "carácter",
+                "gustos",
+                "alto"
               ],
-              "instruction": "Lee todas las palabras de cada grupo y rodea la que no pertenece. Después explica oralmente por qué sobra."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "matchingColumns",
-              "title": "Une cada palabra con su tipo",
-              "left": ["alto", "alegre", "rubio", "trabajadora", "curioso"],
-              "right": ["aspecto físico", "forma de ser", "aspecto físico", "forma de ser", "Forma de ser"],
-              "instruction": "Une cada elemento de la columna izquierda con el que esté relacionado en la columna derecha."
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "morena",
+                    "amable",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "morena"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "amable",
+                    "alegre",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "amable"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "alegre",
+                    "ojos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "alegre"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "ojos",
+                    "pelo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ojos"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo morena en clase.",
+                "___________________________________________",
+                "Aprendo amable en clase.",
+                "___________________________________________",
+                "Aprendo alegre en clase.",
+                "___________________________________________",
+                "Aprendo ojos en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-descripcion-de-una-persona-en-primaria",
+      "title": "Vocabulario de descripcion de una persona en primaria",
+      "excerpt": "Ficha de descripcion de una persona para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Descripcion de una persona para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-descripcion-de-una-persona-en-primaria.webp",
+      "keywords": [
+        "descripcion de una persona",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como amable, alegre, ojos, pelo, carácter. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de descripcion de una persona en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como morena, alto, gustos, carácter, pelo. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender descripcion de una persona es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-descripcion-de-una-persona-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre descripcion de una persona.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "amable",
+                "alegre",
+                "ojos",
+                "pelo",
+                "carácter",
+                "gustos",
+                "alto",
+                "morena"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "amable",
+                    "alegre",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "amable"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "alegre",
+                    "ojos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "alegre"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "ojos",
+                    "pelo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ojos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "pelo",
+                    "carácter",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pelo"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo amable en clase.",
+                "___________________________________________",
+                "Aprendo alegre en clase.",
+                "___________________________________________",
+                "Aprendo ojos en clase.",
+                "___________________________________________",
+                "Aprendo pelo en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-descripcion-de-una-persona-para-imprimir",
+      "title": "Actividades de descripcion de una persona para imprimir",
+      "excerpt": "Ficha de descripcion de una persona para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Descripcion de una persona para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-descripcion-de-una-persona-para-imprimir.webp",
+      "keywords": [
+        "descripcion de una persona",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como alegre, ojos, pelo, carácter, gustos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de descripcion de una persona para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como amable, morena, alto, gustos, carácter. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender descripcion de una persona es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-descripcion-de-una-persona-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre descripcion de una persona.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "alegre",
+                "ojos",
+                "pelo",
+                "carácter",
+                "gustos",
+                "alto",
+                "morena",
+                "amable"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "alegre",
+                    "ojos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "alegre"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "ojos",
+                    "pelo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ojos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "pelo",
+                    "carácter",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pelo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "carácter",
+                    "gustos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "carácter"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo alegre en clase.",
+                "___________________________________________",
+                "Aprendo ojos en clase.",
+                "___________________________________________",
+                "Aprendo pelo en clase.",
+                "___________________________________________",
+                "Aprendo carácter en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-descripcion-de-una-persona-con-ficha",
+      "title": "Repaso de descripcion de una persona con ficha",
+      "excerpt": "Ficha de descripcion de una persona para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Descripcion de una persona para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-descripcion-de-una-persona-con-ficha.webp",
+      "keywords": [
+        "descripcion de una persona",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como ojos, pelo, carácter, gustos, alto. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de descripcion de una persona con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Descripcion de una persona es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como alegre, amable, morena, alto, gustos. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende descripcion de una persona."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender descripcion de una persona es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-descripcion-de-una-persona-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre descripcion de una persona.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "ojos",
+                "pelo",
+                "carácter",
+                "gustos",
+                "alto",
+                "morena",
+                "amable",
+                "alegre"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "ojos",
+                    "pelo",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "ojos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "pelo",
+                    "carácter",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "pelo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "carácter",
+                    "gustos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "carácter"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con descripcion de una persona?",
+                  "options": [
+                    "gustos",
+                    "alto",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "gustos"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo ojos en clase.",
+                "___________________________________________",
+                "Aprendo pelo en clase.",
+                "___________________________________________",
+                "Aprendo carácter en clase.",
+                "___________________________________________",
+                "Aprendo gustos en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }

@@ -1,0 +1,648 @@
+{
+  "topic": {
+    "slug": "sentido-del-tacto-y-sus-partes",
+    "name": "Sentido del tacto y sus partes"
+  },
+  "articles": [
+    {
+      "slug": "sentido-del-tacto-y-sus-partes-explicacion-para-primaria",
+      "title": "Sentido del tacto y sus partes: explicación para primaria",
+      "excerpt": "Ficha de sentido del tacto y sus partes para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del tacto y sus partes para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-sentido-del-tacto-y-sus-partes-explicacion-para-primaria.webp",
+      "keywords": [
+        "sentido del tacto y sus partes",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como piel, mano, dedos, temperatura, textura. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sentido del tacto y sus partes: explicación para primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como presión, áspero, suave, textura, temperatura. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del tacto y sus partes es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "sentido-del-tacto-y-sus-partes-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del tacto y sus partes.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "piel",
+                "mano",
+                "dedos",
+                "temperatura",
+                "textura",
+                "suave",
+                "áspero",
+                "presión"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "piel",
+                    "mano",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "piel"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "mano",
+                    "dedos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mano"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "dedos",
+                    "temperatura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "dedos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "temperatura",
+                    "textura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "temperatura"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo piel en clase.",
+                "___________________________________________",
+                "Aprendo mano en clase.",
+                "___________________________________________",
+                "Aprendo dedos en clase.",
+                "___________________________________________",
+                "Aprendo temperatura en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-sentido-del-tacto-y-sus-partes-para-ninos",
+      "title": "Ejemplos de sentido del tacto y sus partes para niños",
+      "excerpt": "Ficha de sentido del tacto y sus partes para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del tacto y sus partes para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-sentido-del-tacto-y-sus-partes-para-ninos.webp",
+      "keywords": [
+        "sentido del tacto y sus partes",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como mano, dedos, temperatura, textura, suave. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de sentido del tacto y sus partes para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como piel, presión, áspero, suave, textura. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del tacto y sus partes es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-sentido-del-tacto-y-sus-partes-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del tacto y sus partes.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "mano",
+                "dedos",
+                "temperatura",
+                "textura",
+                "suave",
+                "áspero",
+                "presión",
+                "piel"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "mano",
+                    "dedos",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "mano"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "dedos",
+                    "temperatura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "dedos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "temperatura",
+                    "textura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "temperatura"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "textura",
+                    "suave",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "textura"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo mano en clase.",
+                "___________________________________________",
+                "Aprendo dedos en clase.",
+                "___________________________________________",
+                "Aprendo temperatura en clase.",
+                "___________________________________________",
+                "Aprendo textura en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-sentido-del-tacto-y-sus-partes-en-primaria",
+      "title": "Vocabulario de sentido del tacto y sus partes en primaria",
+      "excerpt": "Ficha de sentido del tacto y sus partes para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del tacto y sus partes para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-sentido-del-tacto-y-sus-partes-en-primaria.webp",
+      "keywords": [
+        "sentido del tacto y sus partes",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como dedos, temperatura, textura, suave, áspero. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de sentido del tacto y sus partes en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como mano, piel, presión, áspero, suave. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del tacto y sus partes es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-sentido-del-tacto-y-sus-partes-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del tacto y sus partes.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "dedos",
+                "temperatura",
+                "textura",
+                "suave",
+                "áspero",
+                "presión",
+                "piel",
+                "mano"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "dedos",
+                    "temperatura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "dedos"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "temperatura",
+                    "textura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "temperatura"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "textura",
+                    "suave",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "textura"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "suave",
+                    "áspero",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "suave"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo dedos en clase.",
+                "___________________________________________",
+                "Aprendo temperatura en clase.",
+                "___________________________________________",
+                "Aprendo textura en clase.",
+                "___________________________________________",
+                "Aprendo suave en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-sentido-del-tacto-y-sus-partes-para-imprimir",
+      "title": "Actividades de sentido del tacto y sus partes para imprimir",
+      "excerpt": "Ficha de sentido del tacto y sus partes para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del tacto y sus partes para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-sentido-del-tacto-y-sus-partes-para-imprimir.webp",
+      "keywords": [
+        "sentido del tacto y sus partes",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como temperatura, textura, suave, áspero, presión. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de sentido del tacto y sus partes para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como dedos, mano, piel, presión, áspero. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del tacto y sus partes es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-sentido-del-tacto-y-sus-partes-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del tacto y sus partes.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "temperatura",
+                "textura",
+                "suave",
+                "áspero",
+                "presión",
+                "piel",
+                "mano",
+                "dedos"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "temperatura",
+                    "textura",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "temperatura"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "textura",
+                    "suave",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "textura"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "suave",
+                    "áspero",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "suave"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "áspero",
+                    "presión",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "áspero"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo temperatura en clase.",
+                "___________________________________________",
+                "Aprendo textura en clase.",
+                "___________________________________________",
+                "Aprendo suave en clase.",
+                "___________________________________________",
+                "Aprendo áspero en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-sentido-del-tacto-y-sus-partes-con-ficha",
+      "title": "Repaso de sentido del tacto y sus partes con ficha",
+      "excerpt": "Ficha de sentido del tacto y sus partes para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Sentido del tacto y sus partes para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-sentido-del-tacto-y-sus-partes-con-ficha.webp",
+      "keywords": [
+        "sentido del tacto y sus partes",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como textura, suave, áspero, presión, piel. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de sentido del tacto y sus partes con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentido del tacto y sus partes es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como temperatura, dedos, mano, piel, presión. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende sentido del tacto y sus partes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender sentido del tacto y sus partes es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-sentido-del-tacto-y-sus-partes-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre sentido del tacto y sus partes.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "textura",
+                "suave",
+                "áspero",
+                "presión",
+                "piel",
+                "mano",
+                "dedos",
+                "temperatura"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "textura",
+                    "suave",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "textura"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "suave",
+                    "áspero",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "suave"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "áspero",
+                    "presión",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "áspero"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con sentido del tacto y sus partes?",
+                  "options": [
+                    "presión",
+                    "piel",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "presión"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo textura en clase.",
+                "___________________________________________",
+                "Aprendo suave en clase.",
+                "___________________________________________",
+                "Aprendo áspero en clase.",
+                "___________________________________________",
+                "Aprendo presión en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

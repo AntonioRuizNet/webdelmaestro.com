@@ -1,34 +1,33 @@
 {
   "topic": {
     "slug": "como-hacer-un-cuento",
-    "name": "Cómo hacer un cuento"
+    "name": "Como hacer un cuento"
   },
   "articles": [
     {
-      "slug": "como-hacer-un-cuento-paso-a-paso",
-      "title": "Cómo hacer un cuento paso a paso",
-      "excerpt": "Aprende a crear un cuento con personajes, lugar, problema y final.",
-      "metaDescription": "Cómo hacer un cuento para niños de primaria con explicación y actividades.",
-      "featuredImage": "/uploads/fichas-como-hacer-un-cuento-paso-a-paso.webp",
+      "slug": "como-hacer-un-cuento-explicacion-para-primaria",
+      "title": "Como hacer un cuento: explicación para primaria",
+      "excerpt": "Ficha de como hacer un cuento para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Como hacer un cuento para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-como-hacer-un-cuento-explicacion-para-primaria.webp",
       "keywords": [
-        "cómo hacer un cuento",
-        "cuento primaria",
-        "escritura creativa",
-        "lengua"
+        "como hacer un cuento",
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar cómo hacer un cuento paso a paso, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y escritura creativa y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como personaje, lugar, inicio, problema, solución y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como inicio, nudo, final, personaje, lugar. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Aprendemos con ejemplos"
+          "text": "Como hacer un cuento: explicación para primaria"
         },
         {
           "type": "paragraph",
-          "text": "Para aprender bien cómo hacer un cuento paso a paso, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar personaje, lugar, inicio, problema, solución y final para observar cómo funciona el contenido dentro de una situación sencilla. Un cuento suele tener un inicio, un desarrollo y un final. En él aparecen personajes que viven una aventura. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como título, solución, problema, lugar, personaje. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
         },
         {
           "type": "heading",
@@ -38,232 +37,94 @@
         {
           "type": "list",
           "items": [
-            "Un cuento puede nacer de una idea muy pequeña.",
-            "Los personajes pueden ser personas, animales u objetos imaginarios.",
-            "El problema hace que la historia sea más interesante.",
-            "El final cuenta cómo termina la aventura."
+            "Aprender como hacer un cuento es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha: Cómo hacer un cuento paso a paso",
-          "description": "Actividades imprimibles para practicar el tema.",
+          "id": "como-hacer-un-cuento-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre como hacer un cuento.",
           "activities": [
             {
               "type": "wordBankParagraph",
-              "title": "Cuento paso a paso",
+              "title": "Completa el texto",
               "words": [
+                "inicio",
+                "nudo",
+                "final",
                 "personaje",
                 "lugar",
-                "inicio",
                 "problema",
                 "solución",
-                "final"
+                "título"
               ],
-              "text": "Para crear un cuento elijo un __________________ y un __________________. En el __________________ presento la historia. Después aparece un __________________. Más tarde llega una __________________. Al terminar escribo un __________________ claro para cerrar la aventura.",
-              "instruction": "Lee el texto. Usa todas las palabras."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
               "type": "chooseAnswer",
-              "title": "Partes del cuento",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "question": "¿Qué aparece al principio?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
                     "inicio",
-                    "firma",
-                    "precio"
+                    "nudo",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "inicio"
                 },
                 {
-                  "question": "¿Quién vive la aventura?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "personaje",
-                    "sello",
-                    "fecha"
+                    "nudo",
+                    "final",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "personaje"
+                  "answer": "nudo"
                 },
                 {
-                  "question": "¿Qué hace interesante la historia?",
-                  "options": [
-                    "problema",
-                    "ruido",
-                    "borrón"
-                  ],
-                  "answer": "problema"
-                },
-                {
-                  "question": "¿Qué cierra el cuento?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
                     "final",
-                    "margen",
-                    "título"
+                    "personaje",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "final"
-                }
-              ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une parte y función",
-              "left": [
-                "personaje",
-                "lugar",
-                "inicio",
-                "problema",
-                "solución",
-                "final"
-              ],
-              "right": [
-                "vive la aventura",
-                "donde ocurre",
-                "presenta",
-                "crea emoción",
-                "arregla el conflicto",
-                "cierra la historia"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja tu idea de cuento",
-              "instruction": "Dibuja un personaje, un lugar y un problema para tu cuento."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "personajes-de-un-cuento",
-      "title": "Personajes de un cuento",
-      "excerpt": "Descubre cómo crear personajes para escribir cuentos sencillos.",
-      "metaDescription": "Personajes de un cuento para primaria con actividades imprimibles.",
-      "featuredImage": "/uploads/fichas-personajes-de-un-cuento.webp",
-      "keywords": [
-        "cómo hacer un cuento",
-        "cuento primaria",
-        "escritura creativa",
-        "lengua"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar los personajes de un cuento, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como protagonista, amigo, hada, dragón, niña, abuelo y animal, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Aprendemos con ejemplos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien los personajes de un cuento, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar protagonista, amigo, hada, dragón, niña, abuelo y animal para observar cómo funciona el contenido dentro de una situación sencilla. Los personajes hacen acciones, hablan, sienten y ayudan a que el cuento avance. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "El protagonista es el personaje principal.",
-            "Un personaje puede tener un deseo o una misión.",
-            "Los personajes secundarios acompañan la historia.",
-            "Los cuentos pueden tener personajes reales o fantásticos."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha: Personajes de un cuento",
-          "description": "Actividades imprimibles para practicar el tema.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "El personaje de Clara",
-              "text": "Clara quería escribir un cuento sobre una niña valiente. Primero pensó cómo se llamaría: Nora. Después decidió que Nora viviría cerca de un bosque y tendría un perro pequeño. El problema sería que una llave mágica se perdería entre los árboles. Clara dibujó a Nora con botas rojas y escribió tres palabras para describirla: curiosa, amable y valiente.",
-              "questions": [
-                "¿Quién quería escribir un cuento?",
-                "¿Cómo se llamaba la protagonista?",
-                "¿Dónde viviría Nora?",
-                "¿Qué objeto se perdería?",
-                "¿Qué tres palabras describían a Nora?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "chooseWord",
-              "title": "Elige el personaje",
-              "items": [
-                {
-                  "sentence": "Personaje principal del cuento.",
-                  "options": [
-                    "protagonista",
-                    "margen",
-                    "sello",
-                    "fecha"
-                  ],
-                  "answer": "protagonista"
                 },
                 {
-                  "sentence": "Personaje mágico con alas.",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "hada",
+                    "personaje",
+                    "lugar",
                     "mesa",
-                    "nube",
-                    "plato"
+                    "nube"
                   ],
-                  "answer": "hada"
-                },
-                {
-                  "sentence": "Animal que acompaña a Nora.",
-                  "options": [
-                    "perro",
-                    "libro",
-                    "árbol",
-                    "casa"
-                  ],
-                  "answer": "perro"
-                },
-                {
-                  "sentence": "Personaje que puede lanzar fuego en cuentos.",
-                  "options": [
-                    "dragón",
-                    "lápiz",
-                    "zapato",
-                    "vaso"
-                  ],
-                  "answer": "dragón"
+                  "answer": "personaje"
                 }
               ],
-              "instruction": "Lee cada frase. Elige la palabra correcta."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa personajes",
-              "lines": [
-                "El __________________ es el personaje principal.",
-                "Un personaje puede ser amable o __________________.",
-                "El personaje vive una __________________.",
-                "Un animal también puede ser __________________.",
-                "El protagonista puede tener una __________________."
-              ],
-              "instruction": "Completa cada frase con la palabra adecuada."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
               "type": "textLines",
-              "title": "Copia descripciones",
+              "title": "Copia con buena letra",
               "lines": [
-                "Nora es valiente.",
-                "El perro es pequeño.",
-                "El dragón duerme.",
-                "El hada ayuda.",
-                "El abuelo cuenta historias."
+                "Aprendo inicio en clase.",
+                "___________________________________________",
+                "Aprendo nudo en clase.",
+                "___________________________________________",
+                "Aprendo final en clase.",
+                "___________________________________________",
+                "Aprendo personaje en clase.",
+                "___________________________________________"
               ],
               "instruction": "Copia las frases con buena letra."
             }
@@ -272,30 +133,29 @@
       ]
     },
     {
-      "slug": "lugar-y-tiempo-en-un-cuento",
-      "title": "Lugar y tiempo en un cuento",
-      "excerpt": "Aprende a elegir dónde y cuándo ocurre un cuento.",
-      "metaDescription": "Lugar y tiempo en un cuento para niños con fichas de primaria.",
-      "featuredImage": "/uploads/fichas-lugar-y-tiempo-en-un-cuento.webp",
+      "slug": "ejemplos-de-como-hacer-un-cuento-para-ninos",
+      "title": "Ejemplos de como hacer un cuento para niños",
+      "excerpt": "Ficha de como hacer un cuento para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Como hacer un cuento para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-como-hacer-un-cuento-para-ninos.webp",
       "keywords": [
-        "cómo hacer un cuento",
-        "cuento primaria",
-        "escritura creativa",
-        "lengua"
+        "como hacer un cuento",
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar el lugar y el tiempo de un cuento, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como bosque, castillo, playa, colegio, mañana, noche y verano, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como nudo, final, personaje, lugar, problema. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Aprendemos con ejemplos"
+          "text": "Ejemplos de como hacer un cuento para niños"
         },
         {
           "type": "paragraph",
-          "text": "Para aprender bien el lugar y el tiempo de un cuento, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar bosque, castillo, playa, colegio, mañana, noche y verano para observar cómo funciona el contenido dentro de una situación sencilla. El lugar dice dónde ocurre la historia y el tiempo ayuda a saber cuándo sucede. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como inicio, título, solución, problema, lugar. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
         },
         {
           "type": "heading",
@@ -305,292 +165,125 @@
         {
           "type": "list",
           "items": [
-            "Un cuento puede ocurrir en un bosque o en una ciudad.",
-            "La historia puede pasar de día o de noche.",
-            "El lugar ayuda a imaginar la escena.",
-            "El tiempo puede ser presente, pasado o imaginario."
+            "Aprender como hacer un cuento es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha: Lugar y tiempo en un cuento",
-          "description": "Actividades imprimibles para practicar el tema.",
-          "activities": [
-            {
-              "type": "chooseAnswer",
-              "title": "Lugar y tiempo",
-              "items": [
-                {
-                  "question": "¿Qué indica el lugar?",
-                  "options": [
-                    "dónde ocurre",
-                    "quién firma",
-                    "qué precio"
-                  ],
-                  "answer": "dónde ocurre"
-                },
-                {
-                  "question": "¿Qué indica el tiempo?",
-                  "options": [
-                    "cuándo sucede",
-                    "qué pesa",
-                    "qué borra"
-                  ],
-                  "answer": "cuándo sucede"
-                },
-                {
-                  "question": "¿Cuál puede ser un lugar?",
-                  "options": [
-                    "bosque",
-                    "ayer",
-                    "pronto"
-                  ],
-                  "answer": "bosque"
-                },
-                {
-                  "question": "¿Cuál puede ser un momento?",
-                  "options": [
-                    "noche",
-                    "castillo",
-                    "playa"
-                  ],
-                  "answer": "noche"
-                }
-              ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Intrusos del escenario",
-              "groups": [
-                {
-                  "items": [
-                    "bosque",
-                    "castillo",
-                    "playa",
-                    "cuchara"
-                  ],
-                  "answer": "cuchara"
-                },
-                {
-                  "items": [
-                    "mañana",
-                    "noche",
-                    "verano",
-                    "zapato"
-                  ],
-                  "answer": "zapato"
-                },
-                {
-                  "items": [
-                    "colegio",
-                    "casa",
-                    "cueva",
-                    "tenedor"
-                  ],
-                  "answer": "tenedor"
-                },
-                {
-                  "items": [
-                    "ayer",
-                    "hoy",
-                    "después",
-                    "pared"
-                  ],
-                  "answer": "pared"
-                }
-              ],
-              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une escenario y pista",
-              "left": [
-                "bosque",
-                "castillo",
-                "playa",
-                "colegio",
-                "noche"
-              ],
-              "right": [
-                "árboles",
-                "torres",
-                "arena",
-                "clase",
-                "oscuridad"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja el escenario",
-              "instruction": "Dibuja el lugar donde ocurrirá tu cuento y escribe cuándo pasa."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "problema-y-solucion-en-un-cuento",
-      "title": "Problema y solución en un cuento",
-      "excerpt": "Practica cómo crear un problema y una solución para tu cuento.",
-      "metaDescription": "Problema y solución en un cuento para primaria con actividades.",
-      "featuredImage": "/uploads/fichas-problema-y-solucion-en-un-cuento.webp",
-      "keywords": [
-        "cómo hacer un cuento",
-        "cuento primaria",
-        "escritura creativa",
-        "lengua"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar el problema y la solución en un cuento, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como objeto perdido, camino cerrado, lluvia, miedo, ayuda y final feliz, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Aprendemos con ejemplos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien el problema y la solución en un cuento, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar objeto perdido, camino cerrado, lluvia, miedo, ayuda y final feliz para observar cómo funciona el contenido dentro de una situación sencilla. El problema crea una dificultad y la solución muestra cómo los personajes la superan. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Sin problema, muchos cuentos serían muy cortos.",
-            "La solución puede llegar con ayuda o esfuerzo.",
-            "El problema debe entenderse con claridad.",
-            "Un buen final muestra qué cambió."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha: Problema y solución en un cuento",
-          "description": "Actividades imprimibles para practicar el tema.",
+          "id": "ejemplos-de-como-hacer-un-cuento-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre como hacer un cuento.",
           "activities": [
             {
               "type": "wordBankParagraph",
-              "title": "Completa problema y solución",
+              "title": "Completa el texto",
               "words": [
-                "llave",
-                "bosque",
-                "miedo",
-                "amigo",
-                "camino",
-                "final"
+                "nudo",
+                "final",
+                "personaje",
+                "lugar",
+                "problema",
+                "solución",
+                "título",
+                "inicio"
               ],
-              "text": "En el cuento se pierde una __________________ dentro del __________________. El protagonista siente __________________, pero encuentra un __________________ que le ayuda. Juntos descubren otro __________________ y llegan a un __________________ alegre.",
-              "instruction": "Lee el texto. Usa todas las palabras."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "fillBlanks",
-              "title": "Crea el conflicto",
-              "lines": [
-                "El problema del cuento es __________________.",
-                "El personaje necesita __________________.",
-                "Un amigo puede ofrecer __________________.",
-                "La solución aparece cuando __________________.",
-                "El final debe ser __________________."
-              ],
-              "instruction": "Completa cada frase con la palabra adecuada."
-            },
-            {
-              "type": "chooseWord",
-              "title": "Elige la solución",
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "sentence": "Objeto que se perdió.",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "llave",
-                    "silla",
+                    "nudo",
+                    "final",
                     "mesa",
-                    "vaso"
+                    "nube"
                   ],
-                  "answer": "llave"
+                  "answer": "nudo"
                 },
                 {
-                  "sentence": "Lugar con árboles.",
-                  "options": [
-                    "bosque",
-                    "playa",
-                    "cocina",
-                    "calle"
-                  ],
-                  "answer": "bosque"
-                },
-                {
-                  "sentence": "Persona que ayuda.",
-                  "options": [
-                    "amigo",
-                    "rueda",
-                    "puerta",
-                    "piedra"
-                  ],
-                  "answer": "amigo"
-                },
-                {
-                  "sentence": "Parte que cierra la historia.",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
                     "final",
-                    "inicio",
-                    "título",
-                    "fecha"
+                    "personaje",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "final"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "personaje",
+                    "lugar",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "personaje"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "lugar",
+                    "problema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "lugar"
                 }
               ],
-              "instruction": "Lee cada frase. Elige la palabra correcta."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
               "type": "textLines",
-              "title": "Copia ideas de conflicto",
+              "title": "Copia con buena letra",
               "lines": [
-                "La llave se perdió.",
-                "El camino estaba cerrado.",
-                "La lluvia empezó fuerte.",
-                "Un amigo llegó a ayudar.",
-                "El final fue alegre."
+                "Aprendo nudo en clase.",
+                "___________________________________________",
+                "Aprendo final en clase.",
+                "___________________________________________",
+                "Aprendo personaje en clase.",
+                "___________________________________________",
+                "Aprendo lugar en clase.",
+                "___________________________________________"
               ],
-              "instruction": "Copia estas ideas para cuentos."
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }
       ]
     },
     {
-      "slug": "escribir-y-revisar-un-cuento",
-      "title": "Escribir un cuento completo",
-      "excerpt": "Organiza tus ideas para escribir un cuento completo y claro.",
-      "metaDescription": "Escribir un cuento completo para primaria con lectura y actividades.",
-      "featuredImage": "/uploads/fichas-escribir-y-revisar-un-cuento.webp",
+      "slug": "vocabulario-de-como-hacer-un-cuento-en-primaria",
+      "title": "Vocabulario de como hacer un cuento en primaria",
+      "excerpt": "Ficha de como hacer un cuento para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Como hacer un cuento para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-como-hacer-un-cuento-en-primaria.webp",
       "keywords": [
-        "cómo hacer un cuento",
-        "cuento primaria",
-        "escritura creativa",
-        "lengua"
+        "como hacer un cuento",
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar la escritura de un cuento completo, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Lengua y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como título, inicio, personajes, problema, solución y final, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como final, personaje, lugar, problema, solución. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Aprendemos con ejemplos"
+          "text": "Vocabulario de como hacer un cuento en primaria"
         },
         {
           "type": "paragraph",
-          "text": "Para aprender bien la escritura de un cuento completo, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar título, inicio, personajes, problema, solución y final para observar cómo funciona el contenido dentro de una situación sencilla. Un cuento completo necesita ideas ordenadas y frases que se entiendan bien. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como nudo, inicio, título, solución, problema. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
         },
         {
           "type": "heading",
@@ -600,99 +293,352 @@
         {
           "type": "list",
           "items": [
-            "El título invita a leer la historia.",
-            "El inicio presenta personajes y lugar.",
-            "El desarrollo cuenta el problema.",
-            "El final explica cómo termina todo."
+            "Aprender como hacer un cuento es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha: Escribir un cuento completo",
-          "description": "Actividades imprimibles para practicar el tema.",
+          "id": "vocabulario-de-como-hacer-un-cuento-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre como hacer un cuento.",
           "activities": [
             {
-              "type": "readingComprehension",
-              "title": "El cuento de Mateo",
-              "text": "Mateo escribió un cuento titulado La mochila viajera. En el inicio presentó a una niña llamada Leo y explicó que vivía cerca del mar. Después contó el problema: la mochila de Leo desapareció antes de una excursión. En el desarrollo, Leo siguió unas huellas de arena hasta una caseta. Allí encontró la mochila y descubrió que su perro la había llevado. El final fue alegre porque todos llegaron a tiempo al autobús.",
-              "questions": [
-                "¿Cómo se titulaba el cuento?",
-                "¿Cómo se llamaba la niña?",
-                "¿Dónde vivía Leo?",
-                "¿Qué problema ocurrió?",
-                "¿Quién había llevado la mochila?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Ordena partes del cuento",
-              "left": [
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "final",
+                "personaje",
+                "lugar",
+                "problema",
+                "solución",
                 "título",
                 "inicio",
-                "problema",
-                "desarrollo",
-                "solución",
-                "final"
+                "nudo"
               ],
-              "right": [
-                "nombre del cuento",
-                "presenta",
-                "dificultad",
-                "acciones",
-                "arreglo",
-                "cierre"
-              ],
-              "instruction": "Une cada palabra con su pareja."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
               "type": "chooseAnswer",
-              "title": "Comprende el cuento",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "question": "¿Qué presenta el inicio?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "personajes y lugar",
-                    "solo números",
-                    "una lista"
+                    "final",
+                    "personaje",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "personajes y lugar"
+                  "answer": "final"
                 },
                 {
-                  "question": "¿Qué desapareció?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "mochila",
-                    "barco",
-                    "cuaderno"
+                    "personaje",
+                    "lugar",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "mochila"
+                  "answer": "personaje"
                 },
                 {
-                  "question": "¿Qué siguió Leo?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "huellas",
-                    "estrellas",
-                    "papeles"
+                    "lugar",
+                    "problema",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "huellas"
+                  "answer": "lugar"
                 },
                 {
-                  "question": "¿Cómo fue el final?",
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
                   "options": [
-                    "alegre",
-                    "triste",
-                    "confuso"
+                    "problema",
+                    "solución",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "alegre"
+                  "answer": "problema"
                 }
               ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
-              "type": "drawingBox",
-              "title": "Portada del cuento",
-              "instruction": "Dibuja una portada para un cuento llamado La mochila viajera."
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo final en clase.",
+                "___________________________________________",
+                "Aprendo personaje en clase.",
+                "___________________________________________",
+                "Aprendo lugar en clase.",
+                "___________________________________________",
+                "Aprendo problema en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-como-hacer-un-cuento-para-imprimir",
+      "title": "Actividades de como hacer un cuento para imprimir",
+      "excerpt": "Ficha de como hacer un cuento para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Como hacer un cuento para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-como-hacer-un-cuento-para-imprimir.webp",
+      "keywords": [
+        "como hacer un cuento",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como personaje, lugar, problema, solución, título. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de como hacer un cuento para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como final, nudo, inicio, título, solución. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender como hacer un cuento es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-como-hacer-un-cuento-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre como hacer un cuento.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "personaje",
+                "lugar",
+                "problema",
+                "solución",
+                "título",
+                "inicio",
+                "nudo",
+                "final"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "personaje",
+                    "lugar",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "personaje"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "lugar",
+                    "problema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "lugar"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "problema",
+                    "solución",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "problema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "solución",
+                    "título",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "solución"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo personaje en clase.",
+                "___________________________________________",
+                "Aprendo lugar en clase.",
+                "___________________________________________",
+                "Aprendo problema en clase.",
+                "___________________________________________",
+                "Aprendo solución en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-como-hacer-un-cuento-con-ficha",
+      "title": "Repaso de como hacer un cuento con ficha",
+      "excerpt": "Ficha de como hacer un cuento para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Como hacer un cuento para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-como-hacer-un-cuento-con-ficha.webp",
+      "keywords": [
+        "como hacer un cuento",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como lugar, problema, solución, título, inicio. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de como hacer un cuento con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Como hacer un cuento es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como personaje, final, nudo, inicio, título. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende como hacer un cuento."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender como hacer un cuento es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-como-hacer-un-cuento-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre como hacer un cuento.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "lugar",
+                "problema",
+                "solución",
+                "título",
+                "inicio",
+                "nudo",
+                "final",
+                "personaje"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "lugar",
+                    "problema",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "lugar"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "problema",
+                    "solución",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "problema"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "solución",
+                    "título",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "solución"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con como hacer un cuento?",
+                  "options": [
+                    "título",
+                    "inicio",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "título"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo lugar en clase.",
+                "___________________________________________",
+                "Aprendo problema en clase.",
+                "___________________________________________",
+                "Aprendo solución en clase.",
+                "___________________________________________",
+                "Aprendo título en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }

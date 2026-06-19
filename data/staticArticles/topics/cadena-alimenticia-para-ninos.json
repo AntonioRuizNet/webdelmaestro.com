@@ -5,30 +5,29 @@
   },
   "articles": [
     {
-      "slug": "cadena-alimenticia-para-ninos",
-      "title": "Cadena alimenticia para niños",
-      "excerpt": "Aprende qué es una cadena alimenticia con ejemplos sencillos.",
-      "metaDescription": "Cadena alimenticia para niños de primaria con fichas y actividades.",
-      "featuredImage": "/uploads/fichas-cadena-alimenticia-para-ninos.webp",
+      "slug": "cadena-alimenticia-para-ninos-explicacion-para-primaria",
+      "title": "Cadena alimenticia para niños: explicación para primaria",
+      "excerpt": "Ficha de cadena alimenticia para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cadena alimenticia para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-cadena-alimenticia-para-ninos-explicacion-para-primaria.webp",
       "keywords": [
-        "cadena alimenticia",
-        "cadena alimentaria niños",
-        "ciencias naturales",
-        "primaria"
+        "cadena alimenticia para niños",
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar la cadena alimenticia para niños, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Ciencias Naturales y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como sol, planta, saltamontes, rana, serpiente y águila, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como productor, consumidor, depredador, presa, planta. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Aprendemos con ejemplos"
+          "text": "Cadena alimenticia para niños: explicación para primaria"
         },
         {
           "type": "paragraph",
-          "text": "Para aprender bien la cadena alimenticia para niños, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar sol, planta, saltamontes, rana, serpiente y águila para observar cómo funciona el contenido dentro de una situación sencilla. Una cadena alimenticia muestra cómo la energía pasa de unos seres vivos a otros. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como carnívoro, herbívoro, sol, planta, presa. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
         },
         {
           "type": "heading",
@@ -38,661 +37,608 @@
         {
           "type": "list",
           "items": [
-            "Muchas cadenas empiezan con plantas.",
-            "Los animales herbívoros comen plantas.",
-            "Los carnívoros comen otros animales.",
-            "El sol ayuda a las plantas a crecer."
+            "Aprender cadena alimenticia para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha: Cadena alimenticia para niños",
-          "description": "Actividades imprimibles para practicar el tema.",
+          "id": "cadena-alimenticia-para-ninos-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cadena alimenticia para niños.",
           "activities": [
             {
               "type": "wordBankParagraph",
-              "title": "Completa la cadena",
+              "title": "Completa el texto",
               "words": [
-                "sol",
+                "productor",
+                "consumidor",
+                "depredador",
+                "presa",
                 "planta",
-                "saltamontes",
-                "rana",
-                "serpiente",
-                "águila"
+                "sol",
+                "herbívoro",
+                "carnívoro"
               ],
-              "text": "En una cadena alimenticia, el __________________ ayuda a la __________________. El __________________ come la planta. La __________________ come al saltamontes. La __________________ puede comer a la rana. El __________________ puede cazar a la serpiente.",
-              "instruction": "Lee el texto. Usa todas las palabras."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
               "type": "chooseAnswer",
-              "title": "Reconoce la cadena",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "question": "¿Qué ayuda a las plantas?",
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "productor",
+                    "consumidor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "productor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "consumidor",
+                    "depredador",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "consumidor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "depredador",
+                    "presa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "depredador"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "presa",
+                    "planta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "presa"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo productor en clase.",
+                "___________________________________________",
+                "Aprendo consumidor en clase.",
+                "___________________________________________",
+                "Aprendo depredador en clase.",
+                "___________________________________________",
+                "Aprendo presa en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ejemplos-de-cadena-alimenticia-para-ninos-para-ninos",
+      "title": "Ejemplos de cadena alimenticia para niños para niños",
+      "excerpt": "Ficha de cadena alimenticia para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cadena alimenticia para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-cadena-alimenticia-para-ninos-para-ninos.webp",
+      "keywords": [
+        "cadena alimenticia para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como consumidor, depredador, presa, planta, sol. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ejemplos de cadena alimenticia para niños para niños"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como productor, carnívoro, herbívoro, sol, planta. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cadena alimenticia para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "ejemplos-de-cadena-alimenticia-para-ninos-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cadena alimenticia para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "consumidor",
+                "depredador",
+                "presa",
+                "planta",
+                "sol",
+                "herbívoro",
+                "carnívoro",
+                "productor"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "consumidor",
+                    "depredador",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "consumidor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "depredador",
+                    "presa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "depredador"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "presa",
+                    "planta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "presa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "planta",
+                    "sol",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "planta"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo consumidor en clase.",
+                "___________________________________________",
+                "Aprendo depredador en clase.",
+                "___________________________________________",
+                "Aprendo presa en clase.",
+                "___________________________________________",
+                "Aprendo planta en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-cadena-alimenticia-para-ninos-en-primaria",
+      "title": "Vocabulario de cadena alimenticia para niños en primaria",
+      "excerpt": "Ficha de cadena alimenticia para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cadena alimenticia para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-cadena-alimenticia-para-ninos-en-primaria.webp",
+      "keywords": [
+        "cadena alimenticia para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como depredador, presa, planta, sol, herbívoro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de cadena alimenticia para niños en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como consumidor, productor, carnívoro, herbívoro, sol. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cadena alimenticia para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-cadena-alimenticia-para-ninos-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cadena alimenticia para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "depredador",
+                "presa",
+                "planta",
+                "sol",
+                "herbívoro",
+                "carnívoro",
+                "productor",
+                "consumidor"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "depredador",
+                    "presa",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "depredador"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "presa",
+                    "planta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "presa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "planta",
+                    "sol",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "planta"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
                   "options": [
                     "sol",
-                    "lápiz",
-                    "silla"
+                    "herbívoro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "sol"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo depredador en clase.",
+                "___________________________________________",
+                "Aprendo presa en clase.",
+                "___________________________________________",
+                "Aprendo planta en clase.",
+                "___________________________________________",
+                "Aprendo sol en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-cadena-alimenticia-para-ninos-para-imprimir",
+      "title": "Actividades de cadena alimenticia para niños para imprimir",
+      "excerpt": "Ficha de cadena alimenticia para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cadena alimenticia para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-cadena-alimenticia-para-ninos-para-imprimir.webp",
+      "keywords": [
+        "cadena alimenticia para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como presa, planta, sol, herbívoro, carnívoro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de cadena alimenticia para niños para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como depredador, consumidor, productor, carnívoro, herbívoro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cadena alimenticia para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-cadena-alimenticia-para-ninos-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cadena alimenticia para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "presa",
+                "planta",
+                "sol",
+                "herbívoro",
+                "carnívoro",
+                "productor",
+                "consumidor",
+                "depredador"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "presa",
+                    "planta",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "presa"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "planta",
+                    "sol",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "planta"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "sol",
+                    "herbívoro",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "sol"
                 },
                 {
-                  "question": "¿Qué come plantas?",
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
                   "options": [
                     "herbívoro",
-                    "cuaderno",
-                    "piedra"
+                    "carnívoro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "herbívoro"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo presa en clase.",
+                "___________________________________________",
+                "Aprendo planta en clase.",
+                "___________________________________________",
+                "Aprendo sol en clase.",
+                "___________________________________________",
+                "Aprendo herbívoro en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-cadena-alimenticia-para-ninos-con-ficha",
+      "title": "Repaso de cadena alimenticia para niños con ficha",
+      "excerpt": "Ficha de cadena alimenticia para niños para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Cadena alimenticia para niños para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-cadena-alimenticia-para-ninos-con-ficha.webp",
+      "keywords": [
+        "cadena alimenticia para niños",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como planta, sol, herbívoro, carnívoro, productor. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de cadena alimenticia para niños con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cadena alimenticia para niños es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como presa, depredador, consumidor, productor, carnívoro. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende cadena alimenticia para niños."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender cadena alimenticia para niños es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-cadena-alimenticia-para-ninos-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre cadena alimenticia para niños.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "planta",
+                "sol",
+                "herbívoro",
+                "carnívoro",
+                "productor",
+                "consumidor",
+                "depredador",
+                "presa"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "planta",
+                    "sol",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "planta"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "sol",
+                    "herbívoro",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "sol"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
+                  "options": [
+                    "herbívoro",
+                    "carnívoro",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "herbívoro"
                 },
                 {
-                  "question": "¿Qué come otros animales?",
+                  "question": "¿Qué palabra se relaciona mejor con cadena alimenticia para niños?",
                   "options": [
                     "carnívoro",
+                    "productor",
                     "mesa",
                     "nube"
                   ],
                   "answer": "carnívoro"
-                },
-                {
-                  "question": "¿Qué muestra una cadena?",
-                  "options": [
-                    "alimentación",
-                    "precio",
-                    "dirección"
-                  ],
-                  "answer": "alimentación"
                 }
               ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une ser vivo y papel",
-              "left": [
-                "sol",
-                "planta",
-                "saltamontes",
-                "rana",
-                "serpiente",
-                "águila"
-              ],
-              "right": [
-                "energía",
-                "productor",
-                "herbívoro",
-                "carnívoro pequeño",
-                "carnívoro",
-                "depredador"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja una cadena",
-              "instruction": "Dibuja sol, planta, saltamontes, rana, serpiente y águila con flechas."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "productores-en-la-cadena-alimenticia",
-      "title": "Productores en la cadena alimenticia",
-      "excerpt": "Descubre por qué las plantas son productoras en la cadena alimenticia.",
-      "metaDescription": "Productores en la cadena alimenticia para niños con actividades.",
-      "featuredImage": "/uploads/fichas-productores-en-la-cadena-alimenticia.webp",
-      "keywords": [
-        "cadena alimenticia",
-        "cadena alimentaria niños",
-        "ciencias naturales",
-        "primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar los productores en la cadena alimenticia, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Ciencias Naturales y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como hierba, árbol, alga, trigo, luz solar y agua, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Aprendemos con ejemplos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien los productores en la cadena alimenticia, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar hierba, árbol, alga, trigo, luz solar y agua para observar cómo funciona el contenido dentro de una situación sencilla. Los productores son seres vivos, como las plantas, que fabrican su propio alimento usando luz. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "La hierba es alimento para muchos herbívoros.",
-            "Las algas son productores en el agua.",
-            "Los árboles dan frutos y hojas.",
-            "El trigo es una planta importante para las personas."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha: Productores en la cadena alimenticia",
-          "description": "Actividades imprimibles para practicar el tema.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "La hierba del prado",
-              "text": "En un prado crece hierba verde gracias a la luz del sol y al agua de la lluvia. Un conejo come parte de esa hierba por la mañana. Más tarde, un zorro observa al conejo desde lejos. La maestra explica que la hierba es un productor porque fabrica su propio alimento. El conejo es consumidor porque se alimenta de plantas. Así comienza una cadena alimenticia sencilla.",
-              "questions": [
-                "¿Dónde crece la hierba?",
-                "¿Qué ayuda a crecer a la hierba?",
-                "¿Qué animal come hierba?",
-                "¿Qué animal observa al conejo?",
-                "¿Por qué la hierba es productor?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "chooseWord",
-              "title": "Elige productor",
-              "items": [
-                {
-                  "sentence": "Planta que cubre el prado.",
-                  "options": [
-                    "hierba",
-                    "zorro",
-                    "conejo",
-                    "piedra"
-                  ],
-                  "answer": "hierba"
-                },
-                {
-                  "sentence": "Planta grande con tronco.",
-                  "options": [
-                    "árbol",
-                    "lobo",
-                    "ratón",
-                    "águila"
-                  ],
-                  "answer": "árbol"
-                },
-                {
-                  "sentence": "Productor que vive en el agua.",
-                  "options": [
-                    "alga",
-                    "pez",
-                    "rana",
-                    "cangrejo"
-                  ],
-                  "answer": "alga"
-                },
-                {
-                  "sentence": "Planta usada para hacer pan.",
-                  "options": [
-                    "trigo",
-                    "gato",
-                    "búho",
-                    "serpiente"
-                  ],
-                  "answer": "trigo"
-                }
-              ],
-              "instruction": "Lee cada frase. Elige la palabra correcta."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa productores",
-              "lines": [
-                "La __________________ es un productor.",
-                "Las plantas necesitan luz del __________________.",
-                "El alga vive en el __________________.",
-                "El trigo sirve para hacer __________________.",
-                "Los productores fabrican su propio __________________."
-              ],
-              "instruction": "Completa cada frase con la palabra adecuada."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
               "type": "textLines",
-              "title": "Copia productores",
+              "title": "Copia con buena letra",
               "lines": [
-                "hierba",
-                "árbol",
-                "alga",
-                "trigo",
-                "planta",
-                "productor"
+                "Aprendo planta en clase.",
+                "___________________________________________",
+                "Aprendo sol en clase.",
+                "___________________________________________",
+                "Aprendo herbívoro en clase.",
+                "___________________________________________",
+                "Aprendo carnívoro en clase.",
+                "___________________________________________"
               ],
-              "instruction": "Copia estas palabras de ciencias."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "consumidores-herbivoros-y-carnivoros",
-      "title": "Consumidores: herbívoros y carnívoros",
-      "excerpt": "Aprende la diferencia entre animales herbívoros y carnívoros.",
-      "metaDescription": "Consumidores herbívoros y carnívoros para primaria con fichas.",
-      "featuredImage": "/uploads/fichas-consumidores-herbivoros-y-carnivoros.webp",
-      "keywords": [
-        "cadena alimenticia",
-        "cadena alimentaria niños",
-        "ciencias naturales",
-        "primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar los consumidores herbívoros y carnívoros, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Ciencias Naturales y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como conejo, ciervo, león, zorro, oruga y pájaro, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Aprendemos con ejemplos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien los consumidores herbívoros y carnívoros, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar conejo, ciervo, león, zorro, oruga y pájaro para observar cómo funciona el contenido dentro de una situación sencilla. Los consumidores no fabrican su alimento: lo obtienen comiendo plantas u otros animales. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Un herbívoro come plantas.",
-            "Un carnívoro come otros animales.",
-            "Un omnívoro puede comer plantas y animales.",
-            "Cada animal ocupa un lugar en la cadena."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha: Consumidores: herbívoros y carnívoros",
-          "description": "Actividades imprimibles para practicar el tema.",
-          "activities": [
-            {
-              "type": "chooseWord",
-              "title": "Elige consumidor",
-              "items": [
-                {
-                  "sentence": "Animal que come hierba.",
-                  "options": [
-                    "conejo",
-                    "roca",
-                    "árbol",
-                    "agua"
-                  ],
-                  "answer": "conejo"
-                },
-                {
-                  "sentence": "Animal carnívoro conocido.",
-                  "options": [
-                    "león",
-                    "trigo",
-                    "flor",
-                    "hoja"
-                  ],
-                  "answer": "león"
-                },
-                {
-                  "sentence": "Insecto que come hojas.",
-                  "options": [
-                    "oruga",
-                    "mesa",
-                    "silla",
-                    "nube"
-                  ],
-                  "answer": "oruga"
-                },
-                {
-                  "sentence": "Animal que puede cazar ratones.",
-                  "options": [
-                    "zorro",
-                    "alga",
-                    "pan",
-                    "sol"
-                  ],
-                  "answer": "zorro"
-                }
-              ],
-              "instruction": "Lee cada frase. Elige la palabra correcta."
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Intrusos de consumidores",
-              "groups": [
-                {
-                  "items": [
-                    "conejo",
-                    "ciervo",
-                    "oruga",
-                    "piedra"
-                  ],
-                  "answer": "piedra"
-                },
-                {
-                  "items": [
-                    "león",
-                    "zorro",
-                    "águila",
-                    "trigo"
-                  ],
-                  "answer": "trigo"
-                },
-                {
-                  "items": [
-                    "comer",
-                    "cazar",
-                    "masticar",
-                    "ventana"
-                  ],
-                  "answer": "ventana"
-                },
-                {
-                  "items": [
-                    "herbívoro",
-                    "carnívoro",
-                    "omnívoro",
-                    "cuaderno"
-                  ],
-                  "answer": "cuaderno"
-                }
-              ],
-              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une animal y tipo",
-              "left": [
-                "conejo",
-                "ciervo",
-                "león",
-                "zorro",
-                "oruga",
-                "águila"
-              ],
-              "right": [
-                "herbívoro",
-                "herbívoro",
-                "carnívoro",
-                "carnívoro",
-                "herbívoro",
-                "carnívoro"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja consumidores",
-              "instruction": "Dibuja un herbívoro y un carnívoro en su hábitat."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "descomponedores-en-la-cadena-alimenticia",
-      "title": "Descomponedores en la cadena alimenticia",
-      "excerpt": "Descubre cómo hongos y lombrices ayudan a la naturaleza.",
-      "metaDescription": "Descomponedores en la cadena alimenticia para niños de primaria.",
-      "featuredImage": "/uploads/fichas-descomponedores-en-la-cadena-alimenticia.webp",
-      "keywords": [
-        "cadena alimenticia",
-        "cadena alimentaria niños",
-        "ciencias naturales",
-        "primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar los descomponedores en la cadena alimenticia, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Ciencias Naturales y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como hongos, bacterias, lombrices, hojas secas, suelo y nutrientes, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Aprendemos con ejemplos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien los descomponedores en la cadena alimenticia, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar hongos, bacterias, lombrices, hojas secas, suelo y nutrientes para observar cómo funciona el contenido dentro de una situación sencilla. Los descomponedores transforman restos de seres vivos en nutrientes para el suelo. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Los hongos pueden crecer sobre restos de plantas.",
-            "Las lombrices ayudan a mover la tierra.",
-            "Los nutrientes vuelven al suelo.",
-            "Sin descomponedores habría muchos restos acumulados."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha: Descomponedores en la cadena alimenticia",
-          "description": "Actividades imprimibles para practicar el tema.",
-          "activities": [
-            {
-              "type": "wordBankParagraph",
-              "title": "Completa descomponedores",
-              "words": [
-                "hongos",
-                "bacterias",
-                "lombrices",
-                "hojas",
-                "suelo",
-                "nutrientes"
-              ],
-              "text": "Cuando caen __________________ secas, actúan __________________, __________________ y __________________. Ellos transforman restos en __________________ para la naturaleza. Así el __________________ mejora poco a poco y las plantas pueden crecer con más facilidad.",
-              "instruction": "Lee el texto. Usa todas las palabras."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa el ciclo",
-              "lines": [
-                "Los hongos son __________________.",
-                "Las lombrices ayudan al __________________.",
-                "Las hojas secas se transforman en __________________.",
-                "Los nutrientes vuelven a la __________________.",
-                "El suelo alimenta a nuevas __________________."
-              ],
-              "instruction": "Completa cada frase con la palabra adecuada."
-            },
-            {
-              "type": "chooseAnswer",
-              "title": "Comprende descomponedores",
-              "items": [
-                {
-                  "question": "¿Qué hacen los descomponedores?",
-                  "options": [
-                    "transforman restos",
-                    "pintan hojas",
-                    "cortan papel"
-                  ],
-                  "answer": "transforman restos"
-                },
-                {
-                  "question": "¿Qué animal ayuda al suelo?",
-                  "options": [
-                    "lombriz",
-                    "león",
-                    "águila"
-                  ],
-                  "answer": "lombriz"
-                },
-                {
-                  "question": "¿Qué vuelve al suelo?",
-                  "options": [
-                    "nutrientes",
-                    "zapatos",
-                    "libros"
-                  ],
-                  "answer": "nutrientes"
-                },
-                {
-                  "question": "¿Qué puede crecer sobre restos?",
-                  "options": [
-                    "hongo",
-                    "silla",
-                    "vaso"
-                  ],
-                  "answer": "hongo"
-                }
-              ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "textLines",
-              "title": "Copia palabras del suelo",
-              "lines": [
-                "hongos",
-                "bacterias",
-                "lombrices",
-                "hojas secas",
-                "nutrientes",
-                "suelo"
-              ],
-              "instruction": "Copia estas palabras."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "ejemplos-de-cadenas-alimenticias",
-      "title": "Ejemplos de cadenas alimenticias",
-      "excerpt": "Practica cadenas alimenticias de prado, bosque y agua.",
-      "metaDescription": "Ejemplos de cadenas alimenticias para primaria con actividades.",
-      "featuredImage": "/uploads/fichas-ejemplos-de-cadenas-alimenticias.webp",
-      "keywords": [
-        "cadena alimenticia",
-        "cadena alimentaria niños",
-        "ciencias naturales",
-        "primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a trabajar ejemplos de cadenas alimenticias, un contenido adecuado para alumnado de Educación Primaria. Este aprendizaje se relaciona con Ciencias Naturales y ayuda a leer, escribir, observar y explicar mejor las ideas. Usaremos ejemplos cercanos como hierba-conejo-zorro, alga-pez-garza y trigo-ratón-búho, porque los niños comprenden mejor cuando pueden imaginar situaciones reales. Aprender paso a paso permite reconocer palabras nuevas, ordenar la información y resolver actividades con seguridad. También ayuda a hablar en clase, completar fichas imprimibles y crear pequeños textos propios. El objetivo no es memorizar sin sentido, sino entender para qué sirve cada contenido y cómo se puede usar en la vida diaria. Por eso se proponen lecturas breves, ejercicios de completar, unión de columnas, preguntas sencillas y dibujos relacionados. Así cada niño puede practicar a su ritmo y reforzar la comprensión."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Aprendemos con ejemplos"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para aprender bien ejemplos de cadenas alimenticias, conviene empezar con una explicación clara y después practicar con ejemplos. Podemos usar hierba-conejo-zorro, alga-pez-garza y trigo-ratón-búho para observar cómo funciona el contenido dentro de una situación sencilla. Comparar cadenas alimenticias ayuda a ver que cada ecosistema tiene seres vivos relacionados. Cuando el alumnado lee una consigna, debe fijarse en las palabras importantes y pensar antes de escribir. También es útil copiar modelos correctos, completar frases con huecos largos, relacionar ideas y responder preguntas que aparecen en una lectura. Las actividades de dibujo permiten representar lo aprendido de forma visual y ayudan a recordar mejor. Cada ejercicio está pensado para niños de 6 a 9 años, con frases cortas y vocabulario comprensible. La práctica repetida mejora la atención, la expresión escrita y la confianza para explicar el tema con sus propias palabras."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "En un prado puede haber hierba, conejo y zorro.",
-            "En el agua puede haber algas, peces y garzas.",
-            "En un campo puede haber trigo, ratón y búho.",
-            "Las flechas muestran quién sirve de alimento a quién."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha: Ejemplos de cadenas alimenticias",
-          "description": "Actividades imprimibles para practicar el tema.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "Tres cadenas sencillas",
-              "text": "En clase, la maestra dibujó tres cadenas alimenticias. La primera era hierba, conejo y zorro. La segunda era alga, pez pequeño y garza. La tercera era trigo, ratón y búho. Los niños observaron que todas empezaban con una planta o un alga. Después añadieron flechas para mostrar quién servía de alimento a quién. Así entendieron que los seres vivos están relacionados.",
-              "questions": [
-                "¿Cuántas cadenas dibujó la maestra?",
-                "¿Qué animales aparecen en la primera cadena?",
-                "¿Qué ser vivo empieza la segunda cadena?",
-                "¿Qué animal termina la tercera cadena?",
-                "¿Para qué añadieron flechas?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une cadena y lugar",
-              "left": [
-                "hierba-conejo-zorro",
-                "alga-pez-garza",
-                "trigo-ratón-búho",
-                "hojas-oruga-pájaro"
-              ],
-              "right": [
-                "prado",
-                "agua",
-                "campo",
-                "jardín"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "chooseAnswer",
-              "title": "Elige cadena correcta",
-              "items": [
-                {
-                  "question": "¿Qué cadena empieza con hierba?",
-                  "options": [
-                    "hierba-conejo-zorro",
-                    "pez-alga-garza",
-                    "zorro-conejo-hierba"
-                  ],
-                  "answer": "hierba-conejo-zorro"
-                },
-                {
-                  "question": "¿Qué cadena es de agua?",
-                  "options": [
-                    "alga-pez-garza",
-                    "trigo-ratón-búho",
-                    "hojas-oruga-pájaro"
-                  ],
-                  "answer": "alga-pez-garza"
-                },
-                {
-                  "question": "¿Qué muestran las flechas?",
-                  "options": [
-                    "quién alimenta a quién",
-                    "el color",
-                    "el tamaño"
-                  ],
-                  "answer": "quién alimenta a quién"
-                },
-                {
-                  "question": "¿Qué cadena termina en búho?",
-                  "options": [
-                    "trigo-ratón-búho",
-                    "hierba-conejo-zorro",
-                    "alga-pez-garza"
-                  ],
-                  "answer": "trigo-ratón-búho"
-                }
-              ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja tres cadenas",
-              "instruction": "Dibuja una cadena de prado, otra de agua y otra de campo."
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }

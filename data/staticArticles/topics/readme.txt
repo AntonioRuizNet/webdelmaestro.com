@@ -1,5 +1,5 @@
 
-Topics: Cuales son los medios de comunicación, palabras agudas, colores en ingles, autobigrafia
+Topics: como hacer un cuento, cómo hacer un cómic, cadena alimenticia para niños
 Genera un zip descargable con todos los json dentro
 Asegurate que los artículos y sus actividades sean únicos
 Cumpla estrictamente todas las reglas avanzadas
@@ -268,21 +268,65 @@ Reglas:
 
 --------------------------------------------------
 
-9. textLines
+textLines
 
 Campos:
 
 {
-  "type": "textLines",
-  "title": "",
-  "lines": [],
-  "instruction": ""
+"type": "textLines",
+"title": "",
+"lines": [],
+"instruction": ""
 }
 
 Reglas:
 
-- 4 a 12 líneas.
-- Puede utilizarse para copia, escritura o ejercicios.
+Entre 4 y 12 líneas.
+Puede utilizarse para copia, escritura o ejercicios.
+Si la actividad es de copia, las frases deben ser cortas y apropiadas para Primaria.
+
+Si el campo "instruction" contiene expresiones como:
+
+"Copia las frases..."
+"Copia estas frases..."
+"Copia las oraciones..."
+"Escribe de nuevo las frases..."
+
+entonces en "lines" debe alternarse:
+
+Frase modelo.
+Línea para copiar.
+
+Ejemplo:
+
+"instruction": "Copia las frases con buena letra.",
+
+"lines": [
+"Gema comparte galletas.",
+"___________________________________________",
+
+"Gonzalo lleva una gorra.",
+"___________________________________________",
+
+"El gato mira el globo.",
+"___________________________________________",
+
+"La guitarra suena suave.",
+"___________________________________________",
+
+"Guardo palabras en mi cuaderno.",
+"___________________________________________"
+]
+
+Reglas adicionales:
+
+Cada frase debe ir seguida inmediatamente de su línea de copia.
+La línea de copia debe contener al menos 35 guiones bajos.
+Nunca agrupar todas las frases primero y todas las líneas después.
+Debe existir exactamente una línea de copia por cada frase.
+El número total de líneas debe ser siempre par cuando se trate de ejercicios de copia.
+Las frases deben estar relacionadas con el tema del artículo.
+Las frases deben ser comprensibles para alumnado de 6 a 9 años.
 
 ==================================================
 VALIDACIÓN FINAL

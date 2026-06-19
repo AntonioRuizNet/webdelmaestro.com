@@ -5,30 +5,29 @@
   },
   "articles": [
     {
-      "slug": "partes-principales-de-una-planta",
-      "title": "Partes principales de una planta para primaria",
-      "excerpt": "Aprende raíz, tallo, hojas, flores, frutos y semillas con fichas imprimibles.",
-      "metaDescription": "Partes principales de una planta para niños con explicación y actividades.",
-      "featuredImage": "/uploads/fichas-partes-principales-de-una-planta.webp",
+      "slug": "partes-de-una-planta-explicacion-para-primaria",
+      "title": "Partes de una planta: explicación para primaria",
+      "excerpt": "Ficha de partes de una planta para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Partes de una planta para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-partes-de-una-planta-explicacion-para-primaria.webp",
       "keywords": [
         "partes de una planta",
-        "raíz tallo hojas",
-        "ciencias naturales",
-        "primaria"
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a aprender sobre las partes principales de una planta, un contenido muy importante de Ciencias Naturales en Primaria. Las plantas son seres vivos: nacen, crecen, se alimentan, se reproducen y cambian con el paso del tiempo. Aunque muchas plantas parecen sencillas cuando las miramos desde fuera, tienen varias partes que trabajan juntas para que puedan vivir. Algunos ejemplos que vamos a utilizar son raíz, tallo, hojas, flores, frutos y semillas. Cada parte cumple una función: unas sujetan la planta, otras llevan agua, otras fabrican alimento y otras ayudan a formar nuevas plantas. Para entenderlo mejor, conviene observar plantas reales, comparar dibujos, leer textos cortos y completar actividades. Así no aprendemos solo nombres, sino también para qué sirve cada parte. Este aprendizaje ayuda a cuidar mejor las plantas del colegio, del jardín, del campo o de casa."
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja qué significa y cómo reconocerlo con ejemplos cercanos como raíz, tallo, hoja, flor, fruto. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Qué partes tiene una planta"
+          "text": "Partes de una planta: explicación para primaria"
         },
         {
           "type": "paragraph",
-          "text": "Cuando estudiamos las partes principales de una planta, podemos fijarnos en una planta completa y seguir un orden sencillo. Primero miramos la parte que está bajo la tierra, después el tallo que sube hacia arriba, luego las hojas y, en algunas plantas, las flores, los frutos y las semillas. Con ejemplos como una tomatera, una margarita, un árbol pequeño o una planta de lentejas, es más fácil comprender que una planta no es solo algo verde que decora un lugar. También es un ser vivo que necesita agua, luz, aire y un espacio adecuado para crecer. Las actividades de completar frases, unir columnas, elegir respuestas o dibujar permiten recordar las ideas principales. Además, escribir palabras como raíz, tallo, hoja, flor, fruto y semilla ayuda a usar vocabulario científico básico. Si observamos una maceta o un árbol cercano, veremos que lo aprendido en la ficha aparece en la vida real."
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de qué significa y cómo reconocerlo con ejemplos cercanos como sol, agua, semilla, fruto, flor. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
         },
         {
           "type": "heading",
@@ -38,556 +37,125 @@
         {
           "type": "list",
           "items": [
-            "No todas las plantas tienen flores visibles durante todo el año.",
-            "Algunas semillas son tan pequeñas que caben muchas en una mano.",
-            "Las raíces suelen estar escondidas bajo la tierra.",
-            "Un árbol también es una planta, aunque sea muy grande."
+            "Aprender partes de una planta es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha 1: planta completa",
-          "description": "Actividades sobre las partes principales.",
+          "id": "partes-de-una-planta-explicacion-para-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre partes de una planta.",
           "activities": [
             {
               "type": "wordBankParagraph",
-              "title": "Completa la planta",
+              "title": "Completa el texto",
               "words": [
                 "raíz",
                 "tallo",
-                "hojas",
+                "hoja",
                 "flor",
                 "fruto",
-                "semilla"
+                "semilla",
+                "agua",
+                "sol"
               ],
-              "text": "Una planta completa puede tener __________________, __________________ y __________________. Algunas plantas también tienen __________________, __________________ y __________________. Cada parte cumple una función. Todas juntas ayudan a que la planta viva, crezca y pueda formar nuevas plantas.",
-              "instruction": "Lee el texto. Usa todas las palabras."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
               "type": "chooseAnswer",
-              "title": "Elige la parte correcta",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "question": "¿Qué parte suele estar bajo la tierra?",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
                     "raíz",
-                    "flor",
-                    "fruto"
+                    "tallo",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "raíz"
                 },
                 {
-                  "question": "¿Qué parte sostiene hojas y flores?",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
                     "tallo",
-                    "semilla",
-                    "fruto"
+                    "hoja",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "tallo"
                 },
                 {
-                  "question": "¿Qué parte puede tener pétalos?",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
+                    "hoja",
                     "flor",
-                    "raíz",
-                    "tronco"
-                  ],
-                  "answer": "flor"
-                },
-                {
-                  "question": "¿Qué parte puede proteger semillas?",
-                  "options": [
-                    "fruto",
-                    "hoja",
-                    "tierra"
-                  ],
-                  "answer": "fruto"
-                }
-              ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Une parte y función",
-              "left": [
-                "raíz",
-                "tallo",
-                "hojas",
-                "flor",
-                "fruto",
-                "semilla"
-              ],
-              "right": [
-                "absorbe agua",
-                "sostiene",
-                "captan luz",
-                "forma frutos",
-                "protege semillas",
-                "origina una planta"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja una planta completa",
-              "instruction": "Dibuja una planta con raíz, tallo, hojas, flor, fruto y semilla."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "la-raiz-de-las-plantas",
-      "title": "La raíz de las plantas y sus funciones",
-      "excerpt": "Descubre para qué sirve la raíz y practica con actividades de primaria.",
-      "metaDescription": "La raíz de las plantas explicada para niños con fichas imprimibles.",
-      "featuredImage": "/uploads/fichas-la-raiz-de-las-plantas.webp",
-      "keywords": [
-        "raíz de la planta",
-        "partes de una planta",
-        "ciencias primaria",
-        "plantas"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a aprender sobre la raíz de las plantas, un contenido muy importante de Ciencias Naturales en Primaria. Las plantas son seres vivos: nacen, crecen, se alimentan, se reproducen y cambian con el paso del tiempo. Aunque muchas plantas parecen sencillas cuando las miramos desde fuera, tienen varias partes que trabajan juntas para que puedan vivir. Algunos ejemplos que vamos a utilizar son raíces finas, raíces gruesas, zanahorias, árboles y plantas en maceta. Cada parte cumple una función: unas sujetan la planta, otras llevan agua, otras fabrican alimento y otras ayudan a formar nuevas plantas. Para entenderlo mejor, conviene observar plantas reales, comparar dibujos, leer textos cortos y completar actividades. Así no aprendemos solo nombres, sino también para qué sirve cada parte. Este aprendizaje ayuda a cuidar mejor las plantas del colegio, del jardín, del campo o de casa."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Para qué sirve la raíz"
-        },
-        {
-          "type": "paragraph",
-          "text": "Cuando estudiamos la raíz de las plantas, podemos fijarnos en una planta completa y seguir un orden sencillo. Primero miramos la parte que está bajo la tierra, después el tallo que sube hacia arriba, luego las hojas y, en algunas plantas, las flores, los frutos y las semillas. Con ejemplos como la raíz de una zanahoria, las raíces de un árbol o las raíces pequeñas de una planta de clase, es más fácil comprender que una planta no es solo algo verde que decora un lugar. También es un ser vivo que necesita agua, luz, aire y un espacio adecuado para crecer. Las actividades de completar frases, unir columnas, elegir respuestas o dibujar permiten recordar las ideas principales. Además, escribir palabras como raíz, tallo, hoja, flor, fruto y semilla ayuda a usar vocabulario científico básico. Si observamos una maceta o un árbol cercano, veremos que lo aprendido en la ficha aparece en la vida real."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "La zanahoria es una raíz que muchas personas comen.",
-            "Algunas raíces crecen muy profundas para buscar agua.",
-            "Las raíces ayudan a que la planta no se caiga fácilmente.",
-            "Muchas raíces no se ven porque están bajo la tierra."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 2: la raíz",
-          "description": "Ejercicios sobre la raíz y su función.",
-          "activities": [
-            {
-              "type": "readingComprehension",
-              "title": "La maceta de Nora",
-              "text": "Nora plantó una semilla en una maceta pequeña. Durante varios días la regó con cuidado y la dejó cerca de una ventana. Primero no vio nada, pero bajo la tierra empezó a crecer una raíz fina. Esa raíz sujetó la planta y tomó agua del suelo. Después apareció un tallo verde. Nora comprendió que la raíz era muy importante aunque no pudiera verla desde fuera.",
-              "questions": [
-                "¿Dónde plantó Nora la semilla?",
-                "¿Qué hizo Nora durante varios días?",
-                "¿Qué parte creció primero bajo la tierra?",
-                "¿Qué tomó la raíz del suelo?",
-                "¿Qué apareció después de la raíz?"
-              ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Busca el intruso de la raíz",
-              "groups": [
-                {
-                  "items": [
-                    "raíz",
-                    "agua",
-                    "suelo",
-                    "pétalo"
-                  ],
-                  "answer": "pétalo"
-                },
-                {
-                  "items": [
-                    "absorber",
-                    "sujetar",
-                    "tierra",
-                    "mariposa"
-                  ],
-                  "answer": "mariposa"
-                },
-                {
-                  "items": [
-                    "zanahoria",
-                    "raíz",
-                    "maceta",
-                    "zapato"
-                  ],
-                  "answer": "zapato"
-                },
-                {
-                  "items": [
-                    "semilla",
-                    "brote",
-                    "raíz",
-                    "tenedor"
-                  ],
-                  "answer": "tenedor"
-                }
-              ],
-              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Completa sobre la raíz",
-              "lines": [
-                "La __________________ suele estar bajo la tierra.",
-                "La raíz absorbe __________________ del suelo.",
-                "La raíz ayuda a __________________ la planta.",
-                "Una zanahoria es una __________________ que se come.",
-                "Las raíces pueden ser finas o __________________."
-              ],
-              "instruction": "Completa cada frase con la palabra adecuada."
-            },
-            {
-              "type": "textLines",
-              "title": "Copia palabras de la raíz",
-              "lines": [
-                "raíz",
-                "suelo",
-                "agua",
-                "maceta",
-                "zanahoria",
-                "absorber"
-              ],
-              "instruction": "Copia las palabras con buena letra."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "el-tallo-de-las-plantas",
-      "title": "El tallo de las plantas explicado para niños",
-      "excerpt": "Aprende qué es el tallo, qué sostiene y cómo ayuda a la planta.",
-      "metaDescription": "El tallo de las plantas para primaria con explicación y actividades.",
-      "featuredImage": "/uploads/fichas-el-tallo-de-las-plantas.webp",
-      "keywords": [
-        "tallo de la planta",
-        "partes de una planta",
-        "ciencias naturales",
-        "primaria"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a aprender sobre el tallo de las plantas, un contenido muy importante de Ciencias Naturales en Primaria. Las plantas son seres vivos: nacen, crecen, se alimentan, se reproducen y cambian con el paso del tiempo. Aunque muchas plantas parecen sencillas cuando las miramos desde fuera, tienen varias partes que trabajan juntas para que puedan vivir. Algunos ejemplos que vamos a utilizar son tallos verdes, troncos, ramas, flores y hojas. Cada parte cumple una función: unas sujetan la planta, otras llevan agua, otras fabrican alimento y otras ayudan a formar nuevas plantas. Para entenderlo mejor, conviene observar plantas reales, comparar dibujos, leer textos cortos y completar actividades. Así no aprendemos solo nombres, sino también para qué sirve cada parte. Este aprendizaje ayuda a cuidar mejor las plantas del colegio, del jardín, del campo o de casa."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Qué hace el tallo"
-        },
-        {
-          "type": "paragraph",
-          "text": "Cuando estudiamos el tallo de las plantas, podemos fijarnos en una planta completa y seguir un orden sencillo. Primero miramos la parte que está bajo la tierra, después el tallo que sube hacia arriba, luego las hojas y, en algunas plantas, las flores, los frutos y las semillas. Con ejemplos como el tallo de una flor, el tronco de un árbol, las ramas de un rosal y una planta de tomate, es más fácil comprender que una planta no es solo algo verde que decora un lugar. También es un ser vivo que necesita agua, luz, aire y un espacio adecuado para crecer. Las actividades de completar frases, unir columnas, elegir respuestas o dibujar permiten recordar las ideas principales. Además, escribir palabras como raíz, tallo, hoja, flor, fruto y semilla ayuda a usar vocabulario científico básico. Si observamos una maceta o un árbol cercano, veremos que lo aprendido en la ficha aparece en la vida real."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "El tronco de un árbol es un tallo fuerte y grueso.",
-            "Algunos tallos son blandos y otros son duros.",
-            "El tallo ayuda a llevar agua hacia las hojas.",
-            "Las ramas salen del tallo o del tronco."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 3: el tallo",
-          "description": "Actividades sobre el tallo.",
-          "activities": [
-            {
-              "type": "chooseWord",
-              "title": "Elige la palabra del tallo",
-              "items": [
-                {
-                  "sentence": "Parte que sostiene las hojas.",
-                  "options": [
-                    "tallo",
-                    "raíz",
-                    "fruto",
-                    "semilla"
-                  ],
-                  "answer": "tallo"
-                },
-                {
-                  "sentence": "Tallo fuerte de un árbol.",
-                  "options": [
-                    "tronco",
-                    "pétalo",
-                    "arena",
-                    "flor"
-                  ],
-                  "answer": "tronco"
-                },
-                {
-                  "sentence": "Parte que puede salir del tronco.",
-                  "options": [
-                    "rama",
-                    "nube",
-                    "piedra",
-                    "vaso"
-                  ],
-                  "answer": "rama"
-                },
-                {
-                  "sentence": "El tallo lleva agua hacia las...",
-                  "options": [
-                    "hojas",
-                    "sillas",
-                    "ruedas",
-                    "mesas"
-                  ],
-                  "answer": "hojas"
-                }
-              ],
-              "instruction": "Lee cada frase. Elige la palabra correcta."
-            },
-            {
-              "type": "matchingColumns",
-              "title": "Relaciona tallos y ejemplos",
-              "left": [
-                "tallo verde",
-                "tronco",
-                "rama",
-                "rosal",
-                "tomatera"
-              ],
-              "right": [
-                "planta pequeña",
-                "árbol",
-                "sale del tronco",
-                "tiene tallos con espinas",
-                "sostiene tomates"
-              ],
-              "instruction": "Une cada palabra con su pareja."
-            },
-            {
-              "type": "fillBlanks",
-              "title": "Frases sobre el tallo",
-              "lines": [
-                "El __________________ sostiene hojas y flores.",
-                "El tronco es un tallo muy __________________.",
-                "Las ramas pueden salir del __________________.",
-                "El tallo ayuda a transportar __________________.",
-                "Una flor suele tener un tallo __________________."
-              ],
-              "instruction": "Completa cada frase con la palabra adecuada."
-            },
-            {
-              "type": "drawingBox",
-              "title": "Dibuja tallos diferentes",
-              "instruction": "Dibuja una flor con tallo fino y un árbol con tronco grueso."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "las-hojas-de-las-plantas",
-      "title": "Las hojas de las plantas y la luz",
-      "excerpt": "Aprende cómo son las hojas y por qué son importantes para la planta.",
-      "metaDescription": "Las hojas de las plantas para niños con explicación y actividades.",
-      "featuredImage": "/uploads/fichas-las-hojas-de-las-plantas.webp",
-      "keywords": [
-        "hojas de la planta",
-        "partes de una planta",
-        "plantas primaria",
-        "ciencias"
-      ],
-      "sections": [
-        {
-          "type": "paragraph",
-          "text": "En esta ficha vamos a aprender sobre las hojas de las plantas, un contenido muy importante de Ciencias Naturales en Primaria. Las plantas son seres vivos: nacen, crecen, se alimentan, se reproducen y cambian con el paso del tiempo. Aunque muchas plantas parecen sencillas cuando las miramos desde fuera, tienen varias partes que trabajan juntas para que puedan vivir. Algunos ejemplos que vamos a utilizar son hojas verdes, hojas grandes, hojas pequeñas, nervios y bordes. Cada parte cumple una función: unas sujetan la planta, otras llevan agua, otras fabrican alimento y otras ayudan a formar nuevas plantas. Para entenderlo mejor, conviene observar plantas reales, comparar dibujos, leer textos cortos y completar actividades. Así no aprendemos solo nombres, sino también para qué sirve cada parte. Este aprendizaje ayuda a cuidar mejor las plantas del colegio, del jardín, del campo o de casa."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Por qué son importantes las hojas"
-        },
-        {
-          "type": "paragraph",
-          "text": "Cuando estudiamos las hojas de las plantas, podemos fijarnos en una planta completa y seguir un orden sencillo. Primero miramos la parte que está bajo la tierra, después el tallo que sube hacia arriba, luego las hojas y, en algunas plantas, las flores, los frutos y las semillas. Con ejemplos como una hoja de limonero, una hoja de lechuga, una hoja seca de otoño y una hoja grande de una maceta, es más fácil comprender que una planta no es solo algo verde que decora un lugar. También es un ser vivo que necesita agua, luz, aire y un espacio adecuado para crecer. Las actividades de completar frases, unir columnas, elegir respuestas o dibujar permiten recordar las ideas principales. Además, escribir palabras como raíz, tallo, hoja, flor, fruto y semilla ayuda a usar vocabulario científico básico. Si observamos una maceta o un árbol cercano, veremos que lo aprendido en la ficha aparece en la vida real."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Curiosidades"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Muchas hojas son verdes por una sustancia llamada clorofila.",
-            "En otoño algunas hojas cambian de color antes de caer.",
-            "Las hojas pueden ser grandes, pequeñas, redondas o alargadas.",
-            "Algunas plantas guardan agua en hojas gruesas."
-          ]
-        }
-      ],
-      "worksheets": [
-        {
-          "title": "Ficha 4: las hojas",
-          "description": "Ejercicios sobre hojas y luz.",
-          "activities": [
-            {
-              "type": "wordBankParagraph",
-              "title": "Completa sobre las hojas",
-              "words": [
-                "hojas",
-                "luz",
-                "verde",
-                "nervios",
-                "agua",
-                "planta"
-              ],
-              "text": "Las __________________ ayudan a la __________________ a vivir. Muchas son de color __________________ y reciben la __________________ del sol. También tienen __________________ que parecen líneas pequeñas. Para estar sanas necesitan aire, luz y __________________.",
-              "instruction": "Lee el texto. Usa todas las palabras."
-            },
-            {
-              "type": "chooseAnswer",
-              "title": "Preguntas sobre hojas",
-              "items": [
-                {
-                  "question": "¿Qué parte capta luz del sol?",
-                  "options": [
-                    "hoja",
-                    "raíz",
-                    "fruto"
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "hoja"
                 },
                 {
-                  "question": "¿De qué color son muchas hojas?",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
-                    "verdes",
-                    "azules",
-                    "negras"
+                    "flor",
+                    "fruto",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "verdes"
-                },
-                {
-                  "question": "¿Qué parecen los nervios de una hoja?",
-                  "options": [
-                    "líneas",
-                    "ruedas",
-                    "puertas"
-                  ],
-                  "answer": "líneas"
-                },
-                {
-                  "question": "¿Qué necesitan las hojas?",
-                  "options": [
-                    "luz",
-                    "arena seca",
-                    "oscuridad"
-                  ],
-                  "answer": "luz"
+                  "answer": "flor"
                 }
               ],
-              "instruction": "Lee cada pregunta. Marca una respuesta."
-            },
-            {
-              "type": "oddOneOutGroups",
-              "title": "Palabras de hojas",
-              "groups": [
-                {
-                  "items": [
-                    "hoja",
-                    "verde",
-                    "nervio",
-                    "cuchara"
-                  ],
-                  "answer": "cuchara"
-                },
-                {
-                  "items": [
-                    "luz",
-                    "sol",
-                    "agua",
-                    "zapato"
-                  ],
-                  "answer": "zapato"
-                },
-                {
-                  "items": [
-                    "borde",
-                    "limbo",
-                    "hoja",
-                    "pelota"
-                  ],
-                  "answer": "pelota"
-                },
-                {
-                  "items": [
-                    "lechuga",
-                    "árbol",
-                    "maceta",
-                    "teléfono"
-                  ],
-                  "answer": "teléfono"
-                }
-              ],
-              "instruction": "Lee cada grupo. Rodea la palabra que no encaja."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
               "type": "textLines",
-              "title": "Copia frases de hojas",
+              "title": "Copia con buena letra",
               "lines": [
-                "Las hojas reciben luz.",
-                "Muchas hojas son verdes.",
-                "Las hojas tienen nervios.",
-                "Algunas hojas caen en otoño.",
-                "Las hojas ayudan a la planta."
+                "Aprendo raíz en clase.",
+                "___________________________________________",
+                "Aprendo tallo en clase.",
+                "___________________________________________",
+                "Aprendo hoja en clase.",
+                "___________________________________________",
+                "Aprendo flor en clase.",
+                "___________________________________________"
               ],
-              "instruction": "Copia las frases con cuidado."
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }
       ]
     },
     {
-      "slug": "flores-frutos-y-semillas",
-      "title": "Flores, frutos y semillas de las plantas",
-      "excerpt": "Comprende flores, frutos y semillas con lecturas y fichas de primaria.",
-      "metaDescription": "Flores, frutos y semillas explicados para primaria con actividades.",
-      "featuredImage": "/uploads/fichas-flores-frutos-y-semillas.webp",
+      "slug": "ejemplos-de-partes-de-una-planta-para-ninos",
+      "title": "Ejemplos de partes de una planta para niños",
+      "excerpt": "Ficha de partes de una planta para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Partes de una planta para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-ejemplos-de-partes-de-una-planta-para-ninos.webp",
       "keywords": [
-        "flores frutos semillas",
         "partes de una planta",
-        "ciencias primaria",
-        "plantas"
+        "primaria",
+        "fichas imprimibles"
       ],
       "sections": [
         {
           "type": "paragraph",
-          "text": "En esta ficha vamos a aprender sobre flores, frutos y semillas, un contenido muy importante de Ciencias Naturales en Primaria. Las plantas son seres vivos: nacen, crecen, se alimentan, se reproducen y cambian con el paso del tiempo. Aunque muchas plantas parecen sencillas cuando las miramos desde fuera, tienen varias partes que trabajan juntas para que puedan vivir. Algunos ejemplos que vamos a utilizar son margaritas, manzanas, tomates, pipas, judías y semillas de limón. Cada parte cumple una función: unas sujetan la planta, otras llevan agua, otras fabrican alimento y otras ayudan a formar nuevas plantas. Para entenderlo mejor, conviene observar plantas reales, comparar dibujos, leer textos cortos y completar actividades. Así no aprendemos solo nombres, sino también para qué sirve cada parte. Este aprendizaje ayuda a cuidar mejor las plantas del colegio, del jardín, del campo o de casa."
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja ejemplos básicos para comprenderlo con ejemplos cercanos como tallo, hoja, flor, fruto, semilla. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
         },
         {
           "type": "heading",
           "level": 2,
-          "text": "Cómo nacen nuevas plantas"
+          "text": "Ejemplos de partes de una planta para niños"
         },
         {
           "type": "paragraph",
-          "text": "Cuando estudiamos flores, frutos y semillas, podemos fijarnos en una planta completa y seguir un orden sencillo. Primero miramos la parte que está bajo la tierra, después el tallo que sube hacia arriba, luego las hojas y, en algunas plantas, las flores, los frutos y las semillas. Con ejemplos como una flor de margarita, una manzana con semillas, un tomate maduro y una judía que puede germinar, es más fácil comprender que una planta no es solo algo verde que decora un lugar. También es un ser vivo que necesita agua, luz, aire y un espacio adecuado para crecer. Las actividades de completar frases, unir columnas, elegir respuestas o dibujar permiten recordar las ideas principales. Además, escribir palabras como raíz, tallo, hoja, flor, fruto y semilla ayuda a usar vocabulario científico básico. Si observamos una maceta o un árbol cercano, veremos que lo aprendido en la ficha aparece en la vida real."
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de ejemplos básicos para comprenderlo con ejemplos cercanos como raíz, sol, agua, semilla, fruto. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
         },
         {
           "type": "heading",
@@ -597,103 +165,480 @@
         {
           "type": "list",
           "items": [
-            "Muchas frutas tienen semillas en su interior.",
-            "Algunas semillas viajan pegadas al pelo de los animales.",
-            "Las flores pueden atraer abejas y mariposas.",
-            "De una semilla puede nacer una planta nueva."
+            "Aprender partes de una planta es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
           ]
         }
       ],
       "worksheets": [
         {
-          "title": "Ficha 5: flores, frutos y semillas",
-          "description": "Comprensión y práctica sobre reproducción.",
+          "id": "ejemplos-de-partes-de-una-planta-para-ninos-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre partes de una planta.",
           "activities": [
             {
-              "type": "readingComprehension",
-              "title": "La semilla de Leo",
-              "text": "Leo comió una manzana en la merienda y encontró varias semillas pequeñas en el centro. Su maestra explicó que muchas frutas protegen semillas en su interior. Después, la clase observó una flor con pétalos amarillos y un tomate maduro. Leo dibujó la flor, el fruto y las semillas en su cuaderno. También aprendió que, con agua, luz y cuidado, algunas semillas pueden germinar y formar una planta nueva.",
-              "questions": [
-                "¿Qué fruta comió Leo?",
-                "¿Dónde encontró las semillas?",
-                "¿Qué protegían muchas frutas?",
-                "¿De qué color eran los pétalos de la flor?",
-                "¿Qué pueden formar algunas semillas?"
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "tallo",
+                "hoja",
+                "flor",
+                "fruto",
+                "semilla",
+                "agua",
+                "sol",
+                "raíz"
               ],
-              "instruction": "Lee el texto. Contesta con palabras sencillas."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "chooseWord",
-              "title": "Elige flor, fruto o semilla",
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
               "items": [
                 {
-                  "sentence": "Parte que puede tener pétalos.",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "tallo",
+                    "hoja",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "tallo"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "hoja",
+                    "flor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "hoja"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
                     "flor",
-                    "raíz",
-                    "tallo",
-                    "piedra"
+                    "fruto",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "flor"
                 },
                 {
-                  "sentence": "Parte que protege semillas.",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
                     "fruto",
-                    "hoja",
+                    "semilla",
                     "mesa",
-                    "agua"
+                    "nube"
+                  ],
+                  "answer": "fruto"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo tallo en clase.",
+                "___________________________________________",
+                "Aprendo hoja en clase.",
+                "___________________________________________",
+                "Aprendo flor en clase.",
+                "___________________________________________",
+                "Aprendo fruto en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vocabulario-de-partes-de-una-planta-en-primaria",
+      "title": "Vocabulario de partes de una planta en primaria",
+      "excerpt": "Ficha de partes de una planta para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Partes de una planta para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-vocabulario-de-partes-de-una-planta-en-primaria.webp",
+      "keywords": [
+        "partes de una planta",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja vocabulario útil para practicar con ejemplos cercanos como hoja, flor, fruto, semilla, agua. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vocabulario de partes de una planta en primaria"
+        },
+        {
+          "type": "paragraph",
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de vocabulario útil para practicar con ejemplos cercanos como tallo, raíz, sol, agua, semilla. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender partes de una planta es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "vocabulario-de-partes-de-una-planta-en-primaria-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre partes de una planta.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "hoja",
+                "flor",
+                "fruto",
+                "semilla",
+                "agua",
+                "sol",
+                "raíz",
+                "tallo"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "hoja",
+                    "flor",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "hoja"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "flor",
+                    "fruto",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "flor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "fruto",
+                    "semilla",
+                    "mesa",
+                    "nube"
                   ],
                   "answer": "fruto"
                 },
                 {
-                  "sentence": "Puede formar una planta nueva.",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
                     "semilla",
-                    "zapato",
-                    "rama",
+                    "agua",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "semilla"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo hoja en clase.",
+                "___________________________________________",
+                "Aprendo flor en clase.",
+                "___________________________________________",
+                "Aprendo fruto en clase.",
+                "___________________________________________",
+                "Aprendo semilla en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "actividades-de-partes-de-una-planta-para-imprimir",
+      "title": "Actividades de partes de una planta para imprimir",
+      "excerpt": "Ficha de partes de una planta para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Partes de una planta para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-actividades-de-partes-de-una-planta-para-imprimir.webp",
+      "keywords": [
+        "partes de una planta",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja actividades de lectura y escritura con ejemplos cercanos como flor, fruto, semilla, agua, sol. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Actividades de partes de una planta para imprimir"
+        },
+        {
+          "type": "paragraph",
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de actividades de lectura y escritura con ejemplos cercanos como hoja, tallo, raíz, sol, agua. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender partes de una planta es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "actividades-de-partes-de-una-planta-para-imprimir-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre partes de una planta.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
+                "flor",
+                "fruto",
+                "semilla",
+                "agua",
+                "sol",
+                "raíz",
+                "tallo",
+                "hoja"
+              ],
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
+            },
+            {
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "flor",
+                    "fruto",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "flor"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "fruto",
+                    "semilla",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "fruto"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "semilla",
+                    "agua",
+                    "mesa",
                     "nube"
                   ],
                   "answer": "semilla"
                 },
                 {
-                  "sentence": "Ejemplo de fruto con semillas.",
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
                   "options": [
-                    "manzana",
-                    "silla",
-                    "lápiz",
-                    "flor"
+                    "agua",
+                    "sol",
+                    "mesa",
+                    "nube"
                   ],
-                  "answer": "manzana"
+                  "answer": "agua"
                 }
               ],
-              "instruction": "Lee cada frase. Elige la palabra correcta."
+              "instruction": "Lee cada pregunta y elige una respuesta."
             },
             {
-              "type": "matchingColumns",
-              "title": "Une cada parte",
-              "left": [
-                "flor",
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo flor en clase.",
+                "___________________________________________",
+                "Aprendo fruto en clase.",
+                "___________________________________________",
+                "Aprendo semilla en clase.",
+                "___________________________________________",
+                "Aprendo agua en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "repaso-de-partes-de-una-planta-con-ficha",
+      "title": "Repaso de partes de una planta con ficha",
+      "excerpt": "Ficha de partes de una planta para primaria con explicación sencilla y actividades imprimibles.",
+      "metaDescription": "Partes de una planta para niños: explicación clara, ejemplos y fichas imprimibles para primaria.",
+      "featuredImage": "/uploads/fichas-repaso-de-partes-de-una-planta-con-ficha.webp",
+      "keywords": [
+        "partes de una planta",
+        "primaria",
+        "fichas imprimibles"
+      ],
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja repaso final con ejercicios con ejemplos cercanos como fruto, semilla, agua, sol, raíz. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Repaso de partes de una planta con ficha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Partes de una planta es un contenido importante en Educación Primaria porque ayuda a observar, leer, hablar y escribir mejor sobre el mundo que nos rodea. En esta ficha se trabaja la parte práctica de repaso final con ejercicios con ejemplos cercanos como flor, hoja, tallo, raíz, sol. Los niños pueden relacionar lo que aprenden con situaciones de clase, de casa y del patio, para que el aprendizaje no sea solo memorizar palabras. Primero conviene leer despacio, después buscar pistas en cada frase y por último completar las actividades con calma. Cuando una palabra o una idea no se entiende, se puede volver al texto y mirar el ejemplo. Este tipo de trabajo desarrolla la atención, el vocabulario, la comprensión lectora y la expresión escrita. También ayuda a ordenar la información: qué es, para qué sirve, dónde aparece y cómo se usa. Las actividades están pensadas para alumnado de 6 a 9 años, con instrucciones cortas y ejercicios que se pueden corregir fácilmente. Así, cada niño puede avanzar paso a paso y ganar seguridad mientras aprende partes de una planta."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curiosidades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aprender partes de una planta es más fácil cuando se usan ejemplos de la vida diaria.",
+            "Las palabras y dibujos ayudan a recordar mejor las ideas importantes.",
+            "Leer en voz alta puede mejorar la atención y la pronunciación.",
+            "Una ficha bien ordenada permite repasar sin prisas en casa o en clase."
+          ]
+        }
+      ],
+      "worksheets": [
+        {
+          "id": "repaso-de-partes-de-una-planta-con-ficha-ficha",
+          "title": "Ficha imprimible",
+          "description": "Actividades sencillas sobre partes de una planta.",
+          "activities": [
+            {
+              "type": "wordBankParagraph",
+              "title": "Completa el texto",
+              "words": [
                 "fruto",
                 "semilla",
-                "pétalo",
-                "manzana",
-                "judía"
+                "agua",
+                "sol",
+                "raíz",
+                "tallo",
+                "hoja",
+                "flor"
               ],
-              "right": [
-                "puede tener colores",
-                "protege semillas",
-                "puede germinar",
-                "parte de la flor",
-                "fruto conocido",
-                "semilla comestible"
-              ],
-              "instruction": "Une cada palabra con su pareja."
+              "text": "Hoy aprendemos sobre ________________. En clase leemos palabras como ________________ y ________________. Después usamos ________________ para completar una idea. También recordamos ________________ y ________________ con ejemplos sencillos.",
+              "instruction": "Completa los huecos con las palabras del banco."
             },
             {
-              "type": "drawingBox",
-              "title": "Dibuja el ciclo sencillo",
-              "instruction": "Dibuja una semilla, una planta pequeña, una flor y un fruto."
+              "type": "chooseAnswer",
+              "title": "Marca la respuesta correcta",
+              "items": [
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "fruto",
+                    "semilla",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "fruto"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "semilla",
+                    "agua",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "semilla"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "agua",
+                    "sol",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "agua"
+                },
+                {
+                  "question": "¿Qué palabra se relaciona mejor con partes de una planta?",
+                  "options": [
+                    "sol",
+                    "raíz",
+                    "mesa",
+                    "nube"
+                  ],
+                  "answer": "sol"
+                }
+              ],
+              "instruction": "Lee cada pregunta y elige una respuesta."
+            },
+            {
+              "type": "textLines",
+              "title": "Copia con buena letra",
+              "lines": [
+                "Aprendo fruto en clase.",
+                "___________________________________________",
+                "Aprendo semilla en clase.",
+                "___________________________________________",
+                "Aprendo agua en clase.",
+                "___________________________________________",
+                "Aprendo sol en clase.",
+                "___________________________________________"
+              ],
+              "instruction": "Copia las frases con buena letra."
             }
           ]
         }
