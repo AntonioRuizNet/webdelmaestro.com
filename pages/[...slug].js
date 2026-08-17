@@ -5,6 +5,7 @@ import CardList from "@/components/CardList";
 import StaticArticleRenderer from "@/components/StaticArticles/StaticArticleRenderer";
 import StaticTopicPage from "@/components/StaticArticles/StaticTopicPage";
 import { getSeasonalTerm } from "@/lib/functions";
+import BannerTablas from "@/components/BannerTablas";
 
 function serializeDate(value) {
   return value instanceof Date ? value.toISOString() : value || null;
@@ -57,6 +58,7 @@ export default function BlogPostPage({ post, staticTopic, canonicalUrl, trending
 
       <div className="container-2col">
         <article className="container-post">
+          <BannerTablas />
           {staticTopic ? (
             <StaticTopicPage topic={staticTopic} />
           ) : post.source === "static" ? (

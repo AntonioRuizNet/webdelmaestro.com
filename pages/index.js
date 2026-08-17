@@ -6,6 +6,7 @@ import Nav from "@/components/Nav";
 import { getSeasonalTerm } from "@/lib/functions";
 import { searchPosts } from "@/lib/db";
 import { getStaticTopicsForHome } from "@/data/staticArticles";
+import BannerTablas from "@/components/BannerTablas";
 
 export async function getStaticProps() {
   const seasonalTerm = getSeasonalTerm();
@@ -30,7 +31,7 @@ export async function getStaticProps() {
 
   const printableTopics = getStaticTopicsForHome({
     limit: 9,
-    articlesPerTopic: 4,
+    articlesPerTopic: 3,
     randomTopics: true,
     randomArticles: true,
   });
@@ -76,6 +77,7 @@ export default function Home({ printableTopics, trending, interesting }) {
       <div>
         <Nav />
         <main className="container">
+          <BannerTablas />
           <StaticTopicsHome topics={printableTopics} />
 
           <h1>Publicaciones en tendencia</h1>
