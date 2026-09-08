@@ -7,21 +7,24 @@ export default function BannerTablas() {
       target="_blank"
       rel="noopener noreferrer"
       className={styles.banner}
-      aria-label="Practica las tablas de multiplicar en tablasdemultiplicar.app"
+      aria-label="Aprende y enseña las tablas de multiplicar con tablasdemultiplicar.app"
     >
       <div className={styles.content}>
         <div className={styles.icon}>✖️</div>
 
         <div className={styles.text}>
-          <span className={styles.eyebrow}>Aprender jugando es más fácil</span>
+          <span className={styles.eyebrow}>Para maestros, familias y alumnos</span>
 
-          <strong className={styles.title}>¿Ya te sabes las tablas de multiplicar?</strong>
+          <strong className={styles.title}>Aprende y enseña las tablas de multiplicar</strong>
 
-          <span className={styles.description}>Practica gratis, consigue puntos, sube de nivel y compite en el ranking.</span>
+          <span className={styles.description}>
+            Practica gratis, consigue puntos y sube de nivel. Los maestros pueden crear aulas y pruebas, y seguir el progreso de
+            sus alumnos.
+          </span>
         </div>
 
         <span className={styles.button}>
-          Practicar ahora
+          Empezar gratis
           <span aria-hidden="true">→</span>
         </span>
       </div>
