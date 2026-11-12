@@ -18,4 +18,5 @@ COPY --from=build /app/.next ./.next
 COPY --from=build /app/public ./public
 COPY --from=build /app/prisma ./prisma
 EXPOSE 3000
+COPY --from=build /app/container-ready.cjs ./container-ready.cjs
 CMD ["npm", "start"]
