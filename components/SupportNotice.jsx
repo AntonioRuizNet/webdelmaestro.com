@@ -43,7 +43,7 @@ export default function SupportNotice() {
     <aside className={styles.notice} aria-labelledby="support-title">
       <button type="button" className={styles.close} onClick={close} aria-label="Cerrar aviso">×</button>
       <h2 id="support-title">❤️ ¿Te gusta Web del Maestro?</h2>
-      <p>Soy Antonio Ruiz, el desarrollador de esta web. Si has utilizado mis servicios de desarrollo web, puedes compartir tu opinión en Google. ¡Gracias por tu apoyo!</p>
+      <p>Soy Antonio Ruiz, desarrollador de Web del Maestro. Tu apoyo me ayuda a seguir desarrollando y mejorando esta web. Puedes compartir tu opinión en Google. ¡Gracias por tu apoyo!</p>
       <a className={styles.primary} href="https://g.page/r/CTLpjEwqu-1dEBM/review" target="_blank" rel="noopener noreferrer" onClick={review}>Enviar mi opinión</a>
     </aside>
   );
