@@ -12,3 +12,7 @@ SAAS_IA_API_KEY=...
 ```
 
 El endpoint es `POST /api/recommendations`. Limita los mensajes a 700 caracteres, aplica una cuota en memoria por IP y devuelve tarjetas resueltas desde el catálogo local; cualquier `resourceId` ajeno a esa lista se descarta. Las fichas estáticas generan su PDF en la página de ficha, por lo que el asistente no muestra un enlace de descarga hasta que exista una URL de descarga real y persistente.
+
+## Aviso de apoyo y opiniones
+
+El formulario envía las opiniones mediante la configuración SMTP existente (`SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` y `EMAIL_FROM`). Configura `FEEDBACK_EMAIL_TO` en el servidor para elegir el buzón destinatario; si no se define, se usa `SMTP_USER`. Comprueba que ese usuario sea una dirección de correo válida y que el servidor permita el envío. La API limita los intentos en memoria por dirección de conexión; este límite es independiente en cada instancia.

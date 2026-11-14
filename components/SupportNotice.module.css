@@ -1,0 +1,17 @@
+.notice { position: fixed; right: 24px; bottom: 88px; z-index: 240; width: min(390px, calc(100vw - 24px)); max-height: min(70dvh, 600px); overflow-y: auto; padding: 22px; background: #fff; border: 1px solid #d9e7e3; border-radius: 18px; box-shadow: 0 12px 38px rgba(18, 60, 50, .16); color: #273b36; animation: appear .3s ease-out; }
+.notice h2 { margin: 0 28px 10px 0; color: #1e1e1e; font-size: 1.08rem; line-height: 1.35; }
+.notice p { margin: 0 0 15px; font-size: .88rem; line-height: 1.55; }
+.close { position: absolute; top: 12px; right: 14px; border: 0; background: transparent; color: #52625e; font-size: 1.7rem; line-height: 1; cursor: pointer; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 9px 12px; }
+.actions button { border-radius: 9px; padding: 9px 12px; font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; }
+.primary { color: white; background: #387c6c; border: 1px solid #387c6c; }
+.secondary { color: #276d5d; background: #fff; border: 1px solid #badbd1; }
+.actions a { color: #276d5d; font-size: .82rem; font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
+.review { border-top: 1px solid #e5eeeb; margin-top: 15px; padding-top: 12px; line-height: 1.35; }
+.review a { color: #586b65; font-size: .72rem; text-decoration: underline; text-underline-offset: 2px; }
+.form { display: grid; gap: 10px; }.form label { font-size: .86rem; font-weight: 700; }.form textarea { width: 100%; resize: vertical; padding: 10px; border: 1px solid #aac7be; border-radius: 8px; font: inherit; }.form button:disabled { opacity: .65; }
+.notice .status { margin: 12px 0 0; color: #276d5d; overflow-wrap: anywhere; }
+.notice :focus-visible { outline: 3px solid #e7a923; outline-offset: 3px; }
+@keyframes appear { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+@media (max-width: 600px) { .notice { right: 12px; bottom: 76px; padding: 17px; max-height: 55dvh; } }
+@media (prefers-reduced-motion: reduce) { .notice { animation: none; } }

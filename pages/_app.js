@@ -7,6 +7,7 @@ import Head from "next/head";
 import Script from "next/script";
 import Footer from "@/components/Footer";
 import ArticleRecommender from "@/components/ArticleRecommender";
+import SupportNotice from "@/components/SupportNotice";
 
 export default function App({ Component, pageProps: { session, ...pageProps } }) {
   return (
@@ -35,7 +36,9 @@ export default function App({ Component, pageProps: { session, ...pageProps } })
         <Component {...pageProps} />
         <Footer />
         <ArticleRecommender />
+        <SupportNotice />
       </div>
     </Provider>
   );
 }
+
